@@ -2,10 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './NavBar.css';
 
-const buttonInicio = () => {
-
-};
-
 function Navbar() {
   return (
     <div className='nav-bar'>
