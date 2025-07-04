@@ -3,14 +3,17 @@ import Navbar from './Components/NavBar/NavBar';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 
-// imports all components necessary
+import MainPage from './Components/MainPage/MainPage';
 
 function App() {
   return (
     <Router>
       <Navbar></Navbar>
       <Routes>
-        {/* <Route path='/' element={} /> */}
+        <Route path='/' element={<MainPage />} />
+        {/* <Route path='/relojesz&l' element={ relojes aqui } /> */}
+        {/* <Route path='/ropaz&l' element={ ropa aqui } /> */}
+        {/* <Route path='/contactoz&l' element={ contacto aqui } /> */}
       </Routes>
     </Router>
   );
