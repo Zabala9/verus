@@ -1,5 +1,10 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './NavBar.css';
+
+const buttonInicio = () => {
+
+};
 
 function Navbar() {
   return (
@@ -9,10 +14,10 @@ function Navbar() {
         <span id='label-name'>VERUS Z&L</span>
       </div>
       <div className='container-opciones'>
-        <span id='label-inicio'>INICIO</span>
-        <span id='label-relojes'>RELOJES</span>
-        <span id='label-ropa'>ROPA</span>
-        <span id='label-contacto'>CONTACTO</span>
+        <Link to='/' id='label-inicio'>INICIO</Link>
+        <Link to='/relojes' id='label-relojes'>RELOJES</Link>
+        <Link to='/ropa' id='label-ropa'>ROPA</Link>
+        <Link to='/contacto' id='label-contacto'>CONTACTO</Link>
       </div>
     </div>
   );
