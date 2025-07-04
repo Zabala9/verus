@@ -7,7 +7,7 @@ label{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 #label-introduction{
@@ -26,8 +26,11 @@ label{
     border: 1px solid black;
     border-radius: 5px;
     font-size: 15px;
-    padding: 5px 13px;
+    padding: 10px 15px;
     margin-top: 30px;
+    font-weight: 550;
+    text-decoration: none;
+    color: black;
 }
 
 .container-imagenes-main-page{

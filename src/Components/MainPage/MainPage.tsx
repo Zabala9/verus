@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './MainPage.css';
 
 function MainPage() {
@@ -6,7 +7,7 @@ function MainPage() {
     return (
         <div className='container-main-page'>
             <label id='label-introduction'>Descubre nuestra ultima colección</label>
-            <button id='button-explorar'>EXPLORAR AHORA</button>
+            <Link to='/catalogo' id='button-explorar'>EXPLORAR AHORA</Link>
 
             <div className='container-imagenes-main-page'>
                 <img src='https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+mille.JPG' alt='' ></img>
