@@ -7,16 +7,18 @@
     padding: 8px;
 }
 
-/* #label-test{
-    color: white;
-} */
+.container-name{
+    width: 60%;
+}
 
-#label-name, #label-inicio, #label-relojes,
+#label-inicio, #label-relojes,
 #label-ropa, #label-contacto{
     color: white;
+    font-size: 13px;
 }
 
 #label-name{
+    color: white;
     margin-left: 20px;
     font-weight: bold;
     font-size: 30px;
@@ -27,5 +29,5 @@
     justify-content: space-evenly;
     background-color: green;
     width: 60%;
-    margin-left: 30px;
+    /* margin-left: 30px; */
 }
