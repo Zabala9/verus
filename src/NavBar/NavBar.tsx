@@ -5,8 +5,8 @@ function Navbar() {
   return (
     <div className='nav-bar'>
       {/* <span id='label-test'>test</span> */}
-      <div>
-        <span id='label-name'>VERUS</span>
+      <div className='container-name'>
+        <span id='label-name'>VERUS Z&L</span>
       </div>
       <div className='container-opciones'>
         <span id='label-inicio'>INICIO</span>
