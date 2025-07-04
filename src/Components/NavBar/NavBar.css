@@ -9,18 +9,20 @@
 
 .container-name{
     width: 60%;
+    text-align: center;
+    /* background-color: green; */
 }
 
 #label-inicio, #label-relojes,
 #label-ropa, #label-contacto{
-    color: white;
+    color: rgb(238, 238, 224);
     font-size: 13px;
     text-decoration: none;
 }
 
 #label-name{
-    color: white;
-    margin-left: 20px;
+    color: rgb(238, 238, 224);
+    /* margin-left: 20px; */
     font-weight: bold;
     font-size: 30px;
     text-decoration: none;
