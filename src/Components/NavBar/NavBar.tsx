@@ -11,10 +11,10 @@ function Navbar() {
     <div className='nav-bar'>
       {/* <span id='label-test'>test</span> */}
       <div className='container-name'>
-        <span id='label-name'>VERUS Z&L</span>
+        <Link to='/' id='label-name'>VERUS Z&L</Link>
       </div>
       <div className='container-opciones'>
-        <Link to='/' id='label-inicio'>INICIO</Link>
+        {/* <Link to='/' id='label-inicio'>INICIO</Link> */}
         <Link to='/relojes' id='label-relojes'>RELOJES</Link>
         <Link to='/ropa' id='label-ropa'>ROPA</Link>
         <Link to='/contacto' id='label-contacto'>CONTACTO</Link>
