@@ -1,3 +1,28 @@
-body{
+html, body{
+    margin: 0;
+    padding: 0;
     background-color: black;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+#root{
+    flex: 1;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#label-copy, #label-derechos{
+    font-style: italic;
+    font-size: 10px;
+}
+
+#label-derechos{
+    margin-bottom: 10px;
 }
