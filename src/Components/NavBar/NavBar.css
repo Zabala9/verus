@@ -15,6 +15,7 @@
 #label-ropa, #label-contacto{
     color: white;
     font-size: 13px;
+    text-decoration: none;
 }
 
 #label-name{
