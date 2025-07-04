@@ -27,7 +27,7 @@
 .container-opciones{
     display: flex;
     justify-content: space-evenly;
-    background-color: green;
+    /* background-color: green; */
     width: 60%;
     /* margin-left: 30px; */
 }
