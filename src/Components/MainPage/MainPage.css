@@ -40,6 +40,7 @@ label{
     flex-wrap: wrap;
     margin-top: 2rem;
     padding: 5px;
+    text-align: center;
     /* background-color: green; */
     /* width: 75%; */
 }
@@ -49,9 +50,26 @@ label{
     border: none;
 } */
 
-.container-imagenes-main-page img {
+.product-card{
+    display: flex;
+    flex-direction: column;
+    /* background-color: green; */
+}
+
+#img-product-card {
     width: 150px;
+    /* height: 100px; */
     height: auto;
     object-fit: cover;
     border-radius: 5px;
+    background-color: green;
+}
+
+#product-name-main{
+    color: rgb(238, 238, 224);
+    font-weight: bold;
+    word-wrap: break-word;
+    /* background-color: green; */
+    /* height: 50px; */
+    /* max-width: 100px; */
 }
