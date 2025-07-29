@@ -7,7 +7,7 @@ function Navbar() {
     <div className='nav-bar'>
       {/* <span id='label-test'>test</span> */}
       <div className='container-name'>
-        <Link to='/' id='label-name'>VERUS Z&L</Link>
+        <Link to='/' id='label-name'>VERUS</Link>
       </div>
       <div className='container-opciones'>
         {/* <Link to='/' id='label-inicio'>INICIO</Link> */}
