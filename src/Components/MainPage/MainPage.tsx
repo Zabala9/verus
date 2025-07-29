@@ -1,65 +1,38 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Product } from '../../Types/Products';
+import { LastCollection } from '../../Types/LastCollection';
 import './MainPage.css';
 
 function MainPage() {
-    const [groupedProducts, setGroupedProducts] = useState<Record<string, Product[]>[]>([]);
-    const [visibleProducts, setVisibleProducts] = useState<Product[]>([]);
-    const [loadCount, setLoadCount] = useState(0);
     const chunkSize = 6;
+    const [visibleProducts, setVisibleProducts] = useState<Product[]>([]);
+    const [loadCount, setLoadCount] = useState<number>(chunkSize);
 
-    // fetching products.json
     useEffect(() => {
-        fetch('/products.json')
-            .then((res) => res.json())
-            .then((data) => {
-                setGroupedProducts(data);
-
-                // first flatten for display
-                const initialList = data.flatMap((group: Record<string, Product[]>) => {
-                    const brand = Object.keys(group)[0];
-                    return group[brand].map(product => ({
-                    ...product,
-                    brand, // add brand as a new field
-                    }));
-                });
-
-                setVisibleProducts(initialList.slice(0, chunkSize));
-                setLoadCount(chunkSize);
-            })
-            .catch(err => console.error('Error loading products: ', err));
-    }, []);
+        setVisibleProducts(LastCollection.slice(0, chunkSize));
+    }, [])
 
     // loading more products when scrolling down
     useEffect(() => {
         const handleScroll = () => {
             const scrolledToBottom = window.innerHeight + window.scrollY >= document.body.offsetHeight - 100;
 
-            if (scrolledToBottom) {
-                const allProducts = groupedProducts.flatMap(group => {
-                    const brand = Object.keys(group)[0];
-                    return group[brand];
-                });
-
-                if (loadCount < allProducts.length) {
-                    const moreItems = allProducts.slice(loadCount, loadCount + chunkSize);
-                    setVisibleProducts(prev => [...prev, ...moreItems]);
-                    setLoadCount(prev => prev + chunkSize);
-                }
+            if (scrolledToBottom && loadCount < LastCollection.length) {
+                const nextProducts = LastCollection.slice(loadCount, loadCount + chunkSize);
+                setVisibleProducts(prev => [...prev, ...nextProducts]);
+                setLoadCount(prev => prev + chunkSize);
             }
         };
 
         window.addEventListener('scroll', handleScroll);
         return () => window.removeEventListener('scroll', handleScroll);
-    }, [loadCount, groupedProducts]);
-
-    console.log(visibleProducts, 'here');
+    }, [loadCount]);
 
     return (
         <div className='container-main-page'>
             <label id='label-introduction'>Descubre nuestra ultima colección</label>
-            <Link to='/relojesz&l' id='button-explorar'>EXPLORAR AHORA</Link>
+            <Link to='/relojes' id='button-explorar'>EXPLORAR AHORA</Link>
             {/* en el futuro cambiar link para catalogo (ver todo) */}
 
             <div className='container-imagenes-main-page'>
