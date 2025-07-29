@@ -78,17 +78,3 @@ function MainPage() {
 };
 
 export default MainPage;
-
-
-{/* <img src='https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+mille.JPG' alt='' ></img>
-                <img src='https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+4.JPG' alt=''></img>
-                <img src='https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona.JPG' alt=''></img>
-                <img src='https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+5.JPG' alt='' ></img>
-                <img src='https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+5.JPG' alt='' ></img>
-                <img src='https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+5.JPG' alt='' ></img>
-                <img src='https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+5.JPG' alt='' ></img>
-                <img src='https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+5.JPG' alt='' ></img>
-                <img src='https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+5.JPG' alt='' ></img>
-                <img src='https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+5.JPG' alt='' ></img>
-                <img src='https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+5.JPG' alt='' ></img>
-                <img src='https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+5.JPG' alt='' ></img> */}
