@@ -19,10 +19,12 @@ label{
     /* background-color: green; */
     width: 80%;
     color: rgb(238, 238, 224);
+    /* color: rgb(241, 178, 96); */
 }
 
 #button-explorar{
     background-color: rgb(238, 238, 224);
+    /* background-color: rgb(241, 178, 96); */
     border: 1px solid black;
     border-radius: 5px;
     font-size: 15px;
@@ -66,7 +68,8 @@ label{
 }
 
 #product-name-main{
-    color: rgb(238, 238, 224);
+    /* color: rgb(238, 238, 224); */
+    color: rgb(241, 178, 96);
     font-weight: bold;
     word-wrap: break-word;
     /* background-color: green; */
