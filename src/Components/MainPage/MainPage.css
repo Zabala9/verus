@@ -35,6 +35,20 @@ label{
     color: black;
 }
 
+#button-ver-mas{
+    background-color: rgb(238, 238, 224);
+    /* background-color: rgb(241, 178, 96); */
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px 15px;
+    margin-top: 30px;
+    font-weight: 550;
+    text-decoration: none;
+    color: black;
+    margin-bottom: 30px;
+}
+
 .container-imagenes-main-page{
     display: flex;
     justify-content: center;

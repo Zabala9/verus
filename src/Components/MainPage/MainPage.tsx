@@ -46,6 +46,8 @@ function MainPage() {
                     </div>
                 ))}
             </div>
+
+            <Link to='/relojes' id='button-ver-mas'>VER MAS</Link>
         </div>
     )
 };
