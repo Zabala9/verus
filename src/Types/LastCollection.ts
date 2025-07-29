@@ -188,4 +188,13 @@ export const LastCollection = [
         "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+mille+2.JPG",
         "price": 85000
     },
+    {
+        "id": "SNT103",
+        "name": "Saint",
+        "color": "Plateado con bisel de color negro",
+        "description": "Un reloj versátil con estética deportiva y tecnología dual que combina visualización análoga y digital. Ideal para quienes buscan funcionalidad sin perder estilo.",
+        "presentacion":"Incluye caja de presentación",
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+3.JPG",
+        "price": 95000
+    }
 ];
