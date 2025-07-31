@@ -22,3 +22,7 @@
     height: 180px;
     width: 180px;
 }
+
+#label-whatsapp, #label-instragram{
+    font-weight: bold;
+}
