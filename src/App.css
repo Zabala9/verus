@@ -7,6 +7,12 @@ html, body{
     min-height: 100vh;
 }
 
+a, a:visited{
+    text-decoration: none;
+    /* color: white; */
+    color: rgb(241, 178, 96);
+}
+
 #root{
     flex: 1;
 }
