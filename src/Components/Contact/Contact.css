@@ -1,0 +1,24 @@
+.container-contact{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    margin-top: 50px;
+    text-align: center;
+    /* background-color: green; */
+}
+
+#label-canales{
+    color: white;
+}
+
+#link-to-instagram, #link-to-whatsapp{
+    display: flex;
+    flex-direction: column;
+}
+
+#logo-instagram, #logo-whatsapp{
+    margin-top: 50px;
+    height: 180px;
+    width: 180px;
+}
