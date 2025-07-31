@@ -18,12 +18,12 @@ export const LastCollection = [
         "price": 65000
     },
     {
-        "id": "CG102",
-        "name": "Cartier",
-        "color": "Correa y carátula azul con caja plateada y bisel dorado rosa",
-        "description": "La elegancia clásica se fusiona con un toque deportivo en este Cartier Santos con correa de goma. Su icónica caja cuadrada acompañada de una carátula refinada con números romanos, lo convierten en una pieza ideal tanto para el uso diario como para ocasiones especiales. Un reloj que transmite distinción, comodidad y precisión en cada detalle.",
+        "id": "RLXD102",
+        "name": "Rolex Daytona",
+        "color": "Plateado con carátula blanca",
+        "description": "El Rolex Daytona es un reloj legendario diseñado para quienes buscan precisión, rendimiento y un diseño imponente. Su carátula cronográfica y bisel taquimétrico lo convierten en una pieza emblemática del automovilismo y el lujo. Este modelo ofrece un equilibrio perfecto entre sofisticación y funcionalidad.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma+2.JPG",
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+2.JPG",
         "price": 75000
     },
     {
@@ -33,15 +33,6 @@ export const LastCollection = [
         "description": "Este reloj Q&Q ofrece una propuesta sobria y refinada para quienes buscan estilo y funcionalidad. Su carátula minimalista con marcadores lineales y acabado metálico lo convierte en una pieza ideal para el uso diario o eventos formales. Combinando calidad y diseño, es una excelente opción para completar cualquier look.",
         "presentacion": "Incluye caja de presentación",
         "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+2.JPG",
-        "price": 75000
-    },
-    {
-        "id": "Q&Q103",
-        "name": "Q&Q",
-        "color": "Plateado con detalles dorados",
-        "description": "Este reloj Q&Q ofrece una propuesta sobria y refinada para quienes buscan estilo y funcionalidad. Su carátula minimalista con marcadores lineales y acabado metálico lo convierte en una pieza ideal para el uso diario o eventos formales. Combinando calidad y diseño, es una excelente opción para completar cualquier look.",
-        "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+3.JPG",
         "price": 75000
     },
     {
@@ -63,6 +54,15 @@ export const LastCollection = [
         "price": 80000
     },
     {
+        "id": "RLXS104",
+        "name": "Rolex Submariner",
+        "color": "Plateado con carátula y bisel verde",
+        "description": "Esta versión con carátula y bisel verde, es una de las más codiciadas. Su diseño robusto y elegante combina resistencia profesional con una estética de alto lujo, ideal tanto para el día a día como para ocasiones formales.",
+        "presentacion": "Incluye caja de presentación",
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+4.JPG",
+        "price": 75000
+    },
+    {
         "id": "MTBM101",
         "name": "Montblanc",
         "color": "Correa y carátula negras",
@@ -70,6 +70,15 @@ export const LastCollection = [
         "presentacion": "Incluye caja de presentación",
         "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Mitsu+1.JPG",
         "price": 65000
+    },
+    {
+        "id": "CSG104",
+        "name": "Casio G-Shock",
+        "color": "Plateado con detalles rojos y negros",
+        "description": "Este reloj combina una estética imponente y resistente con funciones digitales y analógicas en una estructura reforzada. Su diseño robusto y detalles de estilo industrial lo convierten en una pieza ideal para quienes buscan un reloj de alto impacto visual y funcional.",
+        "presentacion": "Incluye caja de presentación",
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+g-shock+4.JPG",
+        "price": 85000
     },
     {
         "id": "CS102",
@@ -99,21 +108,21 @@ export const LastCollection = [
         "price": 110000
     },
     {
-        "id": "CSE104",
-        "name": "Casio Edifice",
-        "color": "Negro con detalles verde metálico",
-        "description": "Diseño con precisión y estilo. El Casio Edifice combina un diseño robusto con funciones como cronómetro, taquímetro y subesferas funcionales. Su estructura sólida y estética deportiva lo convierten en el compañero ideal para el día a día o actividades al aire libre.",
-        "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+4.JPG",
-        "price": 80000
+        "id": "SNT103",
+        "name": "Saint",
+        "color": "Plateado con bisel de color negro",
+        "description": "Un reloj versátil con estética deportiva y tecnología dual que combina visualización análoga y digital. Ideal para quienes buscan funcionalidad sin perder estilo.",
+        "presentacion":"Incluye caja de presentación",
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+3.JPG",
+        "price": 95000
     },
     {
-        "id": "RLXD102",
-        "name": "Rolex Daytona",
-        "color": "Plateado con carátula blanca",
-        "description": "El Rolex Daytona es un reloj legendario diseñado para quienes buscan precisión, rendimiento y un diseño imponente. Su carátula cronográfica y bisel taquimétrico lo convierten en una pieza emblemática del automovilismo y el lujo. Este modelo ofrece un equilibrio perfecto entre sofisticación y funcionalidad.",
+        "id": "CG102",
+        "name": "Cartier",
+        "color": "Correa y carátula azul con caja plateada y bisel dorado rosa",
+        "description": "La elegancia clásica se fusiona con un toque deportivo en este Cartier Santos con correa de goma. Su icónica caja cuadrada acompañada de una carátula refinada con números romanos, lo convierten en una pieza ideal tanto para el uso diario como para ocasiones especiales. Un reloj que transmite distinción, comodidad y precisión en cada detalle.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+2.JPG",
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma+2.JPG",
         "price": 75000
     },
     {
@@ -144,15 +153,6 @@ export const LastCollection = [
         "price": 85000
     },
     {
-        "id": "CSG104",
-        "name": "Casio G-Shock",
-        "color": "Plateado con detalles rojos y negros",
-        "description": "Este reloj combina una estética imponente y resistente con funciones digitales y analógicas en una estructura reforzada. Su diseño robusto y detalles de estilo industrial lo convierten en una pieza ideal para quienes buscan un reloj de alto impacto visual y funcional.",
-        "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+g-shock+4.JPG",
-        "price": 85000
-    },
-    {
         "id": "RLXS103",
         "name": "Rolex Submariner",
         "color": "Plateado con detalles dorados y carátula negra",
@@ -162,22 +162,13 @@ export const LastCollection = [
         "price": 75000
     },
     {
-        "id": "RLXS104",
-        "name": "Rolex Submariner",
-        "color": "Plateado con carátula y bisel verde",
-        "description": "Esta versión con carátula y bisel verde, es una de las más codiciadas. Su diseño robusto y elegante combina resistencia profesional con una estética de alto lujo, ideal tanto para el día a día como para ocasiones formales.",
+        "id": "Q&Q103",
+        "name": "Q&Q",
+        "color": "Plateado con detalles dorados",
+        "description": "Este reloj Q&Q ofrece una propuesta sobria y refinada para quienes buscan estilo y funcionalidad. Su carátula minimalista con marcadores lineales y acabado metálico lo convierte en una pieza ideal para el uso diario o eventos formales. Combinando calidad y diseño, es una excelente opción para completar cualquier look.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+4.JPG",
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+3.JPG",
         "price": 75000
-    },
-    {
-        "id": "MTBTC103",
-        "name": "Montblanc Timewalker",
-        "color": "Correa en tono cuero y carátula blanca",
-        "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
-        "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+3.JPG",
-        "price": 110000
     },
     {
         "id": "RCH102",
@@ -189,12 +180,21 @@ export const LastCollection = [
         "price": 85000
     },
     {
-        "id": "SNT103",
-        "name": "Saint",
-        "color": "Plateado con bisel de color negro",
-        "description": "Un reloj versátil con estética deportiva y tecnología dual que combina visualización análoga y digital. Ideal para quienes buscan funcionalidad sin perder estilo.",
-        "presentacion":"Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+3.JPG",
-        "price": 95000
-    }
+        "id": "MTBTC103",
+        "name": "Montblanc Timewalker",
+        "color": "Correa en tono cuero y carátula blanca",
+        "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
+        "presentacion": "Incluye caja de presentación",
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+3.JPG",
+        "price": 110000
+    },
+        {
+        "id": "CSE104",
+        "name": "Casio Edifice",
+        "color": "Negro con detalles verde metálico",
+        "description": "Diseño con precisión y estilo. El Casio Edifice combina un diseño robusto con funciones como cronómetro, taquímetro y subesferas funcionales. Su estructura sólida y estética deportiva lo convierten en el compañero ideal para el día a día o actividades al aire libre.",
+        "presentacion": "Incluye caja de presentación",
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+4.JPG",
+        "price": 80000
+    },
 ];
