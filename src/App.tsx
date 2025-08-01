@@ -6,6 +6,7 @@ import './App.css';
 import MainPage from './Components/MainPage/MainPage';
 import Relojes from './Components/Relojes/Relojes';
 import Contact from './Components/Contact/Contact';
+import ProductDetail from './Components/ShowPage/ProductDetail';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path='/relojes' element={<Relojes /> } />
         {/* <Route path='/ropaz' element={ ropa aqui } /> */}
         <Route path='/contacto' element={<Contact/>} />
+        <Route path='/relojes/:id' element={<ProductDetail />} />
       </Routes>
     </Router>
   );
