@@ -219,6 +219,122 @@
         ]
     },
     {
+        "Hublot": [
+            {
+                "id": "HBT101",
+                "name": "Hublot",
+                "color": "Azul",
+                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+1.JPG",
+                "price": 60000
+            },
+            {
+                "id": "HBT102",
+                "name": "Hublot",
+                "color": "Blanco con correa gris",
+                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+2.JPG",
+                "price": 60000
+            },
+            {
+                "id": "HBT103",
+                "name": "Hublot",
+                "color": "Verde oscuro",
+                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+3.JPG",
+                "price": 60000
+            },
+            {
+                "id": "HBT104",
+                "name": "Hublot",
+                "color": "Negro",
+                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+4.JPG",
+                "price": 60000
+            },
+            {
+                "id": "HBT105",
+                "name": "Hublot",
+                "color": "Rojo",
+                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+5.JPG",
+                "price": 60000
+            },
+            {
+                "id": "HBT106",
+                "name": "Hublot",
+                "color": "Blanco",
+                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+6.JPG",
+                "price": 60000
+            }
+        ]
+    },
+    {
+        "Versace": [
+            {
+                "id": "VSC101",
+                "name": "Versace",
+                "color": "Rosado",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+1-1.JPG",
+                "price": 55000
+            },
+            {
+                "id": "VSC102",
+                "name": "Versace",
+                "color": "Azul oscuro",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+2-1.JPG",
+                "price": 55000
+            },
+            {
+                "id": "VSC103",
+                "name": "Versace",
+                "color": "Blanco",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+3-1.JPG",
+                "price": 55000
+            },
+            {
+                "id": "VSC104",
+                "name": "Versace",
+                "color": "Morado claro",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+4-1.JPG",
+                "price": 55000
+            },
+            {
+                "id": "VSC105",
+                "name": "Versace",
+                "color": "Negro",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+5-1.JPG",
+                "price": 55000
+            },
+            {
+                "id": "VSC106",
+                "name": "Versace",
+                "color": "Rosado oscuro",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+6-1.JPG",
+                "price": 55000
+            }
+        ]
+    },
+    {
         "Q&Q" : [
             {
                 "id": "Q&Q101",
@@ -645,6 +761,51 @@
                 "presentacion":"Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+4.JPG",
                 "price": 95000
+            },
+            {
+                "id": "SNTX101",
+                "name": "Saint",
+                "color": "Negro con detalles dorados",
+                "description": "Un reloj de diseño robusto, ideal para quienes buscan estilo y funcionalidad en su día a día. El modelo combina hora análoga y digital, perfecto para quienes valoran la precisión y la versatilidad",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+X+1-2.JPG",
+                "price": 75000
+            },
+            {
+                "id": "SNTX102",
+                "name": "Saint",
+                "color": "Rojo con negro",
+                "description": "Un reloj de diseño robusto, ideal para quienes buscan estilo y funcionalidad en su día a día. El modelo combina hora análoga y digital, perfecto para quienes valoran la precisión y la versatilidad",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+X+2-2.JPG",
+                "price": 75000
+            },
+            {
+                "id": "SNTX103",
+                "name": "Saint",
+                "color": "Azul oscuro con detalles naranjas",
+                "description": "Un reloj de diseño robusto, ideal para quienes buscan estilo y funcionalidad en su día a día. El modelo combina hora análoga y digital, perfecto para quienes valoran la precisión y la versatilidad",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+X+3-2.JPG",
+                "price": 75000
+            },
+            {
+                "id": "SNTX104",
+                "name": "Saint",
+                "color": "Azul turquesa con negro",
+                "description": "Un reloj de diseño robusto, ideal para quienes buscan estilo y funcionalidad en su día a día. El modelo combina hora análoga y digital, perfecto para quienes valoran la precisión y la versatilidad",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+X+4-2.JPG",
+                "price": 75000
+            },
+            {
+                "id": "SNTX105",
+                "name": "Saint",
+                "color": "Negro con detalles rojos y plateados",
+                "description": "Un reloj de diseño robusto, ideal para quienes buscan estilo y funcionalidad en su día a día. El modelo combina hora análoga y digital, perfecto para quienes valoran la precisión y la versatilidad",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+X+5-2.JPG",
+                "price": 75000
             }
         ]
     },
