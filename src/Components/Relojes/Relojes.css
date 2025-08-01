@@ -1,0 +1,34 @@
+label{
+    color: white;
+}
+
+.container-relojes-page{
+    margin-top: 80px;
+}
+
+.container-imagenes-relojes-page{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    padding: 5px;
+    text-align: center;
+    /* background-color: green; */
+    /* width: 75%; */
+}
+
+.product-card-relojes{
+    display: flex;
+    flex-direction: column;
+    /* background-color: green; */
+}
+
+#img-product-card-relojes {
+    width: 150px;
+    /* height: 100px; */
+    height: auto;
+    object-fit: cover;
+    border-radius: 5px;
+    /* background-color: green; */
+}
