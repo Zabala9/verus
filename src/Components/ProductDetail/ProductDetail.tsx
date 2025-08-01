@@ -32,7 +32,7 @@ function ProductDetail() {
                     setLoading(false);
                 });
         }
-    }, [id, product]);
+    }, [id]);
 
     if (loading) return <p>Cargando producto...</p>
     if (!product) return (
