@@ -5,8 +5,8 @@ import './Relojes.css';
 function Relojes() {
     const [groupedProducts, setGroupedProducts] = useState<Record<string, Product[]>[]>([]);
     const [visibleProducts, setVisibleProducts] = useState<Product[]>([]);
-    // const [showDropdown]
-    // const [selectedBrand, setSelectedBrand] = useState<string>('Todos');
+    const [showDropdown, setShowDropdown] = useState(false);
+    const [selectedBrands, setSelectedBrands] = useState<string[]>([]);
     const [loadCount, setLoadCount] = useState(0);
     const chunkSize = 10;
 
@@ -32,6 +32,22 @@ function Relojes() {
             .catch(err => console.error('Error loading products: ', err));
     }, []);
 
+    useEffect(() => {
+        const allProducts = groupedProducts.flatMap(group => {
+            const brand = Object.keys(group)[0];
+            return group[brand].map(product => ({
+                ...product,
+                brand
+            }));
+        });
+
+        const filtered = selectedBrands.length === 0
+            ? allProducts : allProducts.filter(product => selectedBrands.includes(product.brand));
+
+        setVisibleProducts(filtered.slice(0, chunkSize));
+        setLoadCount(chunkSize);
+    }, [selectedBrands, groupedProducts]);
+
     // loading more products when scrolling down
     useEffect(() => {
         const handleScroll = () => {
@@ -40,19 +56,17 @@ function Relojes() {
             if (scrolledToBottom) {
                 const allProducts = groupedProducts.flatMap(group => {
                     const brand = Object.keys(group)[0];
-                    return group[brand];
-                });
-
-                const initialList = groupedProducts.flatMap((group: Record<string, Product[]>) => {
-                    const brand = Object.keys(group)[0];
                     return group[brand].map(product => ({
-                    ...product,
-                    brand, // add brand as a new field
+                        ...product,
+                        brand
                     }));
                 });
 
-                if (loadCount < initialList.length) {
-                    const moreItems = allProducts.slice(loadCount, loadCount + chunkSize);
+                const filteredProducts = selectedBrands.length === 0
+                    ? allProducts : allProducts.filter(product => selectedBrands.includes(product.brand));
+
+                if (loadCount < filteredProducts.length) {
+                    const moreItems = filteredProducts.slice(loadCount, loadCount + chunkSize);
                     setVisibleProducts(prev => [...prev, ...moreItems]);
                     setLoadCount(prev => prev + chunkSize);
                 }
@@ -61,26 +75,43 @@ function Relojes() {
 
         window.addEventListener('scroll', handleScroll);
         return () => window.removeEventListener('scroll', handleScroll);
-    }, [loadCount, groupedProducts]);
+    }, [loadCount, groupedProducts, selectedBrands]);
 
     return (
         <div className="container-relojes-page">
 
-            {/* <div className="filter-container">
-                <button onClick={() => setSelectedBrand('Todos')} >Todos</button>
-                {groupedProducts.map((group, index) => {
-                    const brandKeys = Object.keys(group);
-                    if (brandKeys.length === 0) return null;
+            <div className="filter-container">
+                <button onClick={() => setShowDropdown(prev => !prev)}>
+                    Filtrar por marca
+                </button>
 
-                    const brand = brandKeys[0];
+                {showDropdown && (
+                    <div className="dropdown-menu">
+                        {groupedProducts.map((group, index) => {
+                            const brandKeys = Object.keys(group);
+                            if (brandKeys.length === 0) return null;
 
-                    return (
-                        <button key={brand + index} onClick={() => setSelectedBrand(brand)} >
-                            {brand}
-                        </button>
-                    )
-                })}
-            </div> */}
+                            const brand = brandKeys[0];
+                            const isChecked = selectedBrands.includes(brand);
+
+                            return (
+                                <label key={brand + index} className="dropdown-item">
+                                    <input
+                                        type="checkbox"
+                                        checked={isChecked}
+                                        onChange={() => {
+                                            setSelectedBrands(prev => 
+                                                isChecked ? prev.filter(b => b !== brand) : [...prev, brand]
+                                            );
+                                        }}
+                                    />
+                                    {brand}
+                                </label>
+                            )
+                        })}
+                    </div>
+                )}
+            </div>
             
             <div className="container-imagenes-relojes-page">
                 {visibleProducts.map((product, index) => (
