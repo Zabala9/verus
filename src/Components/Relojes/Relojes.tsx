@@ -13,7 +13,7 @@ function Relojes() {
 
     // fetching products.json
     useEffect(() => {
-        fetch('/products.json')
+        fetch('/verus/products.json')
             .then((res) => res.json())
             .then((data) => {
                 setGroupedProducts(data);
