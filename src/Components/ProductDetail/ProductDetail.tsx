@@ -12,7 +12,7 @@ function ProductDetail() {
     useEffect(() => {
         if (!product) {
             // fetch para buscar el producto si viene directamente al link
-            fetch('/verus/products.json')
+            fetch(`${process.env.PUBLIC_URL}/products.json`)
                 .then((res) => res.json())
                 .then((data: Record<string, Product[]>[]) => {
                     const allProducts = data.flatMap(group => {
