@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%3Cverus%3E/static/css/main.ebebe3be.css",
+    "main.js": "/%3Cverus%3E/static/js/main.994724fb.js",
+    "index.html": "/%3Cverus%3E/index.html",
+    "main.ebebe3be.css.map": "/%3Cverus%3E/static/css/main.ebebe3be.css.map",
+    "main.994724fb.js.map": "/%3Cverus%3E/static/js/main.994724fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebebe3be.css",
+    "static/js/main.994724fb.js"
+  ]
+}
