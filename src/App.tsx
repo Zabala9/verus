@@ -10,7 +10,7 @@ import ProductDetail from './Components/ProductDetail/ProductDetail';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/verus'>
       <Navbar></Navbar>
       <Routes>
         <Route path='/' element={<MainPage />} />
