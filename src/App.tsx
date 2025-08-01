@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './Components/NavBar/NavBar';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 
 import MainPage from './Components/MainPage/MainPage';
@@ -11,7 +11,7 @@ import Ropa from './Components/Ropa/Ropa';
 
 function App() {
   return (
-    <Router basename='/verus'>
+    <Router>
       <Navbar></Navbar>
       <Routes>
         <Route path='/' element={<MainPage />} />
