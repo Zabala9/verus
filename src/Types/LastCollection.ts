@@ -81,13 +81,13 @@ export const LastCollection = [
         "price": 85000
     },
     {
-        "id": "CS102",
-        "name": "Cartier Santos",
-        "color": "Negro con bisel dorado rosa",
-        "description": "Con su emblemática caja cuadrada de acero inoxidable, tornillos visibles y números romanos, este modelo se ha convertido en un símbolo de lujo y distinción. Ideal tanto para ocasiones formales como para el día a día, este reloj destaca por su estilo refinado y atemporal.",
+        "id": "VSC104",
+        "name": "Versace",
+        "color": "Morado claro",
+        "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+santos+2.JPG",
-        "price": 80000
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+4-1.JPG",
+        "price": 55000
     },
     {
         "id": "CSE103",
