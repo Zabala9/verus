@@ -21,6 +21,7 @@ label{
     border-radius: 4px;
     padding: 5px 10px;
     margin-bottom: 20px;
+    color: black;
 }
 
 #button-filtrar-por-marca:visited{
