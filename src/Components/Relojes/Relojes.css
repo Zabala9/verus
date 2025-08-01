@@ -23,6 +23,10 @@ label{
     margin-bottom: 20px;
 }
 
+#button-filtrar-por-marca:visited{
+    color: black;
+}
+
 .dropdown-menu{
     width: 90%;
     /* background-color: green; */
