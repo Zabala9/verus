@@ -37,13 +37,15 @@ function MainPage() {
 
             <div className='container-imagenes-main-page'>
                 {visibleProducts.map((product, index) => (
-                    <div key={`${product.id}-${index}`} className='product-card'>
-                        <img id='img-product-card' src={product.imgUrl} alt={product.name}></img>
-                        <label id='product-name-main'>{product.name}</label>
-                        {/* <p>{product.color}</p>
-                        <p>{product.description}</p>
-                        <p>{product.price}</p> */}
-                    </div>
+                    <Link to={`/relojes/${product.id}`} state={product} >
+                        <div key={`${product.id}-${index}`} className='product-card'>
+                            <img id='img-product-card' src={product.imgUrl} alt={product.name}></img>
+                            <label id='product-name-main'>{product.name}</label>
+                            {/* <p>{product.color}</p>
+                            <p>{product.description}</p>
+                            <p>{product.price}</p> */}
+                        </div>
+                    </Link>
                 ))}
             </div>
 

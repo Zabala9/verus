@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Product } from '../../Types/Products';
 import './Relojes.css';
+import { Link } from "react-router-dom";
 
 function Relojes() {
     const [groupedProducts, setGroupedProducts] = useState<Record<string, Product[]>[]>([]);
@@ -115,10 +116,12 @@ function Relojes() {
             
             <div className="container-imagenes-relojes-page">
                 {visibleProducts.map((product, index) => (
-                    <div key={`${product.id}-${index}`} className="product-card-relojes">
-                        <img id="img-product-card-relojes" src={product.imgUrl} alt=""></img>
-                        <label id="product-name-relojes">{product.name}</label>
-                    </div>
+                    <Link to={`/relojes/${product.id}`} state={product}>
+                        <div key={`${product.id}-${index}`} className="product-card-relojes">
+                            <img id="img-product-card-relojes" src={product.imgUrl} alt=""></img>
+                            <label id="product-name-relojes">{product.name}</label>
+                        </div>
+                    </Link>
                 ))}
             </div>
         </div>
