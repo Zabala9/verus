@@ -6,7 +6,7 @@ import './App.css';
 import MainPage from './Components/MainPage/MainPage';
 import Relojes from './Components/Relojes/Relojes';
 import Contact from './Components/Contact/Contact';
-import ProductDetail from './Components/ShowPage/ProductDetail';
+import ProductDetail from './Components/ProductDetail/ProductDetail';
 
 function App() {
   return (
