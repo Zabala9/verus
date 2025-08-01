@@ -81,7 +81,7 @@ function Relojes() {
         <div className="container-relojes-page">
 
             <div className="filter-container">
-                <button onClick={() => setShowDropdown(prev => !prev)}>
+                <button id="button-filtrar-por-marca" onClick={() => setShowDropdown(prev => !prev)}>
                     Filtrar por marca
                 </button>
 
@@ -95,7 +95,7 @@ function Relojes() {
                             const isChecked = selectedBrands.includes(brand);
 
                             return (
-                                <label key={brand + index} className="dropdown-item">
+                                <label id="label-brands-filter" key={brand + index} className="dropdown-item">
                                     <input
                                         type="checkbox"
                                         checked={isChecked}
