@@ -44,3 +44,20 @@ p {
     border-radius: 3px;
     color: black;
 }
+
+.container-contact-detail{
+    background-color: rgb(238, 238, 224);
+    /* background-color: rgb(241, 178, 96); */
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px 15px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-weight: 550;
+    text-decoration: none;
+}
+
+#label-quiero{
+    color: black;
+}
