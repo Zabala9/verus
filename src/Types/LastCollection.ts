@@ -1,11 +1,11 @@
 export const LastCollection = [
     {
-        "id": "CG101",
-        "name": "Cartier",
-        "color": "Correa negra con caja plateada y bisel dorado rosa",
-        "description": "La elegancia clásica se fusiona con un toque deportivo en este Cartier Santos con correa de goma. Su icónica caja cuadrada acompañada de una carátula refinada con números romanos, lo convierten en una pieza ideal tanto para el uso diario como para ocasiones especiales. Un reloj que transmite distinción, comodidad y precisión en cada detalle.",
+        "id": "CSF101",
+        "name": "Casio x Ferrari",
+        "color": "Rojo con detalles en negro",
+        "description": "Inspirado en la velocidad y el alto rendimiento. Cuenta con subesferas funcionales para fecha y día, caja resistente y correa cómoda para uso diario.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma.JPG",
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+Ferrari+1-2.jpg",
         "price": 75000
     },
     {
