@@ -193,6 +193,51 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+MTG+2.JPG",
                 "price": 85000
+            },
+            {
+                "id": "CSF101",
+                "name": "Casio x Ferrari",
+                "color": "Rojo con detalles en negro",
+                "description": "Inspirado en la velocidad y el alto rendimiento. Cuenta con subesferas funcionales para fecha y día, caja resistente y correa cómoda para uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+Ferrari+1-2.jpg",
+                "price": 75000
+            },
+            {
+                "id": "CSF102",
+                "name": "Casio x Ferrari",
+                "color": "Blanco con negro",
+                "description": "Inspirado en la velocidad y el alto rendimiento. Cuenta con subesferas funcionales para fecha y día, caja resistente y correa cómoda para uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+Ferrari+2-2.jpg",
+                "price": 75000
+            },
+            {
+                "id": "CSF103",
+                "name": "Casio x Ferrari",
+                "color": "Azul",
+                "description": "Inspirado en la velocidad y el alto rendimiento. Cuenta con subesferas funcionales para fecha y día, caja resistente y correa cómoda para uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+Ferrari+3-2.jpg",
+                "price": 75000
+            },
+            {
+                "id": "CSF104",
+                "name": "Casio x Ferrari",
+                "color": "Negro",
+                "description": "Inspirado en la velocidad y el alto rendimiento. Cuenta con subesferas funcionales para fecha y día, caja resistente y correa cómoda para uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+Ferrari+4-2.jpg",
+                "price": 75000
+            },
+            {
+                "id": "CSF105",
+                "name": "Casio x Ferrari",
+                "color": "Negro con detalles en dorado",
+                "description": "Inspirado en la velocidad y el alto rendimiento. Cuenta con subesferas funcionales para fecha y día, caja resistente y correa cómoda para uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+Ferrari+5-2.jpg",
+                "price": 75000
             }
         ]
     },
