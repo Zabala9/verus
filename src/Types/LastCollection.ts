@@ -63,13 +63,13 @@ export const LastCollection = [
         "price": 75000
     },
     {
-        "id": "MTBM101",
-        "name": "Montblanc",
-        "color": "Correa y carátula negras",
-        "description": "Un modelo audaz que fusiona un estilo moderno con toques industriales. Su diseño simétrico y dinámico ofrece una apariencia llamativa, ideal para quienes buscan algo diferente y con carácter.",
+        "id": "INV101",
+        "name": "Invicta AAA",
+        "color": "Negro con detalles dorados",
+        "description": "Reloj deportivo de alta gama con diseño robusto y funcional. Este modelo combina una estructura resistente con un estilo sofisticado, ideal para quienes buscan precisión, elegancia y rendimiento en un solo accesorio.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Mitsu+1.JPG",
-        "price": 65000
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+AAA+1.JPG",
+        "price": 115000
     },
     {
         "id": "CSG104",
@@ -135,13 +135,13 @@ export const LastCollection = [
         "price": 65000
     },
     {
-        "id": "RLXD103",
-        "name": "Rolex Daytona",
-        "color": "Plateado con detalles dorados y carátula blanca",
-        "description": "El Rolex Daytona es un reloj legendario diseñado para quienes buscan precisión, rendimiento y un diseño imponente. Su carátula cronográfica y bisel taquimétrico lo convierten en una pieza emblemática del automovilismo y el lujo. Este modelo ofrece un equilibrio perfecto entre sofisticación y funcionalidad.",
+        "id": "RLXS112",
+        "name": "Rolex Submariner",
+        "color": "",
+        "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+3.JPG",
-        "price": 75000
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+12.JPG",
+        "price": 80000
     },
     {
         "id": "CSG103",
@@ -162,12 +162,12 @@ export const LastCollection = [
         "price": 75000
     },
     {
-        "id": "Q&Q103",
-        "name": "Q&Q",
-        "color": "Plateado con detalles dorados",
-        "description": "Este reloj Q&Q ofrece una propuesta sobria y refinada para quienes buscan estilo y funcionalidad. Su carátula minimalista con marcadores lineales y acabado metálico lo convierte en una pieza ideal para el uso diario o eventos formales. Combinando calidad y diseño, es una excelente opción para completar cualquier look.",
+        "id": "RCH107",
+        "name": "Richard Mille",
+        "color": "Negro con detalles dorados",
+        "description": "Diseño vanguardista con mecanismo expuesto que impone presencia. Inspirado en la alta relojería, este reloj destaca por su caja robusta, estilo deportivo y un dial que deja ver su mecanismo interno. Ideal para quienes buscan una pieza impactante, moderna y con carácter.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+3.JPG",
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+7.JPG",
         "price": 75000
     },
     {
