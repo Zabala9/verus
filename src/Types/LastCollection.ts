@@ -144,13 +144,13 @@ export const LastCollection = [
         "price": 80000
     },
     {
-        "id": "CSG103",
-        "name": "Casio G-Shock",
-        "color": "Dorado",
-        "description": "Este reloj combina una estética imponente y resistente con funciones digitales y analógicas en una estructura reforzada. Su diseño robusto y detalles de estilo industrial lo convierten en una pieza ideal para quienes buscan un reloj de alto impacto visual y funcional.",
+        "id": "RLXG102",
+        "name": "Rolex Geneve",
+        "color": "Plateado con carátula azul turquesa",
+        "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+g-shock+3.JPG",
-        "price": 85000
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+2.jpg",
+        "price": 80000
     },
     {
         "id": "RLXS103",
