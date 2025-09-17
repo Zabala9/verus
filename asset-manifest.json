@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/verus/static/css/main.b983fded.css",
-    "main.js": "/verus/static/js/main.cfd94abd.js",
+    "main.js": "/verus/static/js/main.c6091820.js",
     "index.html": "/verus/index.html",
     "main.b983fded.css.map": "/verus/static/css/main.b983fded.css.map",
-    "main.cfd94abd.js.map": "/verus/static/js/main.cfd94abd.js.map"
+    "main.c6091820.js.map": "/verus/static/js/main.c6091820.js.map"
   },
   "entrypoints": [
     "static/css/main.b983fded.css",
-    "static/js/main.cfd94abd.js"
+    "static/js/main.c6091820.js"
   ]
 }
