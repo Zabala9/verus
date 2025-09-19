@@ -25,6 +25,22 @@ function MainPage() {
         setIsReadyToScroll(true);
     }, [])
 
+    // // loading more products when scrolling down
+    // useEffect(() => {
+    //     const handleScroll = () => {
+    //         const scrolledToBottom = window.innerHeight + window.scrollY >= document.body.offsetHeight - 100;
+
+    //         if (scrolledToBottom && loadCount < LastCollection.length) {
+    //             const nextProducts = LastCollection.slice(loadCount, loadCount + chunkSize);
+    //             setVisibleProducts(prev => [...prev, ...nextProducts]);
+    //             setLoadCount(prev => prev + chunkSize);
+    //         }
+    //     };
+
+    //     window.addEventListener('scroll', handleScroll);
+    //     return () => window.removeEventListener('scroll', handleScroll);
+    // }, [loadCount]);
+
     return (
         <div className='container-main-page'>
             <label id='label-introduction'>Descubre nuestra ultima colección</label>

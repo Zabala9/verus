@@ -72,6 +72,52 @@ function Relojes() {
         setVisibleProducts(filtered);
     }, [selectedBrands, groupedProducts])
 
+        // loading more products when scrolling down
+    // useEffect(() => {
+    //     const allProducts = groupedProducts.flatMap(group => {
+    //         const brand = Object.keys(group)[0];
+    //         return group[brand].map(product => ({
+    //             ...product,
+    //             brand
+    //         }));
+    //     });
+
+    //     const filtered = selectedBrands.length === 0
+    //         ? allProducts : allProducts.filter(product => selectedBrands.includes(product.brand));
+
+    //     setVisibleProducts(filtered.slice(0, chunkSize));
+    //     setLoadCount(chunkSize);
+    // }, [selectedBrands, groupedProducts]);
+
+    // loading more products when scrolling down
+    // useEffect(() => {
+    //     const handleScroll = () => {
+    //         const scrolledToBottom = window.innerHeight + window.scrollY >= document.body.offsetHeight - 100;
+
+    //         if (scrolledToBottom) {
+    //             const allProducts = groupedProducts.flatMap(group => {
+    //                 const brand = Object.keys(group)[0];
+    //                 return group[brand].map(product => ({
+    //                     ...product,
+    //                     brand
+    //                 }));
+    //             });
+
+    //             const filteredProducts = selectedBrands.length === 0
+    //                 ? allProducts : allProducts.filter(product => selectedBrands.includes(product.brand));
+
+    //             if (loadCount < filteredProducts.length) {
+    //                 const moreItems = filteredProducts.slice(loadCount, loadCount + chunkSize);
+    //                 setVisibleProducts(prev => [...prev, ...moreItems]);
+    //                 setLoadCount(prev => prev + chunkSize);
+    //             }
+    //         }
+    //     };
+
+    //     window.addEventListener('scroll', handleScroll);
+    //     return () => window.removeEventListener('scroll', handleScroll);
+    // }, [loadCount, groupedProducts, selectedBrands]);
+
     return (
         <div className="container-relojes-page">
 
