@@ -8,8 +8,21 @@ function Relojes() {
     const [visibleProducts, setVisibleProducts] = useState<Product[]>([]);
     const [showDropdown, setShowDropdown] = useState(false);
     const [selectedBrands, setSelectedBrands] = useState<string[]>([]);
-    const [loadCount, setLoadCount] = useState(0);
-    const chunkSize = 10;
+    const [isReadyToScroll, setIsReadyToScroll] = useState(false);
+    // const [loadCount, setLoadCount] = useState(0);
+    // const chunkSize = 10;
+
+
+    // ajustando la posicion donde quedo la pagina
+    useEffect(() => {
+        if (isReadyToScroll) {
+            const savedScrollPos = sessionStorage.getItem('scrollPos');
+            if (savedScrollPos) {
+                window.scrollTo(0, parseInt(savedScrollPos));
+                sessionStorage.removeItem('scrollPos');
+            }
+        }
+    }, [isReadyToScroll])
 
     // fetching products.json
     useEffect(() => {
@@ -27,8 +40,10 @@ function Relojes() {
                     }));
                 });
 
-                setVisibleProducts(initialList.slice(0, chunkSize));
-                setLoadCount(chunkSize);
+                // setVisibleProducts(initialList.slice(0, chunkSize));
+                setVisibleProducts(initialList);
+                setIsReadyToScroll(true);
+                // setLoadCount(chunkSize);
             })
             .catch(err => console.error('Error loading products: ', err));
     }, []);
@@ -40,43 +55,13 @@ function Relojes() {
                 ...product,
                 brand
             }));
-        });
+        })
 
         const filtered = selectedBrands.length === 0
             ? allProducts : allProducts.filter(product => selectedBrands.includes(product.brand));
 
-        setVisibleProducts(filtered.slice(0, chunkSize));
-        setLoadCount(chunkSize);
-    }, [selectedBrands, groupedProducts]);
-
-    // loading more products when scrolling down
-    useEffect(() => {
-        const handleScroll = () => {
-            const scrolledToBottom = window.innerHeight + window.scrollY >= document.body.offsetHeight - 100;
-
-            if (scrolledToBottom) {
-                const allProducts = groupedProducts.flatMap(group => {
-                    const brand = Object.keys(group)[0];
-                    return group[brand].map(product => ({
-                        ...product,
-                        brand
-                    }));
-                });
-
-                const filteredProducts = selectedBrands.length === 0
-                    ? allProducts : allProducts.filter(product => selectedBrands.includes(product.brand));
-
-                if (loadCount < filteredProducts.length) {
-                    const moreItems = filteredProducts.slice(loadCount, loadCount + chunkSize);
-                    setVisibleProducts(prev => [...prev, ...moreItems]);
-                    setLoadCount(prev => prev + chunkSize);
-                }
-            }
-        };
-
-        window.addEventListener('scroll', handleScroll);
-        return () => window.removeEventListener('scroll', handleScroll);
-    }, [loadCount, groupedProducts, selectedBrands]);
+        setVisibleProducts(filtered);
+    }, [selectedBrands, groupedProducts])
 
     return (
         <div className="container-relojes-page">
@@ -116,7 +101,12 @@ function Relojes() {
             
             <div className="container-imagenes-relojes-page">
                 {visibleProducts.map((product, index) => (
-                    <Link to={`/relojes/${product.id}`} state={product}>
+                    <Link to={`/relojes/${product.id}`} 
+                        state={product}
+                        onClick={() => {
+                            sessionStorage.setItem('scrollPos', window.scrollY.toString());
+                        }}
+                    >
                         <div key={`${product.id}-${index}`} className="product-card-relojes">
                             <img id="img-product-card-relojes" src={product.imgUrl} alt=""></img>
                             <label id="product-name-relojes">{product.name}</label>
