@@ -21,6 +21,15 @@ function Relojes() {
                 window.scrollTo(0, parseInt(savedScrollPos));
                 sessionStorage.removeItem('scrollPos');
             }
+
+            const savedBrands = sessionStorage.getItem('selectedBrands');
+            if (savedBrands) {
+                try {
+                    setSelectedBrands(JSON.parse(savedBrands));
+                } catch (err) {
+                    console.error('Error al filtrar las marcas: ', err);
+                }
+            }
         }
     }, [isReadyToScroll])
 
@@ -105,6 +114,7 @@ function Relojes() {
                         state={product}
                         onClick={() => {
                             sessionStorage.setItem('scrollPos', window.scrollY.toString());
+                            sessionStorage.setItem('selectedBrands', JSON.stringify(selectedBrands));
                         }}
                     >
                         <div key={`${product.id}-${index}`} className="product-card-relojes">
