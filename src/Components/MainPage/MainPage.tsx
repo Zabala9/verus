@@ -5,29 +5,25 @@ import { LastCollection } from '../../Types/LastCollection';
 import './MainPage.css';
 
 function MainPage() {
-    const chunkSize = 6;
+    // const chunkSize = 6;
     const [visibleProducts, setVisibleProducts] = useState<Product[]>([]);
-    const [loadCount, setLoadCount] = useState<number>(chunkSize);
+    const [isReadyToScroll, setIsReadyToScroll] = useState(false);
+    // const [loadCount, setLoadCount] = useState<number>(chunkSize);
 
     useEffect(() => {
-        setVisibleProducts(LastCollection.slice(0, chunkSize));
-    }, [])
-
-    // loading more products when scrolling down
-    useEffect(() => {
-        const handleScroll = () => {
-            const scrolledToBottom = window.innerHeight + window.scrollY >= document.body.offsetHeight - 100;
-
-            if (scrolledToBottom && loadCount < LastCollection.length) {
-                const nextProducts = LastCollection.slice(loadCount, loadCount + chunkSize);
-                setVisibleProducts(prev => [...prev, ...nextProducts]);
-                setLoadCount(prev => prev + chunkSize);
+        if (isReadyToScroll) {
+            const savedScrollPos = sessionStorage.getItem('scrollPosMain');
+            if (savedScrollPos) {
+                window.scrollTo(0, parseInt(savedScrollPos));
+                sessionStorage.removeItem('scrollPosMain');
             }
-        };
+        }
+    }, [isReadyToScroll]);
 
-        window.addEventListener('scroll', handleScroll);
-        return () => window.removeEventListener('scroll', handleScroll);
-    }, [loadCount]);
+    useEffect(() => {
+        setVisibleProducts(LastCollection);
+        setIsReadyToScroll(true);
+    }, [])
 
     return (
         <div className='container-main-page'>
@@ -37,7 +33,10 @@ function MainPage() {
 
             <div className='container-imagenes-main-page'>
                 {visibleProducts.map((product, index) => (
-                    <Link to={`/relojes/${product.id}`} state={product} >
+                    <Link to={`/relojes/${product.id}`}
+                        state={product}
+                        onClick={() => sessionStorage.setItem('scrollPosMain', window.scrollY.toString())}
+                    >
                         <div key={`${product.id}-${index}`} className='product-card'>
                             <img id='img-product-card' src={product.imgUrl} alt={product.name}></img>
                             <label id='product-name-main'>{product.name}</label>
