@@ -291,64 +291,6 @@
         ]
     },
     {
-        "Hublot": [
-            {
-                "id": "HBT101",
-                "name": "Hublot",
-                "color": "Azul",
-                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+1.JPG",
-                "price": 60000
-            },
-            {
-                "id": "HBT102",
-                "name": "Hublot",
-                "color": "Blanco con correa gris",
-                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+2.JPG",
-                "price": 60000
-            },
-            {
-                "id": "HBT103",
-                "name": "Hublot",
-                "color": "Verde oscuro",
-                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+3.JPG",
-                "price": 60000
-            },
-            {
-                "id": "HBT104",
-                "name": "Hublot",
-                "color": "Negro",
-                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+4.JPG",
-                "price": 60000
-            },
-            {
-                "id": "HBT105",
-                "name": "Hublot",
-                "color": "Rojo",
-                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+5.JPG",
-                "price": 60000
-            },
-            {
-                "id": "HBT106",
-                "name": "Hublot",
-                "color": "Blanco",
-                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+6.JPG",
-                "price": 60000
-            }
-        ]
-    },
-    {
         "Versace": [
             {
                 "id": "VSC101",
