@@ -291,60 +291,141 @@
         ]
     },
     {
-        "Hublot": [
+        "Orient": [
             {
-                "id": "HBT101",
-                "name": "Hublot",
-                "color": "Azul",
-                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
+                "id": "ORT101",
+                "name": "Orient",
+                "color": "Dorado con carátula verde",
+                "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+1.JPG",
-                "price": 60000
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+1.JPG",
+                "price": 80000
             },
             {
-                "id": "HBT102",
-                "name": "Hublot",
-                "color": "Blanco con correa gris",
-                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
+                "id": "ORT102",
+                "name": "Orient",
+                "color": "Plateado con carátula azul y roja",
+                "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+2.JPG",
-                "price": 60000
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+2.JPG",
+                "price": 80000
             },
             {
-                "id": "HBT103",
-                "name": "Hublot",
-                "color": "Verde oscuro",
-                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
+                "id": "ORT103",
+                "name": "Orient",
+                "color": "Plateado con carátula negra",
+                "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+3.JPG",
-                "price": 60000
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+3.JPG",
+                "price": 80000
             },
             {
-                "id": "HBT104",
-                "name": "Hublot",
-                "color": "Negro",
-                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
+                "id": "ORT104",
+                "name": "Orient",
+                "color": "Plateado con carátula negra y detalles dorados",
+                "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+4.JPG",
-                "price": 60000
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+4.JPG",
+                "price": 80000
             },
             {
-                "id": "HBT105",
-                "name": "Hublot",
-                "color": "Rojo",
-                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
+                "id": "ORT105",
+                "name": "Orient",
+                "color": "Plateado con detalles dorados y carátula verde",
+                "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+5.JPG",
-                "price": 60000
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+5.JPG",
+                "price": 80000
             },
             {
-                "id": "HBT106",
-                "name": "Hublot",
-                "color": "Blanco",
-                "description": "Una pieza que combina elegancia con carácter deportivo. Su distintiva caja de tornillos visibles y su correa reflejan la estética icónica de la línea Big Bang. Ideal para quienes buscan una declaración de estilo sin comprometer la funcionalidad.",
+                "id": "ORT106",
+                "name": "Orient",
+                "color": "Plateado con detalles dorados y carátula azul",
+                "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+6.JPG",
-                "price": 60000
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+6.JPG",
+                "price": 80000
+            },
+            {
+                "id": "ORT107",
+                "name": "Orient",
+                "color": "Dorado con carátula negra",
+                "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+7.JPG",
+                "price": 80000
+            },
+            {
+                "id": "ORT108",
+                "name": "Orient",
+                "color": "Plateado con carátula azul",
+                "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+8.JPG",
+                "price": 80000
+            },
+            {
+                "id": "ORTP101",
+                "name": "Orient Parejas",
+                "color": "Dorado con detalles negros",
+                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+1.JPG",
+                "price": 150000
+            },
+            {
+                "id": "ORTP102",
+                "name": "Orient Parejas",
+                "color": "Dorado con carátula blanca",
+                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+2.JPG",
+                "price": 150000
+            },
+            {
+                "id": "ORTP103",
+                "name": "Orient Parejas",
+                "color": "Plateado con detalles dorados y carátula negra",
+                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+3.JPG",
+                "price": 150000
+            },
+            {
+                "id": "ORTP104",
+                "name": "Orient Parejas",
+                "color": "Plateado con detalles dorados y carátula blanca",
+                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+4.JPG",
+                "price": 150000
+            },
+            {
+                "id": "ORTP105",
+                "name": "Orient Parejas",
+                "color": "Dorado con carátula negra",
+                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+5.JPG",
+                "price": 150000
+            },
+            {
+                "id": "ORTP106",
+                "name": "Orient Parejas",
+                "color": "Plateado",
+                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+6.JPG",
+                "price": 150000
+            },
+            {
+                "id": "ORTP107",
+                "name": "Orient Parejas",
+                "color": "Plateado con carátula negra",
+                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+7.JPG",
+                "price": 150000
             }
         ]
     },
