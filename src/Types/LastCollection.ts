@@ -153,13 +153,13 @@ export const LastCollection = [
         "price": 80000
     },
     {
-        "id": "RLXS103",
+        "id": "RLXS115",
         "name": "Rolex Submariner",
-        "color": "Plateado con detalles dorados y carátula negra",
+        "color": "",
         "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+3.JPG",
-        "price": 75000
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+15.JPG",
+        "price": 80000
     },
     {
         "id": "RCH107",
