@@ -94,6 +94,80 @@
         ]
     },
     {
+        "TechnoMarine": [
+            {
+                "id": "TNMR101",
+                "name": "TechnoMarine",
+                "color": "Correa blanca con detalles en tornasol y dorado",
+                "description": "Este elegante modelo de TechnoMarine combina una estética robusta con detalles refinados. Presenta una carátula con números arábigos de gran visibilidad y marcadores bien definidos, junto con un bisel texturizado que le aporta un toque distintivo. Incluye fechador ubicado estratégicamente y manecillas con diseño llamativo. Su correa tipo caucho asegura comodidad y durabilidad para el uso diario o actividades más activas.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Technomarine+1.JPG",
+                "price": 85000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TNMR102",
+                "name": "TechnoMarine",
+                "color": "Correa naranja con carátula y bisel negro",
+                "description": "Este elegante modelo de TechnoMarine combina una estética robusta con detalles refinados. Presenta una carátula con números arábigos de gran visibilidad y marcadores bien definidos, junto con un bisel texturizado que le aporta un toque distintivo. Incluye fechador ubicado estratégicamente y manecillas con diseño llamativo. Su correa tipo caucho asegura comodidad y durabilidad para el uso diario o actividades más activas.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Technomarine+2.JPG",
+                "price": 85000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TNMR103",
+                "name": "TechnoMarine",
+                "color": "Correa verde con carátula y bisel negro",
+                "description": "Este elegante modelo de TechnoMarine combina una estética robusta con detalles refinados. Presenta una carátula con números arábigos de gran visibilidad y marcadores bien definidos, junto con un bisel texturizado que le aporta un toque distintivo. Incluye fechador ubicado estratégicamente y manecillas con diseño llamativo. Su correa tipo caucho asegura comodidad y durabilidad para el uso diario o actividades más activas.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Technomarine+3.JPG",
+                "price": 85000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TNMR104",
+                "name": "TechnoMarine",
+                "color": "Correa negra con carátula y bisel oro rosa",
+                "description": "Este elegante modelo de TechnoMarine combina una estética robusta con detalles refinados. Presenta una carátula con números arábigos de gran visibilidad y marcadores bien definidos, junto con un bisel texturizado que le aporta un toque distintivo. Incluye fechador ubicado estratégicamente y manecillas con diseño llamativo. Su correa tipo caucho asegura comodidad y durabilidad para el uso diario o actividades más activas.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Technomarine+4.JPG",
+                "price": 85000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TNMR105",
+                "name": "TechnoMarine",
+                "color": "Correa blanca con carátula y bisel plateado",
+                "description": "Este elegante modelo de TechnoMarine combina una estética robusta con detalles refinados. Presenta una carátula con números arábigos de gran visibilidad y marcadores bien definidos, junto con un bisel texturizado que le aporta un toque distintivo. Incluye fechador ubicado estratégicamente y manecillas con diseño llamativo. Su correa tipo caucho asegura comodidad y durabilidad para el uso diario o actividades más activas.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Technomarine+5.JPG",
+                "price": 85000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TNMR106",
+                "name": "TechnoMarine",
+                "color": "Correa y carátula negra con detalles en oro rosa",
+                "description": "Este elegante modelo de TechnoMarine combina una estética robusta con detalles refinados. Presenta una carátula con números arábigos de gran visibilidad y marcadores bien definidos, junto con un bisel texturizado que le aporta un toque distintivo. Incluye fechador ubicado estratégicamente y manecillas con diseño llamativo. Su correa tipo caucho asegura comodidad y durabilidad para el uso diario o actividades más activas.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Technomarine+6.JPG",
+                "price": 85000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TNMR107",
+                "name": "TechnoMarine",
+                "color": "Negro",
+                "description": "Este elegante modelo de TechnoMarine combina una estética robusta con detalles refinados. Presenta una carátula con números arábigos de gran visibilidad y marcadores bien definidos, junto con un bisel texturizado que le aporta un toque distintivo. Incluye fechador ubicado estratégicamente y manecillas con diseño llamativo. Su correa tipo caucho asegura comodidad y durabilidad para el uso diario o actividades más activas.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Technomarine+7.JPG",
+                "price": 85000,
+                "disponibilidad": true
+            }
+        ]
+    },
+    {
         "Casio": [
             {
                 "id": "CSE101",
