@@ -100,12 +100,12 @@ export const LastCollection = [
         "disponibilidad": true
     },
     {
-        "id": "CSE103",
-        "name": "Casio Edifice",
-        "color": "Negro con detalles en amarillo metálico",
-        "description": "Diseño con precisión y estilo. El Casio Edifice combina un diseño robusto con funciones como cronómetro, taquímetro y subesferas funcionales. Su estructura sólida y estética deportiva lo convierten en el compañero ideal para el día a día o actividades al aire libre",
+        "id": "RLXDJ101",
+        "name": "Rolex Datejust para Dama",
+        "color": "Plateado con carátula negra",
+        "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+3.JPG",
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+1.JPG",
         "price": 80000,
         "disponibilidad": true
     },
@@ -208,14 +208,14 @@ export const LastCollection = [
         "price": 110000,
         "disponibilidad": true
     },
-        {
-        "id": "CSE104",
-        "name": "Casio Edifice",
-        "color": "Negro con detalles verde metálico",
-        "description": "Diseño con precisión y estilo. El Casio Edifice combina un diseño robusto con funciones como cronómetro, taquímetro y subesferas funcionales. Su estructura sólida y estética deportiva lo convierten en el compañero ideal para el día a día o actividades al aire libre.",
+    {
+        "id": "CSMTG101",
+        "name": "Casio MTG",
+        "color": "Plateado con detalles en dorado",
+        "description": "Diseñado para los que exigen potencia y estilo en un solo accesorio. Este modelo combina funcionalidad digital y analógica con una estructura robusta de alta resistencia. Ideal para quienes necesitan precisión, durabilidad y un diseño sofisticado.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+4.JPG",
-        "price": 80000,
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+MT-G+1.jpg",
+        "price": 85000,
         "disponibilidad": true
     },
 ];
