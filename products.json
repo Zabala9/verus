@@ -8,7 +8,8 @@
                 "description": "La elegancia clásica se fusiona con un toque deportivo en este Cartier Santos con correa de goma. Su icónica caja cuadrada acompañada de una carátula refinada con números romanos, lo convierten en una pieza ideal tanto para el uso diario como para ocasiones especiales. Un reloj que transmite distinción, comodidad y precisión en cada detalle.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "CG102",
@@ -17,7 +18,8 @@
                 "description": "La elegancia clásica se fusiona con un toque deportivo en este Cartier Santos con correa de goma. Su icónica caja cuadrada acompañada de una carátula refinada con números romanos, lo convierten en una pieza ideal tanto para el uso diario como para ocasiones especiales. Un reloj que transmite distinción, comodidad y precisión en cada detalle.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma+2.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "CG103",
@@ -26,7 +28,8 @@
                 "description": "La elegancia clásica se fusiona con un toque deportivo en este Cartier Santos con correa de goma. Su icónica caja cuadrada acompañada de una carátula refinada con números romanos, lo convierten en una pieza ideal tanto para el uso diario como para ocasiones especiales. Un reloj que transmite distinción, comodidad y precisión en cada detalle.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma+3.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "CG104",
@@ -35,7 +38,8 @@
                 "description": "La elegancia clásica se fusiona con un toque deportivo en este Cartier Santos con correa de goma. Su icónica caja cuadrada acompañada de una carátula refinada con números romanos, lo convierten en una pieza ideal tanto para el uso diario como para ocasiones especiales. Un reloj que transmite distinción, comodidad y precisión en cada detalle.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma+4.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "CS101",
@@ -44,7 +48,8 @@
                 "description": "Con su emblemática caja cuadrada de acero inoxidable, tornillos visibles y números romanos, este modelo se ha convertido en un símbolo de lujo y distinción. Ideal tanto para ocasiones formales como para el día a día, este reloj destaca por su estilo refinado y atemporal.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+santos.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "CS102",
@@ -53,7 +58,8 @@
                 "description": "Con su emblemática caja cuadrada de acero inoxidable, tornillos visibles y números romanos, este modelo se ha convertido en un símbolo de lujo y distinción. Ideal tanto para ocasiones formales como para el día a día, este reloj destaca por su estilo refinado y atemporal.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+santos+2.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "CS103",
@@ -62,7 +68,8 @@
                 "description": "Con su emblemática caja cuadrada de acero inoxidable, tornillos visibles y números romanos, este modelo se ha convertido en un símbolo de lujo y distinción. Ideal tanto para ocasiones formales como para el día a día, este reloj destaca por su estilo refinado y atemporal.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+santos+3.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "CS104",
@@ -71,7 +78,8 @@
                 "description": "Con su emblemática caja cuadrada de acero inoxidable, tornillos visibles y números romanos, este modelo se ha convertido en un símbolo de lujo y distinción. Ideal tanto para ocasiones formales como para el día a día, este reloj destaca por su estilo refinado y atemporal.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+santos+4.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "CS105",
@@ -80,7 +88,8 @@
                 "description": "Con su emblemática caja cuadrada de acero inoxidable, tornillos visibles y números romanos, este modelo se ha convertido en un símbolo de lujo y distinción. Ideal tanto para ocasiones formales como para el día a día, este reloj destaca por su estilo refinado y atemporal.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+santos+5.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             }
         ]
     },
@@ -93,7 +102,8 @@
                 "description": "Diseño con precisión y estilo. El Casio Edifice combina un diseño robusto con funciones como cronómetro, taquímetro y subesferas funcionales. Su estructura sólida y estética deportiva lo convierten en el compañero ideal para el día a día o actividades al aire libre.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": false
             },
             {
                 "id": "CSE102",
@@ -102,7 +112,8 @@
                 "description": "Diseño con precisión y estilo. El Casio Edifice combina un diseño robusto con funciones como cronómetro, taquímetro y subesferas funcionales. Su estructura sólida y estética deportiva lo convierten en el compañero ideal para el día a día o actividades al aire libre.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+2.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": false
             },
             {
                 "id": "CSE103",
@@ -111,7 +122,8 @@
                 "description": "Diseño con precisión y estilo. El Casio Edifice combina un diseño robusto con funciones como cronómetro, taquímetro y subesferas funcionales. Su estructura sólida y estética deportiva lo convierten en el compañero ideal para el día a día o actividades al aire libre",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+3.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": false
             },
             {
                 "id": "CSE104",
@@ -120,7 +132,8 @@
                 "description": "Diseño con precisión y estilo. El Casio Edifice combina un diseño robusto con funciones como cronómetro, taquímetro y subesferas funcionales. Su estructura sólida y estética deportiva lo convierten en el compañero ideal para el día a día o actividades al aire libre.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+4.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": false
             },
             {
                 "id": "CSE105",
@@ -129,7 +142,8 @@
                 "description": "Diseño con precisión y estilo. El Casio Edifice combina un diseño robusto con funciones como cronómetro, taquímetro y subesferas funcionales. Su estructura sólida y estética deportiva lo convierten en el compañero ideal para el día a día o actividades al aire libre.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+EDIFICE+5.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": false
             },
             {
                 "id": "CSG101",
@@ -138,7 +152,8 @@
                 "description": "Este reloj combina una estética imponente y resistente con funciones digitales y analógicas en una estructura reforzada. Su diseño robusto y detalles de estilo industrial lo convierten en una pieza ideal para quienes buscan un reloj de alto impacto visual y funcional.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+g-shock.JPG",
-                "price": 85000
+                "price": 85000,
+                "disponibilidad": true
             },
             {
                 "id": "CSG102",
@@ -147,7 +162,8 @@
                 "description": "Este reloj combina una estética imponente y resistente con funciones digitales y analógicas en una estructura reforzada. Su diseño robusto y detalles de estilo industrial lo convierten en una pieza ideal para quienes buscan un reloj de alto impacto visual y funcional.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+g-shock+2.JPG",
-                "price": 85000
+                "price": 85000,
+                "disponibilidad": true
             },
             {
                 "id": "CSG103",
@@ -156,7 +172,8 @@
                 "description": "Este reloj combina una estética imponente y resistente con funciones digitales y analógicas en una estructura reforzada. Su diseño robusto y detalles de estilo industrial lo convierten en una pieza ideal para quienes buscan un reloj de alto impacto visual y funcional.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+g-shock+3.JPG",
-                "price": 85000
+                "price": 85000,
+                "disponibilidad": true
             },
             {
                 "id": "CSG104",
@@ -165,7 +182,8 @@
                 "description": "Este reloj combina una estética imponente y resistente con funciones digitales y analógicas en una estructura reforzada. Su diseño robusto y detalles de estilo industrial lo convierten en una pieza ideal para quienes buscan un reloj de alto impacto visual y funcional.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+g-shock+4.JPG",
-                "price": 85000
+                "price": 85000,
+                "disponibilidad": true
             },
             {
                 "id": "CSG105",
@@ -174,7 +192,8 @@
                 "description": "Este reloj combina una estética imponente y resistente con funciones digitales y analógicas en una estructura reforzada. Su diseño robusto y detalles de estilo industrial lo convierten en una pieza ideal para quienes buscan un reloj de alto impacto visual y funcional.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+g-shock+5.JPG",
-                "price": 85000
+                "price": 85000,
+                "disponibilidad": true
             },
             {
                 "id": "CSMTG101",
@@ -183,7 +202,8 @@
                 "description": "Diseñado para los que exigen potencia y estilo en un solo accesorio. Este modelo combina funcionalidad digital y analógica con una estructura robusta de alta resistencia. Ideal para quienes necesitan precisión, durabilidad y un diseño sofisticado.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+MT-G+1.jpg",
-                "price": 85000
+                "price": 85000,
+                "disponibilidad": true
             },
             {
                 "id": "CSMTG102",
@@ -192,7 +212,8 @@
                 "description": "Diseñado para los que exigen potencia y estilo en un solo accesorio. Este modelo combina funcionalidad digital y analógica con una estructura robusta de alta resistencia. Ideal para quienes necesitan precisión, durabilidad y un diseño sofisticado",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+MT-G+2.jpg",
-                "price": 85000
+                "price": 85000,
+                "disponibilidad": true
             },
             {
                 "id": "CSMTG103",
@@ -201,7 +222,8 @@
                 "description": "Diseñado para los que exigen potencia y estilo en un solo accesorio. Este modelo combina funcionalidad digital y analógica con una estructura robusta de alta resistencia. Ideal para quienes necesitan precisión, durabilidad y un diseño sofisticado",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+MT-G+3.jpg",
-                "price": 85000
+                "price": 85000,
+                "disponibilidad": true
             },
             {
                 "id": "CSMTG104",
@@ -210,7 +232,8 @@
                 "description": "Diseñado para los que exigen potencia y estilo en un solo accesorio. Este modelo combina funcionalidad digital y analógica con una estructura robusta de alta resistencia. Ideal para quienes necesitan precisión, durabilidad y un diseño sofisticado",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+MT-G+4.jpg",
-                "price": 85000
+                "price": 85000,
+                "disponibilidad": true
             },
             {
                 "id": "CSMTG105",
@@ -219,7 +242,8 @@
                 "description": "Diseñado para los que exigen potencia y estilo en un solo accesorio. Este modelo combina funcionalidad digital y analógica con una estructura robusta de alta resistencia. Ideal para quienes necesitan precisión, durabilidad y un diseño sofisticado",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+MT-G+5.jpg",
-                "price": 85000
+                "price": 85000,
+                "disponibilidad": true
             },
             {
                 "id": "CSF101",
@@ -228,7 +252,8 @@
                 "description": "Inspirado en la velocidad y el alto rendimiento. Cuenta con subesferas funcionales para fecha y día, caja resistente y correa cómoda para uso diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+Ferrari+1-2.jpg",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "CSF102",
@@ -237,7 +262,8 @@
                 "description": "Inspirado en la velocidad y el alto rendimiento. Cuenta con subesferas funcionales para fecha y día, caja resistente y correa cómoda para uso diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+Ferrari+2-2.jpg",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "CSF103",
@@ -246,7 +272,8 @@
                 "description": "Inspirado en la velocidad y el alto rendimiento. Cuenta con subesferas funcionales para fecha y día, caja resistente y correa cómoda para uso diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+Ferrari+3-2.jpg",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "CSF104",
@@ -255,7 +282,8 @@
                 "description": "Inspirado en la velocidad y el alto rendimiento. Cuenta con subesferas funcionales para fecha y día, caja resistente y correa cómoda para uso diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+Ferrari+4-2.jpg",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "CSF105",
@@ -264,7 +292,8 @@
                 "description": "Inspirado en la velocidad y el alto rendimiento. Cuenta con subesferas funcionales para fecha y día, caja resistente y correa cómoda para uso diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+Ferrari+5-2.jpg",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             }
         ]
     },
@@ -277,7 +306,9 @@
                 "description": "Reloj de diseño impactante que combina funcionalidad y elegancia. Con su estética deportiva y acabados tipo lujo, este modelo es ideal tanto para uso diario como para ocasiones especiales. Su carátula con subesferas decorativas y detalles en contraste lo convierten en una pieza llamativa y sofisticada.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8418.JPG",
-                "price": 145000
+                "price": 145000,
+                "disponibilidad": false
+                
             },
             {
                 "id": "CUR8392",
@@ -286,7 +317,8 @@
                 "description": "Este reloj ofrece una combinación perfecta entre diseño deportivo y elegancia casual. Su carátula con texturas geométricas, subesferas decorativas y marcadores en alto contraste hacen de este modelo una pieza ideal para destacar. Perfecto para el uso diario o para añadir estilo a un outfit moderno.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+correa+de+cuero+8392.JPG",
-                "price": 145000
+                "price": 145000,
+                "disponibilidad": false
             }
         ]
     },
@@ -299,7 +331,8 @@
                 "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+1.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "ORT102",
@@ -308,7 +341,8 @@
                 "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+2.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "ORT103",
@@ -317,7 +351,8 @@
                 "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+3.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "ORT104",
@@ -326,7 +361,8 @@
                 "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+4.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "ORT105",
@@ -335,7 +371,8 @@
                 "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+5.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "ORT106",
@@ -344,7 +381,8 @@
                 "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+6.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "ORT107",
@@ -353,7 +391,8 @@
                 "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+7.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "ORT108",
@@ -362,7 +401,8 @@
                 "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+8.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "ORTP101",
@@ -371,7 +411,8 @@
                 "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+1.JPG",
-                "price": 150000
+                "price": 150000,
+                "disponibilidad": true
             },
             {
                 "id": "ORTP102",
@@ -380,7 +421,8 @@
                 "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+2.JPG",
-                "price": 150000
+                "price": 150000,
+                "disponibilidad": true
             },
             {
                 "id": "ORTP103",
@@ -389,7 +431,8 @@
                 "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+3.JPG",
-                "price": 150000
+                "price": 150000,
+                "disponibilidad": true
             },
             {
                 "id": "ORTP104",
@@ -398,7 +441,8 @@
                 "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+4.JPG",
-                "price": 150000
+                "price": 150000,
+                "disponibilidad": true
             },
             {
                 "id": "ORTP105",
@@ -407,7 +451,8 @@
                 "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+5.JPG",
-                "price": 150000
+                "price": 150000,
+                "disponibilidad": true
             },
             {
                 "id": "ORTP106",
@@ -416,7 +461,8 @@
                 "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+6.JPG",
-                "price": 150000
+                "price": 150000,
+                "disponibilidad": true
             },
             {
                 "id": "ORTP107",
@@ -425,7 +471,8 @@
                 "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+7.JPG",
-                "price": 150000
+                "price": 150000,
+                "disponibilidad": true
             }
         ]
     },
@@ -438,7 +485,8 @@
                 "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+1-1.JPG",
-                "price": 55000
+                "price": 55000,
+                "disponibilidad": true
             },
             {
                 "id": "VSC102",
@@ -447,7 +495,8 @@
                 "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+2-1.JPG",
-                "price": 55000
+                "price": 55000,
+                "disponibilidad": true
             },
             {
                 "id": "VSC103",
@@ -456,7 +505,8 @@
                 "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+3-1.JPG",
-                "price": 55000
+                "price": 55000,
+                "disponibilidad": true
             },
             {
                 "id": "VSC104",
@@ -465,7 +515,8 @@
                 "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+4-1.JPG",
-                "price": 55000
+                "price": 55000,
+                "disponibilidad": true
             },
             {
                 "id": "VSC105",
@@ -474,7 +525,8 @@
                 "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+5-1.JPG",
-                "price": 55000
+                "price": 55000,
+                "disponibilidad": true
             },
             {
                 "id": "VSC106",
@@ -483,7 +535,8 @@
                 "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+6-1.JPG",
-                "price": 55000
+                "price": 55000,
+                "disponibilidad": true
             }
         ]
     },
@@ -496,7 +549,8 @@
                 "description": "Este reloj Q&Q ofrece una propuesta sobria y refinada para quienes buscan estilo y funcionalidad. Su carátula minimalista con marcadores lineales y acabado metálico lo convierte en una pieza ideal para el uso diario o eventos formales. Combinando calidad y diseño, es una excelente opción para completar cualquier look.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "Q&Q102",
@@ -505,7 +559,8 @@
                 "description": "Este reloj Q&Q ofrece una propuesta sobria y refinada para quienes buscan estilo y funcionalidad. Su carátula minimalista con marcadores lineales y acabado metálico lo convierte en una pieza ideal para el uso diario o eventos formales. Combinando calidad y diseño, es una excelente opción para completar cualquier look.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+2.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "Q&Q103",
@@ -514,7 +569,8 @@
                 "description": "Este reloj Q&Q ofrece una propuesta sobria y refinada para quienes buscan estilo y funcionalidad. Su carátula minimalista con marcadores lineales y acabado metálico lo convierte en una pieza ideal para el uso diario o eventos formales. Combinando calidad y diseño, es una excelente opción para completar cualquier look.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+3.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "Q&Q104",
@@ -523,7 +579,8 @@
                 "description": "Este reloj Q&Q ofrece una propuesta sobria y refinada para quienes buscan estilo y funcionalidad. Su carátula minimalista con marcadores lineales y acabado metálico lo convierte en una pieza ideal para el uso diario o eventos formales. Combinando calidad y diseño, es una excelente opción para completar cualquier look.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+4.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "Q&Q106",
@@ -532,7 +589,8 @@
                 "description": "Este reloj Q&Q ofrece una propuesta sobria y refinada para quienes buscan estilo y funcionalidad. Su carátula minimalista con marcadores lineales y acabado metálico lo convierte en una pieza ideal para el uso diario o eventos formales. Combinando calidad y diseño, es una excelente opción para completar cualquier look.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+6.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "Q&Q107",
@@ -541,7 +599,8 @@
                 "description": "Este reloj Q&Q ofrece una propuesta sobria y refinada para quienes buscan estilo y funcionalidad. Su carátula minimalista con marcadores lineales y acabado metálico lo convierte en una pieza ideal para el uso diario o eventos formales. Combinando calidad y diseño, es una excelente opción para completar cualquier look.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+7.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "Q&QPM101",
@@ -550,7 +609,8 @@
                 "description": "Diseño elegante y funcional. Este reloj Q&Q destaca por su estética minimalista con carátula negra y correa tipo malla milanesa en acero inoxidable. Ideal para quienes buscan un estilo con personalidad, perfecto para el uso diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+PULSO+MALLA.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "Q&QPM102",
@@ -559,7 +619,8 @@
                 "description": "Diseño elegante y funcional. Este reloj Q&Q destaca por su estética minimalista con carátula negra y correa tipo malla milanesa en acero inoxidable. Ideal para quienes buscan un estilo con personalidad, perfecto para el uso diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+PULSO+MALLA+2.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             }
         ]
     },
@@ -572,7 +633,8 @@
                 "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+1.jpg",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": false
             },
             {
                 "id": "RLXG102",
@@ -581,7 +643,8 @@
                 "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+2.jpg",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": false
             },
             {
                 "id": "RLXG103",
@@ -590,7 +653,8 @@
                 "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+3.jpg",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": false
             },
             {
                 "id": "RLXG104",
@@ -599,7 +663,8 @@
                 "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+4.jpg",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": false
             },
             {
                 "id": "RLXG105",
@@ -608,7 +673,8 @@
                 "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+5.jpg",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": false
             },
             {
                 "id": "RLXG106",
@@ -617,7 +683,8 @@
                 "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+6.jpg",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": false
             },
             {
                 "id": "RLXG107",
@@ -626,7 +693,8 @@
                 "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+7.jpg",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": false
             },
             {
                 "id": "RLXG108",
@@ -635,7 +703,8 @@
                 "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+8.jpg",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": false
             },
             {
                 "id": "RLXG109",
@@ -644,7 +713,8 @@
                 "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+9.jpg",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": false
             },
             {
                 "id": "RLXD101",
@@ -653,7 +723,8 @@
                 "description": "El Rolex Daytona es un reloj legendario diseñado para quienes buscan precisión, rendimiento y un diseño imponente. Su carátula cronográfica y bisel taquimétrico lo convierten en una pieza emblemática del automovilismo y el lujo. Este modelo ofrece un equilibrio perfecto entre sofisticación y funcionalidad.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXD102",
@@ -662,7 +733,8 @@
                 "description": "El Rolex Daytona es un reloj legendario diseñado para quienes buscan precisión, rendimiento y un diseño imponente. Su carátula cronográfica y bisel taquimétrico lo convierten en una pieza emblemática del automovilismo y el lujo. Este modelo ofrece un equilibrio perfecto entre sofisticación y funcionalidad.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+2.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXD103",
@@ -671,7 +743,8 @@
                 "description": "El Rolex Daytona es un reloj legendario diseñado para quienes buscan precisión, rendimiento y un diseño imponente. Su carátula cronográfica y bisel taquimétrico lo convierten en una pieza emblemática del automovilismo y el lujo. Este modelo ofrece un equilibrio perfecto entre sofisticación y funcionalidad.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+3.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXD104",
@@ -680,7 +753,8 @@
                 "description": "El Rolex Daytona es un reloj legendario diseñado para quienes buscan precisión, rendimiento y un diseño imponente. Su carátula cronográfica y bisel taquimétrico lo convierten en una pieza emblemática del automovilismo y el lujo. Este modelo ofrece un equilibrio perfecto entre sofisticación y funcionalidad.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+4.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXP101",
@@ -689,7 +763,8 @@
                 "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas.JPG",
-                "price": 150000
+                "price": 150000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXP102",
@@ -698,7 +773,8 @@
                 "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+2.JPG",
-                "price": 150000
+                "price": 150000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXP103",
@@ -707,7 +783,8 @@
                 "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+3.JPG",
-                "price": 150000
+                "price": 150000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXP104",
@@ -716,7 +793,8 @@
                 "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+4.JPG",
-                "price": 150000
+                "price": 150000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXP105",
@@ -725,7 +803,8 @@
                 "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+5.JPG",
-                "price": 150000
+                "price": 150000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXP106",
@@ -734,7 +813,8 @@
                 "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+6.JPG",
-                "price": 150000
+                "price": 150000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXS101",
@@ -743,7 +823,8 @@
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXS102",
@@ -752,7 +833,8 @@
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+2.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXS103",
@@ -761,7 +843,8 @@
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+3.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXS104",
@@ -770,7 +853,8 @@
                 "description": "Esta versión con carátula y bisel verde, es una de las más codiciadas. Su diseño robusto y elegante combina resistencia profesional con una estética de alto lujo, ideal tanto para el día a día como para ocasiones formales.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+4.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXS105",
@@ -779,7 +863,8 @@
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+5.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXS106",
@@ -788,7 +873,8 @@
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+6.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXS107",
@@ -797,7 +883,8 @@
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+7.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXS108",
@@ -806,7 +893,8 @@
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+8.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXS109",
@@ -815,7 +903,8 @@
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+9.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXS110",
@@ -824,7 +913,8 @@
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+10.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXS111",
@@ -833,7 +923,8 @@
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+11.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXS112",
@@ -842,7 +933,8 @@
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+12.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXS113",
@@ -851,7 +943,8 @@
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+13.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXS114",
@@ -860,7 +953,8 @@
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+14.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXS115",
@@ -869,7 +963,8 @@
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+15.JPG",
-                "price": 80000
+                "price": 80000,
+                "disponibilidad": true
             }
         ]
     },
@@ -882,7 +977,8 @@
                 "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc.JPG",
-                "price": 110000
+                "price": 110000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBTC102",
@@ -891,7 +987,8 @@
                 "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+2.JPG",
-                "price": 110000
+                "price": 110000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBTC103",
@@ -900,7 +997,8 @@
                 "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+3.JPG",
-                "price": 110000
+                "price": 110000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBTC104",
@@ -909,7 +1007,8 @@
                 "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+4.JPG",
-                "price": 110000
+                "price": 110000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBTC105",
@@ -918,7 +1017,8 @@
                 "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+5.JPG",
-                "price": 110000
+                "price": 110000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBTC106",
@@ -927,7 +1027,8 @@
                 "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+6.JPG",
-                "price": 110000
+                "price": 110000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBTC107",
@@ -936,7 +1037,8 @@
                 "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+7.JPG",
-                "price": 110000
+                "price": 110000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBTC108",
@@ -945,7 +1047,8 @@
                 "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+8.JPG",
-                "price": 110000
+                "price": 110000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBTC109",
@@ -954,7 +1057,8 @@
                 "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+9.JPG",
-                "price": 110000
+                "price": 110000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBTC110",
@@ -963,7 +1067,8 @@
                 "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+10.JPG",
-                "price": 110000
+                "price": 110000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBTC111",
@@ -972,7 +1077,8 @@
                 "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+11.JPG",
-                "price": 110000
+                "price": 110000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBM101",
@@ -981,7 +1087,8 @@
                 "description": "Un modelo audaz que fusiona un estilo moderno con toques industriales. Su diseño simétrico y dinámico ofrece una apariencia llamativa, ideal para quienes buscan algo diferente y con carácter.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Mitsu+1.JPG",
-                "price": 65000
+                "price": 65000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBM102",
@@ -990,7 +1097,8 @@
                 "description": "Un modelo audaz que fusiona un estilo moderno con toques industriales. Su diseño simétrico y dinámico ofrece una apariencia llamativa, ideal para quienes buscan algo diferente y con carácter.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Mitsu+2.JPG",
-                "price": 65000
+                "price": 65000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBM103",
@@ -999,7 +1107,8 @@
                 "description": "Un modelo audaz que fusiona un estilo moderno con toques industriales. Su diseño simétrico y dinámico ofrece una apariencia llamativa, ideal para quienes buscan algo diferente y con carácter.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Mitsu+3.JPG",
-                "price": 65000
+                "price": 65000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBM104",
@@ -1008,7 +1117,8 @@
                 "description": "Un modelo audaz que fusiona un estilo moderno con toques industriales. Su diseño simétrico y dinámico ofrece una apariencia llamativa, ideal para quienes buscan algo diferente y con carácter.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Mitsu+4.JPG",
-                "price": 65000
+                "price": 65000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBJ101",
@@ -1017,7 +1127,8 @@
                 "description": "Un reloj con un diseño impactante y moderno, que combina geometría y elegancia en una sola pieza. Perfecto para quienes buscan estilo con un toque futurista y exclusivo.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Jet+1.JPG",
-                "price": 65000
+                "price": 65000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBJ102",
@@ -1026,7 +1137,8 @@
                 "description": "Un reloj con un diseño impactante y moderno, que combina geometría y elegancia en una sola pieza. Perfecto para quienes buscan estilo con un toque futurista y exclusivo.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Jet+2.JPG",
-                "price": 65000
+                "price": 65000,
+                "disponibilidad": true
             },
             {
                 "id": "MTBJ103",
@@ -1035,7 +1147,8 @@
                 "description": "Un reloj con un diseño impactante y moderno, que combina geometría y elegancia en una sola pieza. Perfecto para quienes buscan estilo con un toque futurista y exclusivo.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Jet+3.JPG",
-                "price": 65000
+                "price": 65000,
+                "disponibilidad": true
             }
         ]
     },
@@ -1048,7 +1161,8 @@
                 "description": "Reloj deportivo de alta gama con diseño robusto y funcional. Este modelo combina una estructura resistente con un estilo sofisticado, ideal para quienes buscan precisión, elegancia y rendimiento en un solo accesorio.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+AAA+1.JPG",
-                "price": 130000
+                "price": 130000,
+                "disponibilidad": true
             },
             {
                 "id": "INV102",
@@ -1057,7 +1171,8 @@
                 "description": "Reloj deportivo de alta gama con diseño robusto y funcional. Este modelo combina una estructura resistente con un estilo sofisticado, ideal para quienes buscan precisión, elegancia y rendimiento en un solo accesorio.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+AAA+2.JPG",
-                "price": 130000
+                "price": 130000,
+                "disponibilidad": true
             },
             {
                 "id": "INV103",
@@ -1066,7 +1181,8 @@
                 "description": "Reloj deportivo de alta gama con diseño robusto y funcional. Este modelo combina una estructura resistente con un estilo sofisticado, ideal para quienes buscan precisión, elegancia y rendimiento en un solo accesorio.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+AAA+3.JPG",
-                "price": 130000
+                "price": 130000,
+                "disponibilidad": true
             }
         ]
     },
@@ -1079,7 +1195,8 @@
                 "description": "Un reloj versátil con estética deportiva y tecnología dual que combina visualización análoga y digital. Ideal para quienes buscan funcionalidad sin perder estilo.",
                 "presentacion":"Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint.JPG",
-                "price": 95000
+                "price": 95000,
+                "disponibilidad": true
             },
             {
                 "id": "SNT102",
@@ -1088,7 +1205,8 @@
                 "description": "Un reloj versátil con estética deportiva y tecnología dual que combina visualización análoga y digital. Ideal para quienes buscan funcionalidad sin perder estilo.",
                 "presentacion":"Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+2.JPG",
-                "price": 95000
+                "price": 95000,
+                "disponibilidad": true
             },
             {
                 "id": "SNT103",
@@ -1097,7 +1215,8 @@
                 "description": "Un reloj versátil con estética deportiva y tecnología dual que combina visualización análoga y digital. Ideal para quienes buscan funcionalidad sin perder estilo.",
                 "presentacion":"Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+3.JPG",
-                "price": 95000
+                "price": 95000,
+                "disponibilidad": true
             },
             {
                 "id": "SNT104",
@@ -1106,7 +1225,8 @@
                 "description": "Un reloj versátil con estética deportiva y tecnología dual que combina visualización análoga y digital. Ideal para quienes buscan funcionalidad sin perder estilo.",
                 "presentacion":"Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+4.JPG",
-                "price": 95000
+                "price": 95000,
+                "disponibilidad": true
             },
             {
                 "id": "SNTX101",
@@ -1115,7 +1235,8 @@
                 "description": "Un reloj de diseño robusto, ideal para quienes buscan estilo y funcionalidad en su día a día. El modelo combina hora análoga y digital, perfecto para quienes valoran la precisión y la versatilidad",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+X+1-2.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "SNTX102",
@@ -1124,7 +1245,8 @@
                 "description": "Un reloj de diseño robusto, ideal para quienes buscan estilo y funcionalidad en su día a día. El modelo combina hora análoga y digital, perfecto para quienes valoran la precisión y la versatilidad",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+X+2-2.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "SNTX103",
@@ -1133,7 +1255,8 @@
                 "description": "Un reloj de diseño robusto, ideal para quienes buscan estilo y funcionalidad en su día a día. El modelo combina hora análoga y digital, perfecto para quienes valoran la precisión y la versatilidad",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+X+3-2.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "SNTX104",
@@ -1142,7 +1265,8 @@
                 "description": "Un reloj de diseño robusto, ideal para quienes buscan estilo y funcionalidad en su día a día. El modelo combina hora análoga y digital, perfecto para quienes valoran la precisión y la versatilidad",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+X+4-2.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "SNTX105",
@@ -1151,7 +1275,8 @@
                 "description": "Un reloj de diseño robusto, ideal para quienes buscan estilo y funcionalidad en su día a día. El modelo combina hora análoga y digital, perfecto para quienes valoran la precisión y la versatilidad",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+X+5-2.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             }
         ]
     },
@@ -1164,7 +1289,8 @@
                 "description": "El lujo y la ingeniería se combinan en este impresionante reloj Richard Mille. Este modelo presenta una caja robusta de forma rectangular curva, tornillos visibles en el bisel, detalles deportivos y una carátula que deja al descubierto su sofisticado mecanismo interior.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+mille.JPG",
-                "price": 90000
+                "price": 90000,
+                "disponibilidad": false
             },
             {
                 "id": "RCH102",
@@ -1173,7 +1299,8 @@
                 "description": "El lujo y la ingeniería se combinan en este impresionante reloj Richard Mille. Este modelo presenta una caja robusta de forma rectangular curva, tornillos visibles en el bisel, detalles deportivos en color rojo y una carátula que deja al descubierto su sofisticado mecanismo interior.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+mille+2.JPG",
-                "price": 90000
+                "price": 90000,
+                "disponibilidad": false
             },
             {
                 "id": "RCH103",
@@ -1182,7 +1309,8 @@
                 "description": "Diseño vanguardista con mecanismo expuesto que impone presencia. Inspirado en la alta relojería, este reloj destaca por su caja robusta, estilo deportivo y un dial que deja ver su mecanismo interno. Ideal para quienes buscan una pieza impactante, moderna y con carácter.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+3+-1.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "RCH104",
@@ -1191,7 +1319,8 @@
                 "description": "Diseño vanguardista con mecanismo expuesto que impone presencia. Inspirado en la alta relojería, este reloj destaca por su caja robusta, estilo deportivo y un dial que deja ver su mecanismo interno. Ideal para quienes buscan una pieza impactante, moderna y con carácter.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+4+-1.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "RCH105",
@@ -1200,7 +1329,8 @@
                 "description": "Diseño vanguardista con mecanismo expuesto que impone presencia. Inspirado en la alta relojería, este reloj destaca por su caja robusta, estilo deportivo y un dial que deja ver su mecanismo interno. Ideal para quienes buscan una pieza impactante, moderna y con carácter.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+5.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "RCH106",
@@ -1209,7 +1339,8 @@
                 "description": "Diseño vanguardista con mecanismo expuesto que impone presencia. Inspirado en la alta relojería, este reloj destaca por su caja robusta, estilo deportivo y un dial que deja ver su mecanismo interno. Ideal para quienes buscan una pieza impactante, moderna y con carácter.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+6+-1.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "RCH107",
@@ -1218,7 +1349,8 @@
                 "description": "Diseño vanguardista con mecanismo expuesto que impone presencia. Inspirado en la alta relojería, este reloj destaca por su caja robusta, estilo deportivo y un dial que deja ver su mecanismo interno. Ideal para quienes buscan una pieza impactante, moderna y con carácter.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+7.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             },
             {
                 "id": "RCH108",
@@ -1227,7 +1359,9 @@
                 "description": "Diseño vanguardista con mecanismo expuesto que impone presencia. Inspirado en la alta relojería, este reloj destaca por su caja robusta, estilo deportivo y un dial que deja ver su mecanismo interno. Ideal para quienes buscan una pieza impactante, moderna y con carácter.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+8.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
+                
             },
             {
                 "id": "RCH109",
@@ -1236,7 +1370,8 @@
                 "description": "Diseño vanguardista con mecanismo expuesto que impone presencia. Inspirado en la alta relojería, este reloj destaca por su caja robusta, estilo deportivo y un dial que deja ver su mecanismo interno. Ideal para quienes buscan una pieza impactante, moderna y con carácter.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+9.JPG",
-                "price": 75000
+                "price": 75000,
+                "disponibilidad": true
             }
         ]
     },
@@ -1249,7 +1384,8 @@
                 "description": "Reloj de diseño elegante y sofisticado, ideal para quienes buscan destacar con un estilo refinado. Incluye un brazalete a juego que complementa perfectamente la estética del reloj, convirtiéndolo en un set ideal para regalo o uso personal. Mecanismo preciso, correa metálica de alta durabilidad.",
                 "presentacion": "Presentación en caja de lujo",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+con+brazalete+1.JPG",
-                "price": 130000
+                "price": 180000,
+                "disponibilidad": false
             },
             {
                 "id": "BRZ102",
@@ -1258,7 +1394,8 @@
                 "description": "Este elegante reloj tipo Rolex destaca por su acabado metálico brillante y carátula blanca con detalles refinados, ideal para quienes buscan distinción y presencia. Incluye un brazalete a juego con el logotipo grabado, complementando el set con un toque de lujo adicional. Perfecto para regalo o para elevar tu estilo diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+con+brazalete+1.JPG",
-                "price": 130000
+                "price": 180000,
+                "disponibilidad": true
             }
         ]
     },
@@ -1271,7 +1408,8 @@
                 "description": "Un reloj imponente y atrevido con un diseño que desafía lo convencional. La carátula presenta una calavera detallada en relieve, haciendo de este modelo una elección audaz para quienes buscan destacar con estilo.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/skmei+9178+calabera.JPG",
-                "price": 120000
+                "price": 120000,
+                "disponibilidad": true
             },
             {
                 "id": "DSL101",
@@ -1280,7 +1418,8 @@
                 "description": "Este reloj combina una estética robusta con funcionalidades modernas. Su carátula incluye detalles analógicos y digitales, perfectos para quienes buscan estilo y utilidad en un solo accesorio.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Diesel.JPG",
-                "price": 70000
+                "price": 70000,
+                "disponibilidad": true
             },
             {
                 "id": "FSS101",
@@ -1289,7 +1428,8 @@
                 "description": "Diseñado para quienes valoran la elegancia con tecnología funcional, este reloj presenta un formato análogo-digital que ofrece precisión y versatilidad en el día a día.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Fossil.JPG",
-                "price": 65000
+                "price": 65000,
+                "disponibilidad": false
             },
             {
                 "id": "FSS102",
@@ -1298,7 +1438,8 @@
                 "description": "Diseñado para quienes valoran la elegancia con tecnología funcional, este reloj presenta un formato análogo-digital que ofrece precisión y versatilidad en el día a día.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Fossil+2.JPG",
-                "price": 65000
+                "price": 65000,
+                "disponibilidad": false
             },
             {
                 "id": "MDO101",
@@ -1307,7 +1448,8 @@
                 "description": "Un diseño delgado, limpio y sofisticado que combina el estilo clásico con una malla metálica tipo milanesa, ideal para quienes buscan sobriedad sin renunciar al buen gusto. Perfecto para ocasiones formales o uso diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Mido.JPG",
-                "price": 70000
+                "price": 70000,
+                "disponibilidad": true
             }
         ]
     }
