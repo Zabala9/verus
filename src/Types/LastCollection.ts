@@ -180,13 +180,14 @@ export const LastCollection = [
         "disponibilidad": true
     },
     {
-        "id": "RCH107",
-        "name": "Richard Mille",
-        "color": "Negro con detalles dorados",
-        "description": "Diseño vanguardista con mecanismo expuesto que impone presencia. Inspirado en la alta relojería, este reloj destaca por su caja robusta, estilo deportivo y un dial que deja ver su mecanismo interno. Ideal para quienes buscan una pieza impactante, moderna y con carácter.",
+        "id": "TNMC102",
+        "name": "TechnoMarine",
+        "color": "Correa negra con carátula blanca",
+        "description": "Un reloj imponente que destaca por su diseño audaz y acabados de alta calidad. Su estilo deportivo con detalles de lujo lo convierte en una pieza perfecta para quienes buscan destacar con clase y personalidad.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+7.JPG",
-        "price": 75000
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Technomarine+C+2.JPG",
+        "price": 85000,
+        "disponibilidad": true
     },
     {
         "id": "BRZ102",
