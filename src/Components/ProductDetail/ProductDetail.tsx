@@ -49,14 +49,25 @@ function ProductDetail() {
             <p id="label-description">{product.description}</p>
             <label id="label-color"><strong>Color:</strong> {product.color}</label>
             <label>{product.presentacion}</label>
-            <p><strong>Precio: </strong> ${product.price.toLocaleString()}</p>
+            <p id="label-precio"><strong>Precio: </strong> ${product.price.toLocaleString()}</p>
 
             <div className="container-contact-detail">
-                <a id="link-to-whatsapp" href="https://wa.me/573132679419/"
-                    target="_blank" rel="noopener noreferrer" >
-                    {/* <img id="logo-whatsapp" src={`${process.env.PUBLIC_URL}/Assets/logo-whatsapp.jpg`} alt="" ></img> */}
-                    <span id="label-quiero">LO QUIERO</span>
-                </a>
+                {
+                    product.disponibilidad ? 
+                        <a id="link-to-whatsapp" href="https://wa.me/573132679419/"
+                            target="_blank" rel="noopener noreferrer" >
+                            {/* <img id="logo-whatsapp" src={`${process.env.PUBLIC_URL}/Assets/logo-whatsapp.jpg`} alt="" ></img> */}
+
+                            <span id="label-quiero">LO QUIERO</span>
+                        </a>
+                    :
+                        <>
+                            <span id="label-no-disponible">Por el momento esta referencia esta AGOTADA</span>
+                            <br/>
+                            <br/>
+                            <Link to='/relojes' id="explorar-mas">EXPLORAR OTRAS REFERENCIAS</Link>
+                        </>
+                }
             </div>
         </div>
     )
