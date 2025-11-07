@@ -31,7 +31,7 @@ function MainPage() {
         if (showAdvertising) {
             const timer = setTimeout(() => {
                 setShowAdvertising(false);
-            }, 3000); // 3 segundos
+            }, 7000); // 3 segundos
 
             return () => clearTimeout(timer); // limpieza por si se desmonta antes
         }
