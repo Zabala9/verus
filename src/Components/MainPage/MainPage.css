@@ -10,6 +10,43 @@ label{
     margin-top: 30px;
 }
 
+.overlay-advertising {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.8); /* Fondo oscuro */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* Muy por encima del resto del contenido */
+}
+
+.container-advertising {
+    position: relative;
+    display: flex;
+    max-width: 90%;
+    max-height: 90%;
+    max-height: 100vh;
+    /* overflow: hidden; */
+    border-radius: 8px;
+}
+
+#close-advertising {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: white;
+    color: rgb(100, 100, 100);
+    border: none;
+    border-radius: 6px;
+    font-size: 24px;
+    cursor: pointer;
+    font-weight: bold;
+    z-index: 3;
+}
+
 #label-introduction{
     font-size: 35px;
     display: flex;

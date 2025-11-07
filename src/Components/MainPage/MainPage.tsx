@@ -2,12 +2,14 @@ import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Product } from '../../Types/Products';
 import { LastCollection } from '../../Types/LastCollection';
+import Advertising from '../Advertising/Advertising';
 import './MainPage.css';
 
 function MainPage() {
     // const chunkSize = 6;
     const [visibleProducts, setVisibleProducts] = useState<Product[]>([]);
     const [isReadyToScroll, setIsReadyToScroll] = useState(false);
+    const [showAdvertising, setShowAdvertising] = useState(true);
     // const [loadCount, setLoadCount] = useState<number>(chunkSize);
 
     useEffect(() => {
@@ -43,6 +45,16 @@ function MainPage() {
 
     return (
         <div className='container-main-page'>
+            {
+                showAdvertising &&
+                    <div className='overlay-advertising'>
+                        <div className='container-advertising'>
+                            <button id="close-advertising" onClick={() => setShowAdvertising(false)}>X</button>
+                            <Advertising  />
+                        </div>
+                    </div>
+            }
+
             <label id='label-introduction'>Descubre nuestra ultima colección</label>
             <Link to='/relojes' id='button-explorar'>EXPLORAR AHORA</Link>
             {/* en el futuro cambiar link para catalogo (ver todo) */}
