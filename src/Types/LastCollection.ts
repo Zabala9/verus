@@ -30,13 +30,13 @@ export const LastCollection = [
         "disponibilidad": true
     },
     {
-        "id": "Q&Q102",
-        "name": "Q&Q",
-        "color": "Dorado con carátula negra",
-        "description": "Este reloj Q&Q ofrece una propuesta sobria y refinada para quienes buscan estilo y funcionalidad. Su carátula minimalista con marcadores lineales y acabado metálico lo convierte en una pieza ideal para el uso diario o eventos formales. Combinando calidad y diseño, es una excelente opción para completar cualquier look.",
+        "id": "TNMR107",
+        "name": "TechnoMarine",
+        "color": "Negro",
+        "description": "Este elegante modelo de TechnoMarine combina una estética robusta con detalles refinados. Presenta una carátula con números arábigos de gran visibilidad y marcadores bien definidos, junto con un bisel texturizado que le aporta un toque distintivo. Incluye fechador ubicado estratégicamente y manecillas con diseño llamativo. Su correa tipo caucho asegura comodidad y durabilidad para el uso diario o actividades más activas.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+2.JPG",
-        "price": 75000,
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Technomarine+7.JPG",
+        "price": 85000,
         "disponibilidad": true
     },
     {
