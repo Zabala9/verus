@@ -65,7 +65,7 @@ export const LastCollection = [
         "color": "Plateado con carátula y bisel verde",
         "description": "Esta versión con carátula y bisel verde, es una de las más codiciadas. Su diseño robusto y elegante combina resistencia profesional con una estética de alto lujo, ideal tanto para el día a día como para ocasiones formales.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+4.JPG",
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+4+n.JPG",
         "price": 75000,
         "disponibilidad": true
     },
