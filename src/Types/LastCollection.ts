@@ -20,13 +20,13 @@ export const LastCollection = [
         "disponibilidad": true
     },
     {
-        "id": "RLXD102",
-        "name": "Rolex Daytona",
-        "color": "Plateado con carátula blanca",
-        "description": "El Rolex Daytona es un reloj legendario diseñado para quienes buscan precisión, rendimiento y un diseño imponente. Su carátula cronográfica y bisel taquimétrico lo convierten en una pieza emblemática del automovilismo y el lujo. Este modelo ofrece un equilibrio perfecto entre sofisticación y funcionalidad.",
+        "id": "RLXDJ104",
+        "name": "Rolex Datejust para Dama",
+        "color": "Dorado con carátula negra",
+        "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+2.JPG",
-        "price": 75000,
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+4.JPG",
+        "price": 80000,
         "disponibilidad": true
     },
     {
