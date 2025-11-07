@@ -56,6 +56,7 @@ label{
 .product-card-relojes{
     display: flex;
     flex-direction: column;
+    align-items: center;
     /* background-color: green; */
 }
 
@@ -75,5 +76,5 @@ label{
     word-wrap: break-word;
     /* background-color: green; */
     /* height: 50px; */
-    /* max-width: 100px; */
+    max-width: 130px;
 }
