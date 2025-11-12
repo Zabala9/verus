@@ -749,6 +749,50 @@
         ]
     },
     {
+        "G-Force": [
+            {
+                "id": "GFRCC101",
+                "name": "G-FORCE Cronografo",
+                "color": "Negro con detalles metálicos",
+                "description": "Este reloj destaca por su forma geométrica moderna y su textura deportiva que le aporta un carácter imponente. Su caja angular con detalles metálicos ofrece una estética robusta y elegante a la vez.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+cronografo+1.JPG",
+                "price": 125000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GFRCC102",
+                "name": "G-FORCE Cronografo",
+                "color": "Rojo con detalles en negro",
+                "description": "Este reloj destaca por su forma geométrica moderna y su textura deportiva que le aporta un carácter imponente. Su caja angular con detalles metálicos ofrece una estética robusta y elegante a la vez.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+cronografo+2.JPG",
+                "price": 125000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GFRCC103",
+                "name": "G-FORCE Cronografo",
+                "color": "Negro con detalles en oro rosa",
+                "description": "Este reloj destaca por su forma geométrica moderna y su textura deportiva que le aporta un carácter imponente. Su caja angular con detalles metálicos ofrece una estética robusta y elegante a la vez.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+cronografo+3.JPG",
+                "price": 125000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GFRCC104",
+                "name": "G-FORCE Cronografo",
+                "color": "Azul con detalles metálicos",
+                "description": "Este reloj destaca por su forma geométrica moderna y su textura deportiva que le aporta un carácter imponente. Su caja angular con detalles metálicos ofrece una estética robusta y elegante a la vez.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+cronografo+4.JPG",
+                "price": 125000,
+                "disponibilidad": true
+            }
+        ]
+    },
+    {
         "Rolex": [
             {
                 "id": "RLXG101",
@@ -942,32 +986,32 @@
             },
             {
                 "id": "RLXS101",
-                "name": "Rolex Submariner",
+                "name": "Rolex Submariner Semi automatico",
                 "color": "Plateado con carátula negra",
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+1.JPG",
-                "price": 80000,
+                "price": 90000,
                 "disponibilidad": true
             },
             {
                 "id": "RLXS102",
-                "name": "Rolex Submariner",
+                "name": "Rolex Submariner Semi automatico",
                 "color": "Plateado con carátula azul",
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+2+n.JPG",
-                "price": 80000,
+                "price": 90000,
                 "disponibilidad": true
             },
             {
                 "id": "RLXS103",
-                "name": "Rolex Submariner",
+                "name": "Rolex Submariner Semi automatico",
                 "color": "Plateado con detalles dorados y carátula negra",
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+3+n.JPG",
-                "price": 80000,
+                "price": 90000,
                 "disponibilidad": true
             },
             {
@@ -977,7 +1021,7 @@
                 "description": "Esta versión con carátula y bisel verde, es una de las más codiciadas. Su diseño robusto y elegante combina resistencia profesional con una estética de alto lujo, ideal tanto para el día a día como para ocasiones formales.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+4+n.JPG",
-                "price": 80000,
+                "price": 90000,
                 "disponibilidad": true
             },
             {
@@ -992,12 +1036,12 @@
             },
             {
                 "id": "RLXS106",
-                "name": "Rolex Submariner",
+                "name": "Rolex Submariner Semi automatico",
                 "color": "Plateado con detalles dorados y carátula azul",
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+6.JPG",
-                "price": 80000,
+                "price": 90000,
                 "disponibilidad": true
             },
             {
@@ -1082,12 +1126,12 @@
             },
             {
                 "id": "RLXS115",
-                "name": "Rolex Submariner",
+                "name": "Rolex Submariner Semi automatico",
                 "color": "",
                 "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+15.JPG",
-                "price": 80000,
+                "price": 90000,
                 "disponibilidad": true
             },
             {
