@@ -749,6 +749,50 @@
         ]
     },
     {
+        "G-Force": [
+            {
+                "id": "GFRCC101",
+                "name": "G-FORCE Cronografo",
+                "color": "Negro con detalles metálicos",
+                "description": "Este reloj destaca por su forma geométrica moderna y su textura deportiva que le aporta un carácter imponente. Su caja angular con detalles metálicos ofrece una estética robusta y elegante a la vez.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+cronografo+1.JPG",
+                "price": 125000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GFRCC102",
+                "name": "G-FORCE Cronografo",
+                "color": "Rojo con detalles en negro",
+                "description": "Este reloj destaca por su forma geométrica moderna y su textura deportiva que le aporta un carácter imponente. Su caja angular con detalles metálicos ofrece una estética robusta y elegante a la vez.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+cronografo+2.JPG",
+                "price": 125000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GFRCC103",
+                "name": "G-FORCE Cronografo",
+                "color": "Negro con detalles en oro rosa",
+                "description": "Este reloj destaca por su forma geométrica moderna y su textura deportiva que le aporta un carácter imponente. Su caja angular con detalles metálicos ofrece una estética robusta y elegante a la vez.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+cronografo+3.JPG",
+                "price": 125000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GFRCC104",
+                "name": "G-FORCE Cronografo",
+                "color": "Azul con detalles metálicos",
+                "description": "Este reloj destaca por su forma geométrica moderna y su textura deportiva que le aporta un carácter imponente. Su caja angular con detalles metálicos ofrece una estética robusta y elegante a la vez.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+cronografo+4.JPG",
+                "price": 125000,
+                "disponibilidad": true
+            }
+        ]
+    },
+    {
         "Rolex": [
             {
                 "id": "RLXG101",
