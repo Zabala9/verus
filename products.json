@@ -789,6 +789,46 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+cronografo+4.JPG",
                 "price": 125000,
                 "disponibilidad": true
+            },
+            {
+                "id": "GFRCRG101",
+                "name": "G-FORCE rin giratorio",
+                "color": "Negro con detalles plateados",
+                "description": "Este reloj fusiona el diseño automotriz con el estilo urbano. Su caja robusta y el detalle único del rin giratorio en la carátula lo convierten en una pieza que transmite velocidad, potencia y originalidad.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+rin+giratorio+1.JPG",
+                "price": 120000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GFRCRG102",
+                "name": "G-FORCE rin giratorio",
+                "color": "Negro con detalles en rojo",
+                "description": "Este reloj fusiona el diseño automotriz con el estilo urbano. Su caja robusta y el detalle único del rin giratorio en la carátula lo convierten en una pieza que transmite velocidad, potencia y originalidad.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+rin+giratorio+2.JPG",
+                "price": 120000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GFRCRG103",
+                "name": "G-FORCE rin giratorio",
+                "color": "Negro con detalles en verde",
+                "description": "Este reloj fusiona el diseño automotriz con el estilo urbano. Su caja robusta y el detalle único del rin giratorio en la carátula lo convierten en una pieza que transmite velocidad, potencia y originalidad.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+rin+giratorio+3.JPG",
+                "price": 120000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GFRCRG104",
+                "name": "G-FORCE rin giratorio",
+                "color": "Negro con detalles en naranja",
+                "description": "Este reloj fusiona el diseño automotriz con el estilo urbano. Su caja robusta y el detalle único del rin giratorio en la carátula lo convierten en una pieza que transmite velocidad, potencia y originalidad.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+rin+giratorio+4.JPG",
+                "price": 120000,
+                "disponibilidad": true
             }
         ]
     },
