@@ -1842,6 +1842,80 @@
         ]
     },
     {
+        "Guess": [
+            {
+                "id": "GSSR101",
+                "name": "Guess",
+                "color": "Negro con detalles en oro rosa",
+                "description": "Diseño imponente con caja de gran tamaño, detalles robustos y marcadores resaltados. Su carátula combina patrones y texturas en múltiples capas, logrando una apariencia sofisticada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+1.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSR102",
+                "name": "Guess",
+                "color": "Negro con detalles plateados",
+                "description": "Diseño imponente con caja de gran tamaño, detalles robustos y marcadores resaltados. Su carátula combina patrones y texturas en múltiples capas, logrando una apariencia sofisticada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+2.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSR103",
+                "name": "Guess",
+                "color": "Negro con detalles en oro",
+                "description": "Diseño imponente con caja de gran tamaño, detalles robustos y marcadores resaltados. Su carátula combina patrones y texturas en múltiples capas, logrando una apariencia sofisticada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+3.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSC101",
+                "name": "Guess",
+                "color": "Blanco con detalles en negro",
+                "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+1.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSC102",
+                "name": "Guess",
+                "color": "Negro con detalles dorados",
+                "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+2.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSC103",
+                "name": "Guess",
+                "color": "Negro",
+                "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+3.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSC104",
+                "name": "Guess",
+                "color": "Blanco con detalles en oro rosa",
+                "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+4.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            }
+        ]
+    },
+    {
         "Otras Marcas": [
             {
                 "id": "SKMEI101",
