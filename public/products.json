@@ -1864,26 +1864,6 @@
                 "disponibilidad": true
             },
             {
-                "id": "FSS101",
-                "name": "Fossil",
-                "color": "Correa marrón con carátula azul",
-                "description": "Diseñado para quienes valoran la elegancia con tecnología funcional, este reloj presenta un formato análogo-digital que ofrece precisión y versatilidad en el día a día.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Fossil.JPG",
-                "price": 65000,
-                "disponibilidad": false
-            },
-            {
-                "id": "FSS102",
-                "name": "Fossil",
-                "color": "Correa y carátula azul",
-                "description": "Diseñado para quienes valoran la elegancia con tecnología funcional, este reloj presenta un formato análogo-digital que ofrece precisión y versatilidad en el día a día.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Fossil+2.JPG",
-                "price": 65000,
-                "disponibilidad": false
-            },
-            {
                 "id": "MDO101",
                 "name": "Mido",
                 "color": "Varios",
