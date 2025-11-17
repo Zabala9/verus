@@ -789,6 +789,76 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+PULSO+MALLA+2.JPG",
                 "price": 75000,
                 "disponibilidad": true
+            },
+            {
+                "id": "Q&QP101",
+                "name": "Q&Q para parejas",
+                "color": "Plateado con carátula negra",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+1.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP102",
+                "name": "Q&Q para parejas",
+                "color": "Dorado con carátula blanca",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+2.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP103",
+                "name": "Q&Q para parejas",
+                "color": "Plateado con detalles dorados",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+3.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP104",
+                "name": "Q&Q para parejas",
+                "color": "Dorado con carátula negra",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+4.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP105",
+                "name": "Q&Q para parejas",
+                "color": "Plateado",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+5.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP106",
+                "name": "Q&Q para parejas",
+                "color": "Plateado con detalles dorados y carátula negra",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+6.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP107",
+                "name": "Q&Q para parejas",
+                "color": "Negro",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+7.JPG",
+                "price": 150000,
+                "disponibilidad": true
             }
         ]
     },
