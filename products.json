@@ -431,7 +431,7 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8418.JPG",
                 "price": 145000,
-                "disponibilidad": false
+                "disponibilidad": true
                 
             },
             {
@@ -443,6 +443,50 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+correa+de+cuero+8392.JPG",
                 "price": 145000,
                 "disponibilidad": false
+            }
+        ]
+    },
+    {
+        "Armani": [
+            {
+                "id": "ARM101",
+                "name": "Armani Exchange",
+                "color": "Plateado con detalles dorados",
+                "description": "Este reloj Armani Exchange presenta un diseño moderno y elegante, ideal para quienes buscan sofisticación con un toque audaz. Su carátula está decorada con un patrón texturizado en el centro, mientras que los marcadores y el anillo exterior ofrecen un contraste atractivo.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Armani+Exchange+1.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "ARM102",
+                "name": "Armani Exchange",
+                "color": "Plateado",
+                "description": "Este reloj Armani Exchange presenta un diseño moderno y elegante, ideal para quienes buscan sofisticación con un toque audaz. Su carátula está decorada con un patrón texturizado en el centro, mientras que los marcadores y el anillo exterior ofrecen un contraste atractivo.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Armani+Exchange+2.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "ARM103",
+                "name": "Armani Exchange",
+                "color": "Azul",
+                "description": "Este reloj Armani Exchange presenta un diseño moderno y elegante, ideal para quienes buscan sofisticación con un toque audaz. Su carátula está decorada con un patrón texturizado en el centro, mientras que los marcadores y el anillo exterior ofrecen un contraste atractivo.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Armani+Exchange+3.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "ARM104",
+                "name": "Armani Exchange",
+                "color": "Dorado",
+                "description": "Este reloj Armani Exchange presenta un diseño moderno y elegante, ideal para quienes buscan sofisticación con un toque audaz. Su carátula está decorada con un patrón texturizado en el centro, mientras que los marcadores y el anillo exterior ofrecen un contraste atractivo.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Armani+Exchange+4.JPG",
+                "price": 75000,
+                "disponibilidad": true
             }
         ]
     },
@@ -745,6 +789,76 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+PULSO+MALLA+2.JPG",
                 "price": 75000,
                 "disponibilidad": true
+            },
+            {
+                "id": "Q&QP101",
+                "name": "Q&Q para parejas",
+                "color": "Plateado con carátula negra",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+1.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP102",
+                "name": "Q&Q para parejas",
+                "color": "Dorado con carátula blanca",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+2.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP103",
+                "name": "Q&Q para parejas",
+                "color": "Plateado con detalles dorados",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+3.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP104",
+                "name": "Q&Q para parejas",
+                "color": "Dorado con carátula negra",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+4.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP105",
+                "name": "Q&Q para parejas",
+                "color": "Plateado",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+5.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP106",
+                "name": "Q&Q para parejas",
+                "color": "Plateado con detalles dorados y carátula negra",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+6.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP107",
+                "name": "Q&Q para parejas",
+                "color": "Negro",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+7.JPG",
+                "price": 150000,
+                "disponibilidad": true
             }
         ]
     },
@@ -835,94 +949,104 @@
     {
         "Rolex": [
             {
-                "id": "RLXG101",
-                "name": "Rolex Geneve",
-                "color": "Plateado con carátula verde",
-                "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
+                "id": "RLXDW101",
+                "name": "Rolex Dweller",
+                "color": "Plateado con detalles dorados",
+                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+1.jpg",
-                "price": 80000,
-                "disponibilidad": false
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+1.JPG",
+                "price": 90000,
+                "disponibilidad": true
             },
             {
-                "id": "RLXG102",
-                "name": "Rolex Geneve",
-                "color": "Plateado con carátula azul turquesa",
-                "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
+                "id": "RLXDW102",
+                "name": "Rolex Dweller",
+                "color": "Plateado con carátula verde y detalles dorados",
+                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+2.jpg",
-                "price": 80000,
-                "disponibilidad": false
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+2.JPG",
+                "price": 90000,
+                "disponibilidad": true
             },
             {
-                "id": "RLXG103",
-                "name": "Rolex Geneve",
-                "color": "Plateado con carátula roja",
-                "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
+                "id": "RLXDW103",
+                "name": "Rolex Dweller",
+                "color": "Plateado con carátula negra y detalles dorados",
+                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+3.jpg",
-                "price": 80000,
-                "disponibilidad": false
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+3.JPG",
+                "price": 90000,
+                "disponibilidad": true
             },
             {
-                "id": "RLXG104",
-                "name": "Rolex Geneve",
-                "color": "Plateado con carátula azul",
-                "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+4.jpg",
-                "price": 80000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RLXG105",
-                "name": "Rolex Geneve",
+                "id": "RLXDW104",
+                "name": "Rolex Dweller",
                 "color": "Dorado con carátula azul",
-                "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
+                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+5.jpg",
-                "price": 80000,
-                "disponibilidad": false
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+4.JPG",
+                "price": 90000,
+                "disponibilidad": true
             },
             {
-                "id": "RLXG106",
-                "name": "Rolex Geneve",
-                "color": "Plateado con carátula blanca",
-                "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
+                "id": "RLXDW105",
+                "name": "Rolex Dweller",
+                "color": "Plateado con carátula azul aguamarina",
+                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+6.jpg",
-                "price": 80000,
-                "disponibilidad": false
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+5.JPG",
+                "price": 90000,
+                "disponibilidad": true
             },
             {
-                "id": "RLXG107",
-                "name": "Rolex Geneve",
-                "color": "Dorado",
-                "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
+                "id": "RLXDW106",
+                "name": "Rolex Dweller",
+                "color": "Plateado",
+                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+7.jpg",
-                "price": 80000,
-                "disponibilidad": false
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+6.JPG",
+                "price": 90000,
+                "disponibilidad": true
             },
             {
-                "id": "RLXG108",
-                "name": "Rolex Geneve",
+                "id": "RLXDW107",
+                "name": "Rolex Dweller",
+                "color": "Plateado con carátula negra",
+                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+7.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXDW108",
+                "name": "Rolex Dweller",
+                "color": "Plateado con carátula azul",
+                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+8.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXDW109",
+                "name": "Rolex Dweller",
+                "color": "Plateado con carátula verde",
+                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+9.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXDW110",
+                "name": "Rolex Dweller",
                 "color": "Dorado con carátula verde",
-                "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
+                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+8.jpg",
-                "price": 80000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RLXG109",
-                "name": "Rolex Geneve",
-                "color": "Dorado con carátula negra",
-                "description": "Diseño elegante y estructura robusta se combinan en este reloj de lujo con acabado metálico. La carátula incorpora un patrón texturizado que resalta bajo cualquier luz, acompañado de marcadores finamente detallados y una ventana de fecha que aporta funcionalidad sin perder estilo.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+geneve+9.jpg",
-                "price": 80000,
-                "disponibilidad": false
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+10.JPG",
+                "price": 90000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXD101",
@@ -966,7 +1090,7 @@
             },
             {
                 "id": "RLXP101",
-                "name": "Rolex",
+                "name": "Rolex para pareja",
                 "color": "Plateado con detalles dorados",
                 "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
                 "presentacion": "Incluye caja de presentación",
@@ -976,7 +1100,7 @@
             },
             {
                 "id": "RLXP102",
-                "name": "Rolex",
+                "name": "Rolex para pareja",
                 "color": "Plateado con detalles dorados y carátula negra",
                 "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
                 "presentacion": "Incluye caja de presentación",
@@ -986,7 +1110,7 @@
             },
             {
                 "id": "RLXP103",
-                "name": "Rolex",
+                "name": "Rolex para pareja",
                 "color": "Dorado con carátula plateada",
                 "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
                 "presentacion": "Incluye caja de presentación",
@@ -996,7 +1120,7 @@
             },
             {
                 "id": "RLXP104",
-                "name": "Rolex",
+                "name": "Rolex para pareja",
                 "color": "Dorado con carátula negra",
                 "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
                 "presentacion": "Incluye caja de presentación",
@@ -1006,7 +1130,7 @@
             },
             {
                 "id": "RLXP105",
-                "name": "Rolex",
+                "name": "Rolex para pareja",
                 "color": "Plateado",
                 "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
                 "presentacion": "Incluye caja de presentación",
@@ -1016,7 +1140,7 @@
             },
             {
                 "id": "RLXP106",
-                "name": "Rolex",
+                "name": "Rolex para pareja",
                 "color": "Plateado con carátula negra",
                 "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
                 "presentacion": "Incluye caja de presentación",
@@ -1411,7 +1535,7 @@
         ]
     },
     {
-        "Invicta AAA": [
+        "Invicta": [
             {
                 "id": "INV101",
                 "name": "Invicta AAA",
@@ -1439,6 +1563,66 @@
                 "description": "Reloj deportivo de alta gama con diseño robusto y funcional. Este modelo combina una estructura resistente con un estilo sofisticado, ideal para quienes buscan precisión, elegancia y rendimiento en un solo accesorio.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+AAA+3.JPG",
+                "price": 130000,
+                "disponibilidad": true
+            },
+            {
+                "id": "INVE101",
+                "name": "Invicta",
+                "color": "Negro con detalles en oro rosa y carátula blanca",
+                "description": "Este modelo Invicta fusiona fuerza y elegancia con una caja de gran tamaño, bisel con detalles estructurados y tornillos visibles que refuerzan su personalidad imponente. El dial está cuidadosamente trabajado con marcadores prominentes, función taquimétrica y botones laterales que complementan su estilo deportivo y sofisticado.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+estrella+1.JPG",
+                "price": 130000,
+                "disponibilidad": true
+            },
+            {
+                "id": "INVE102",
+                "name": "Invicta",
+                "color": "Negro con detalles en oro rosa y carátula negra",
+                "description": "Este modelo Invicta fusiona fuerza y elegancia con una caja de gran tamaño, bisel con detalles estructurados y tornillos visibles que refuerzan su personalidad imponente. El dial está cuidadosamente trabajado con marcadores prominentes, función taquimétrica y botones laterales que complementan su estilo deportivo y sofisticado.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+estrella+2.JPG",
+                "price": 130000,
+                "disponibilidad": true
+            },
+            {
+                "id": "INVE103",
+                "name": "Invicta",
+                "color": "Plateado",
+                "description": "Este modelo Invicta fusiona fuerza y elegancia con una caja de gran tamaño, bisel con detalles estructurados y tornillos visibles que refuerzan su personalidad imponente. El dial está cuidadosamente trabajado con marcadores prominentes, función taquimétrica y botones laterales que complementan su estilo deportivo y sofisticado.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+estrella+3.JPG",
+                "price": 130000,
+                "disponibilidad": true
+            },
+            {
+                "id": "INVE104",
+                "name": "Invicta",
+                "color": "Negro con detalles dorados y azules",
+                "description": "Este modelo Invicta fusiona fuerza y elegancia con una caja de gran tamaño, bisel con detalles estructurados y tornillos visibles que refuerzan su personalidad imponente. El dial está cuidadosamente trabajado con marcadores prominentes, función taquimétrica y botones laterales que complementan su estilo deportivo y sofisticado.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+estrella+4.JPG",
+                "price": 130000,
+                "disponibilidad": true
+            },
+            {
+                "id": "INVE105",
+                "name": "Invicta",
+                "color": "Negro con detalles dorados y carátula blanca",
+                "description": "Este modelo Invicta fusiona fuerza y elegancia con una caja de gran tamaño, bisel con detalles estructurados y tornillos visibles que refuerzan su personalidad imponente. El dial está cuidadosamente trabajado con marcadores prominentes, función taquimétrica y botones laterales que complementan su estilo deportivo y sofisticado.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+estrella+5.JPG",
+                "price": 130000,
+                "disponibilidad": true
+            },
+            {
+                "id": "INVE106",
+                "name": "Invicta",
+                "color": "Negro con detalles dorados y carátula dorada",
+                "description": "Este modelo Invicta fusiona fuerza y elegancia con una caja de gran tamaño, bisel con detalles estructurados y tornillos visibles que refuerzan su personalidad imponente. El dial está cuidadosamente trabajado con marcadores prominentes, función taquimétrica y botones laterales que complementan su estilo deportivo y sofisticado.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+estrella+6.JPG",
                 "price": 130000,
                 "disponibilidad": true
             }
@@ -1658,6 +1842,80 @@
         ]
     },
     {
+        "Guess": [
+            {
+                "id": "GSSR101",
+                "name": "Guess",
+                "color": "Negro con detalles en oro rosa",
+                "description": "Diseño imponente con caja de gran tamaño, detalles robustos y marcadores resaltados. Su carátula combina patrones y texturas en múltiples capas, logrando una apariencia sofisticada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+1.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSR102",
+                "name": "Guess",
+                "color": "Negro con detalles plateados",
+                "description": "Diseño imponente con caja de gran tamaño, detalles robustos y marcadores resaltados. Su carátula combina patrones y texturas en múltiples capas, logrando una apariencia sofisticada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+2.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSR103",
+                "name": "Guess",
+                "color": "Negro con detalles en oro",
+                "description": "Diseño imponente con caja de gran tamaño, detalles robustos y marcadores resaltados. Su carátula combina patrones y texturas en múltiples capas, logrando una apariencia sofisticada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+3.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSC101",
+                "name": "Guess",
+                "color": "Blanco con detalles en negro",
+                "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+1.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSC102",
+                "name": "Guess",
+                "color": "Negro con detalles dorados",
+                "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+2.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSC103",
+                "name": "Guess",
+                "color": "Negro",
+                "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+3.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSC104",
+                "name": "Guess",
+                "color": "Blanco con detalles en oro rosa",
+                "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+4.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            }
+        ]
+    },
+    {
         "Otras Marcas": [
             {
                 "id": "SKMEI101",
@@ -1678,26 +1936,6 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Diesel.JPG",
                 "price": 70000,
                 "disponibilidad": true
-            },
-            {
-                "id": "FSS101",
-                "name": "Fossil",
-                "color": "Correa marrón con carátula azul",
-                "description": "Diseñado para quienes valoran la elegancia con tecnología funcional, este reloj presenta un formato análogo-digital que ofrece precisión y versatilidad en el día a día.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Fossil.JPG",
-                "price": 65000,
-                "disponibilidad": false
-            },
-            {
-                "id": "FSS102",
-                "name": "Fossil",
-                "color": "Correa y carátula azul",
-                "description": "Diseñado para quienes valoran la elegancia con tecnología funcional, este reloj presenta un formato análogo-digital que ofrece precisión y versatilidad en el día a día.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Fossil+2.JPG",
-                "price": 65000,
-                "disponibilidad": false
             },
             {
                 "id": "MDO101",
