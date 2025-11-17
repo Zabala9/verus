@@ -1565,6 +1565,66 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+AAA+3.JPG",
                 "price": 130000,
                 "disponibilidad": true
+            },
+            {
+                "id": "INVE101",
+                "name": "Invicta",
+                "color": "Negro con detalles en oro rosa y carátula blanca",
+                "description": "Este modelo Invicta fusiona fuerza y elegancia con una caja de gran tamaño, bisel con detalles estructurados y tornillos visibles que refuerzan su personalidad imponente. El dial está cuidadosamente trabajado con marcadores prominentes, función taquimétrica y botones laterales que complementan su estilo deportivo y sofisticado.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+estrella+1.JPG",
+                "price": 130000,
+                "disponibilidad": true
+            },
+            {
+                "id": "INVE102",
+                "name": "Invicta",
+                "color": "Negro con detalles en oro rosa y carátula negra",
+                "description": "Este modelo Invicta fusiona fuerza y elegancia con una caja de gran tamaño, bisel con detalles estructurados y tornillos visibles que refuerzan su personalidad imponente. El dial está cuidadosamente trabajado con marcadores prominentes, función taquimétrica y botones laterales que complementan su estilo deportivo y sofisticado.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+estrella+2.JPG",
+                "price": 130000,
+                "disponibilidad": true
+            },
+            {
+                "id": "INVE103",
+                "name": "Invicta",
+                "color": "Plateado",
+                "description": "Este modelo Invicta fusiona fuerza y elegancia con una caja de gran tamaño, bisel con detalles estructurados y tornillos visibles que refuerzan su personalidad imponente. El dial está cuidadosamente trabajado con marcadores prominentes, función taquimétrica y botones laterales que complementan su estilo deportivo y sofisticado.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+estrella+3.JPG",
+                "price": 130000,
+                "disponibilidad": true
+            },
+            {
+                "id": "INVE104",
+                "name": "Invicta",
+                "color": "Negro con detalles dorados y azules",
+                "description": "Este modelo Invicta fusiona fuerza y elegancia con una caja de gran tamaño, bisel con detalles estructurados y tornillos visibles que refuerzan su personalidad imponente. El dial está cuidadosamente trabajado con marcadores prominentes, función taquimétrica y botones laterales que complementan su estilo deportivo y sofisticado.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+estrella+4.JPG",
+                "price": 130000,
+                "disponibilidad": true
+            },
+            {
+                "id": "INVE105",
+                "name": "Invicta",
+                "color": "Negro con detalles dorados y carátula blanca",
+                "description": "Este modelo Invicta fusiona fuerza y elegancia con una caja de gran tamaño, bisel con detalles estructurados y tornillos visibles que refuerzan su personalidad imponente. El dial está cuidadosamente trabajado con marcadores prominentes, función taquimétrica y botones laterales que complementan su estilo deportivo y sofisticado.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+estrella+5.JPG",
+                "price": 130000,
+                "disponibilidad": true
+            },
+            {
+                "id": "INVE106",
+                "name": "Invicta",
+                "color": "Negro con detalles dorados y carátula dorada",
+                "description": "Este modelo Invicta fusiona fuerza y elegancia con una caja de gran tamaño, bisel con detalles estructurados y tornillos visibles que refuerzan su personalidad imponente. El dial está cuidadosamente trabajado con marcadores prominentes, función taquimétrica y botones laterales que complementan su estilo deportivo y sofisticado.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+estrella+6.JPG",
+                "price": 130000,
+                "disponibilidad": true
             }
         ]
     },
