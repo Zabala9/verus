@@ -431,7 +431,7 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8418.JPG",
                 "price": 145000,
-                "disponibilidad": false
+                "disponibilidad": true
                 
             },
             {
