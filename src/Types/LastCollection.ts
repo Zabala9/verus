@@ -10,13 +10,13 @@ export const LastCollection = [
         "disponibilidad": true
     },
     {
-        "id": "MTBM102",
-        "name": "Montblanc",
-        "color": "Correa en tono cuero y carátula blanca",
-        "description": "Un modelo audaz que fusiona un estilo moderno con toques industriales. Su diseño simétrico y dinámico ofrece una apariencia llamativa, ideal para quienes buscan algo diferente y con carácter.",
+        "id": "GSSC102",
+        "name": "Guess",
+        "color": "Negro con detalles dorados",
+        "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Mitsu+2.JPG",
-        "price": 65000,
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+2.JPG",
+        "price": 75000,
         "disponibilidad": true
     },
     {
@@ -80,13 +80,13 @@ export const LastCollection = [
         "disponibilidad": true
     },
     {
-        "id": "CSG104",
-        "name": "Casio G-Shock",
-        "color": "Plateado con detalles rojos y negros",
-        "description": "Este reloj combina una estética imponente y resistente con funciones digitales y analógicas en una estructura reforzada. Su diseño robusto y detalles de estilo industrial lo convierten en una pieza ideal para quienes buscan un reloj de alto impacto visual y funcional.",
+        "id": "RLXDW109",
+        "name": "Rolex Dweller",
+        "color": "Plateado con carátula verde",
+        "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+g-shock+4.JPG",
-        "price": 85000,
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+9.JPG",
+        "price": 90000,
         "disponibilidad": true
     },
     {
@@ -100,13 +100,13 @@ export const LastCollection = [
         "disponibilidad": true
     },
     {
-        "id": "RLXDJ101",
-        "name": "Rolex Datejust para Dama",
-        "color": "Plateado con carátula negra",
-        "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
+        "id": "ARM104",
+        "name": "Armani Exchange",
+        "color": "Dorado",
+        "description": "Este reloj Armani Exchange presenta un diseño moderno y elegante, ideal para quienes buscan sofisticación con un toque audaz. Su carátula está decorada con un patrón texturizado en el centro, mientras que los marcadores y el anillo exterior ofrecen un contraste atractivo.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+1.JPG",
-        "price": 80000,
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Armani+Exchange+4.JPG",
+        "price": 75000,
         "disponibilidad": true
     },
     {
@@ -160,12 +160,12 @@ export const LastCollection = [
         "disponibilidad": true
     },
     {
-        "id": "INV103",
-        "name": "Invicta AAA",
-        "color": "Azul con detalles en oro rosa",
-        "description": "Reloj deportivo de alta gama con diseño robusto y funcional. Este modelo combina una estructura resistente con un estilo sofisticado, ideal para quienes buscan precisión, elegancia y rendimiento en un solo accesorio.",
+        "id": "INVE103",
+        "name": "Invicta",
+        "color": "Plateado",
+        "description": "Este modelo Invicta fusiona fuerza y elegancia con una caja de gran tamaño, bisel con detalles estructurados y tornillos visibles que refuerzan su personalidad imponente. El dial está cuidadosamente trabajado con marcadores prominentes, función taquimétrica y botones laterales que complementan su estilo deportivo y sofisticado.",
         "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+AAA+3.JPG",
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Invicta+estrella+3.JPG",
         "price": 130000,
         "disponibilidad": true
     },
