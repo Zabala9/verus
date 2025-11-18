@@ -443,6 +443,316 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+correa+de+cuero+8392.JPG",
                 "price": 145000,
                 "disponibilidad": false
+            },
+            {
+                "id": "CUR8455",
+                "name": "Curren 8455",
+                "color": "Negro con carátula azul aguamarina",
+                "description": "Este Curren 8455 destaca por su diseño moderno y audaz, ideal para quienes buscan estilo y funcionalidad en una sola pieza.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8455.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8399101",
+                "name": "Curren 8399",
+                "color": "Azul con detalles en oro rosa",
+                "description": "Este modelo de Curren destaca por su diseño impactante y detalles cuidadosamente trabajados. Su carátula incorpora múltiples indicadores que aportan dinamismo visual, ideal para quienes valoran relojes con presencia fuerte y una estética atrevida.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8399+1.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8399102",
+                "name": "Curren 8399",
+                "color": "Plateado con detalles en negro y carátula azul",
+                "description": "Este modelo de Curren destaca por su diseño impactante y detalles cuidadosamente trabajados. Su carátula incorpora múltiples indicadores que aportan dinamismo visual, ideal para quienes valoran relojes con presencia fuerte y una estética atrevida.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8399+2.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8399103",
+                "name": "Curren 8399",
+                "color": "Vinotinto con detalles en oro rosa",
+                "description": "Este modelo de Curren destaca por su diseño impactante y detalles cuidadosamente trabajados. Su carátula incorpora múltiples indicadores que aportan dinamismo visual, ideal para quienes valoran relojes con presencia fuerte y una estética atrevida.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8399+3.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8399104",
+                "name": "Curren 8399",
+                "color": "Negro con detalles dorados",
+                "description": "Este modelo de Curren destaca por su diseño impactante y detalles cuidadosamente trabajados. Su carátula incorpora múltiples indicadores que aportan dinamismo visual, ideal para quienes valoran relojes con presencia fuerte y una estética atrevida.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8399+4.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8399105",
+                "name": "Curren 8399",
+                "color": "Plateado con detalles en negro",
+                "description": "Este modelo de Curren destaca por su diseño impactante y detalles cuidadosamente trabajados. Su carátula incorpora múltiples indicadores que aportan dinamismo visual, ideal para quienes valoran relojes con presencia fuerte y una estética atrevida.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8399+5.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8442101",
+                "name": "Curren 8442",
+                "color": "Azul con detalles en oro rosa",
+                "description": "El Curren 8442 es un reloj de diseño vanguardista con una caja rectangular de bordes angulados que transmite un aire moderno y robusto. Su carátula destaca por un estilo técnico, con una estructura tipo esqueleto que deja entrever detalles decorativos inspirados en la ingeniería mecánica.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8442+1.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8442102",
+                "name": "Curren 8442",
+                "color": "Negro con detalles en oro rosa",
+                "description": "El Curren 8442 es un reloj de diseño vanguardista con una caja rectangular de bordes angulados que transmite un aire moderno y robusto. Su carátula destaca por un estilo técnico, con una estructura tipo esqueleto que deja entrever detalles decorativos inspirados en la ingeniería mecánica.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8442+2.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8442103",
+                "name": "Curren 8442",
+                "color": "Azul claro con detalles en negro",
+                "description": "El Curren 8442 es un reloj de diseño vanguardista con una caja rectangular de bordes angulados que transmite un aire moderno y robusto. Su carátula destaca por un estilo técnico, con una estructura tipo esqueleto que deja entrever detalles decorativos inspirados en la ingeniería mecánica.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8442+3.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8442104",
+                "name": "Curren 8442",
+                "color": "Naranja con detalles en negro",
+                "description": "El Curren 8442 es un reloj de diseño vanguardista con una caja rectangular de bordes angulados que transmite un aire moderno y robusto. Su carátula destaca por un estilo técnico, con una estructura tipo esqueleto que deja entrever detalles decorativos inspirados en la ingeniería mecánica.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8442+4.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8442105",
+                "name": "Curren 8442",
+                "color": "Blanco con azul y detalles en oro rosa",
+                "description": "El Curren 8442 es un reloj de diseño vanguardista con una caja rectangular de bordes angulados que transmite un aire moderno y robusto. Su carátula destaca por un estilo técnico, con una estructura tipo esqueleto que deja entrever detalles decorativos inspirados en la ingeniería mecánica.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8442+5.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8442106",
+                "name": "Curren 8442",
+                "color": "Rojo con detalles en negro",
+                "description": "El Curren 8442 es un reloj de diseño vanguardista con una caja rectangular de bordes angulados que transmite un aire moderno y robusto. Su carátula destaca por un estilo técnico, con una estructura tipo esqueleto que deja entrever detalles decorativos inspirados en la ingeniería mecánica.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8442+6.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8415101",
+                "name": "Curren 8415",
+                "color": "Plateado con detalles en negro",
+                "description": "El Curren 8415 destaca por su diseño imponente y detalles dinámicos que evocan velocidad y precisión. Su carátula incorpora subesferas funcionales tipo cronógrafo, marcadores prominentes y manecillas bien definidas que refuerzan su estética deportiva.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8415+1.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8415102",
+                "name": "Curren 8415",
+                "color": "Azul con detalles en oro rosa",
+                "description": "El Curren 8415 destaca por su diseño imponente y detalles dinámicos que evocan velocidad y precisión. Su carátula incorpora subesferas funcionales tipo cronógrafo, marcadores prominentes y manecillas bien definidas que refuerzan su estética deportiva.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8415+2.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8415103",
+                "name": "Curren 8415",
+                "color": "Negro con detalles en verde",
+                "description": "El Curren 8415 destaca por su diseño imponente y detalles dinámicos que evocan velocidad y precisión. Su carátula incorpora subesferas funcionales tipo cronógrafo, marcadores prominentes y manecillas bien definidas que refuerzan su estética deportiva.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8415+3.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8415104",
+                "name": "Curren 8415",
+                "color": "Negro con detalles en oro rosa",
+                "description": "El Curren 8415 destaca por su diseño imponente y detalles dinámicos que evocan velocidad y precisión. Su carátula incorpora subesferas funcionales tipo cronógrafo, marcadores prominentes y manecillas bien definidas que refuerzan su estética deportiva.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8415+4.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8440101",
+                "name": "Curren 8440",
+                "color": "Plateado con carátula verde y detalles dorados",
+                "description": "Este reloj Curren 8440 destaca por su diseño elegante con carátula texturizada que aporta profundidad y un toque sofisticado. Presenta cronógrafos funcionales distribuidos en tres subesferas, y detalles metálicos que realzan su estética moderna.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8440+1.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8440102",
+                "name": "Curren 8440",
+                "color": "Plateado con carátula azul",
+                "description": "Este reloj Curren 8440 destaca por su diseño elegante con carátula texturizada que aporta profundidad y un toque sofisticado. Presenta cronógrafos funcionales distribuidos en tres subesferas, y detalles metálicos que realzan su estética moderna.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8440+2.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8440103",
+                "name": "Curren 8440",
+                "color": "Dorado con carátula negra",
+                "description": "Este reloj Curren 8440 destaca por su diseño elegante con carátula texturizada que aporta profundidad y un toque sofisticado. Presenta cronógrafos funcionales distribuidos en tres subesferas, y detalles metálicos que realzan su estética moderna.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8440+3.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8440104",
+                "name": "Curren 8440",
+                "color": "Plateado con detalles dorados",
+                "description": "Este reloj Curren 8440 destaca por su diseño elegante con carátula texturizada que aporta profundidad y un toque sofisticado. Presenta cronógrafos funcionales distribuidos en tres subesferas, y detalles metálicos que realzan su estética moderna.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8440+4.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8473101",
+                "name": "Curren 8473",
+                "color": "Plateado con carátula verde",
+                "description": "El modelo Curren 8473 destaca por su diseño sobrio y refinado, ideal para quienes buscan elegancia sin excesos. Su carátula presenta un estilo limpio con marcadores rectangulares prominentes y un bisel numérico que rodea la esfera de manera sutil.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8473+1.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8473102",
+                "name": "Curren 8473",
+                "color": "Dorado con detalles en negro",
+                "description": "El modelo Curren 8473 destaca por su diseño sobrio y refinado, ideal para quienes buscan elegancia sin excesos. Su carátula presenta un estilo limpio con marcadores rectangulares prominentes y un bisel numérico que rodea la esfera de manera sutil.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8473+2.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8473103",
+                "name": "Curren 8473",
+                "color": "Plateado",
+                "description": "El modelo Curren 8473 destaca por su diseño sobrio y refinado, ideal para quienes buscan elegancia sin excesos. Su carátula presenta un estilo limpio con marcadores rectangulares prominentes y un bisel numérico que rodea la esfera de manera sutil.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8473+3.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8459101",
+                "name": "Curren 8459",
+                "color": "Plateado con detalles azules",
+                "description": "Este modelo Curren 8459 destaca por su diseño moderno de caja angular y una carátula con textura elegante que incorpora subesferas para cronógrafo, así como indicador de fecha. La combinación de su estética deportiva con detalles de inspiración industrial lo convierte en una pieza ideal para quienes buscan un reloj llamativo y funcional.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8459+1.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8459102",
+                "name": "Curren 8459",
+                "color": "Plateado con carátula negra",
+                "description": "Este modelo Curren 8459 destaca por su diseño moderno de caja angular y una carátula con textura elegante que incorpora subesferas para cronógrafo, así como indicador de fecha. La combinación de su estética deportiva con detalles de inspiración industrial lo convierte en una pieza ideal para quienes buscan un reloj llamativo y funcional.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8459+2.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8459103",
+                "name": "Curren 8459",
+                "color": "Dorado",
+                "description": "Este modelo Curren 8459 destaca por su diseño moderno de caja angular y una carátula con textura elegante que incorpora subesferas para cronógrafo, así como indicador de fecha. La combinación de su estética deportiva con detalles de inspiración industrial lo convierte en una pieza ideal para quienes buscan un reloj llamativo y funcional.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8459+3.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8459104",
+                "name": "Curren 8459",
+                "color": "Negro con detalles dorados",
+                "description": "Este modelo Curren 8459 destaca por su diseño moderno de caja angular y una carátula con textura elegante que incorpora subesferas para cronógrafo, así como indicador de fecha. La combinación de su estética deportiva con detalles de inspiración industrial lo convierte en una pieza ideal para quienes buscan un reloj llamativo y funcional.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8459+4.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9111101",
+                "name": "Curren 9111",
+                "color": "Plateado con azul",
+                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+1.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9111102",
+                "name": "Curren 9111",
+                "color": "Plateado con detalles en oro rosa",
+                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+2.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9111103",
+                "name": "Curren 9111",
+                "color": "Plateado con carátula blanca y detalles dorados",
+                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+3.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9111104",
+                "name": "Curren 9111",
+                "color": "Plateado con carátula negra y detalles dorados",
+                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+4.jpg",
+                "price": 145000,
+                "disponibilidad": true
             }
         ]
     },
