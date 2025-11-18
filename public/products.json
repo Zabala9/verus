@@ -1958,13 +1958,13 @@
                 "disponibilidad": true
             },
             {
-                "id": "",
-                "name": "",
-                "color": "",
-                "description": "",
+                "id": "HRL101",
+                "name": "Heryi Ruleta",
+                "color": "Negro",
+                "description": "Un diseño llamativo y único inspirado en las clásicas ruletas de casino.",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "",
-                "price": 0,
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Heryi+ruleta.jpg",
+                "price": 85000,
                 "disponibilidad": true
             }
         ]
