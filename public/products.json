@@ -905,6 +905,16 @@
                 "disponibilidad": true
             },
             {
+                "id": "GFRCGP101",
+                "name": "G-FORCE GP",
+                "color": "Negro con detalles metálicos",
+                "description": "Diseño inspirado en la velocidad, este modelo G-Force GP combina fuerza, estilo deportivo y funcionalidad digital. Su presentación en caja con forma de casco lo convierte en una pieza única desde el primer vistazo. El dial cuenta con cronómetro, doble horario, alarma y luz, ideal para quienes buscan rendimiento y presencia en cada detalle.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+gp+1.jpg",
+                "price": 160000,
+                "disponibilidad": true
+            },
+            {
                 "id": "GFRCRG101",
                 "name": "G-FORCE rin giratorio",
                 "color": "Negro con detalles plateados",
