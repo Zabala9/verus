@@ -1976,6 +1976,16 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Joefox+comic.jpg",
                 "price": 70000,
                 "disponibilidad": true
+            },
+            {
+                "id": "",
+                "name": "Scottie",
+                "color": "Negro con detalles dorados",
+                "description": "Este reloj Scottie presenta un diseño impactante y contemporáneo que combina funcionalidad y estética en una sola pieza. Su carátula exhibe una configuración analógica y digital con múltiples subesferas. Diseñado para quienes valoran los detalles audaces, este modelo ofrece una experiencia visual dinámica y una presencia imponente en la muñeca.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Scottie.jpg",
+                "price": 110000,
+                "disponibilidad": true
             }
         ]
     }
