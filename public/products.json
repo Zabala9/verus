@@ -2340,6 +2340,46 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+7.JPG",
                 "price": 150000,
                 "disponibilidad": true
+            },
+            {
+                "id": "SNTP101",
+                "name": "Saint Parejas",
+                "color": "Negro con detalles en oro rosa",
+                "description": "Este set para pareja destaca por su diseño uniforme y refinado, pensado para quienes buscan una conexión compartida en cada detalle. Ambos relojes presentan una carátula con textura sutil y marcadores bien definidos que aportan una apariencia pulida y equilibrada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+parejas+1.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SNTP102",
+                "name": "Saint Parejas",
+                "color": "Plateado con detalles en dorado",
+                "description": "Este set para pareja destaca por su diseño uniforme y refinado, pensado para quienes buscan una conexión compartida en cada detalle. Ambos relojes presentan una carátula con textura sutil y marcadores bien definidos que aportan una apariencia pulida y equilibrada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+parejas+2.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SNTP103",
+                "name": "Saint Parejas",
+                "color": "Azul con detalles en oro rosa",
+                "description": "Este set para pareja destaca por su diseño uniforme y refinado, pensado para quienes buscan una conexión compartida en cada detalle. Ambos relojes presentan una carátula con textura sutil y marcadores bien definidos que aportan una apariencia pulida y equilibrada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+parejas+3.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SNTP104",
+                "name": "Saint Parejas",
+                "color": "Dorado",
+                "description": "Este set para pareja destaca por su diseño uniforme y refinado, pensado para quienes buscan una conexión compartida en cada detalle. Ambos relojes presentan una carátula con textura sutil y marcadores bien definidos que aportan una apariencia pulida y equilibrada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+parejas+4.JPG",
+                "price": 150000,
+                "disponibilidad": true
             }
         ]
     }
