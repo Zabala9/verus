@@ -2219,70 +2219,6 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+6.JPG",
                 "price": 150000,
                 "disponibilidad": true
-            }
-        ]
-    },
-    {
-        "Otras Marcas": [
-            {
-                "id": "SKMEI101",
-                "name": "SKMEI 9178",
-                "color": "Negro con calavera dorada metálica",
-                "description": "Un reloj imponente y atrevido con un diseño que desafía lo convencional. La carátula presenta una calavera detallada en relieve, haciendo de este modelo una elección audaz para quienes buscan destacar con estilo.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/skmei+9178+calabera.JPG",
-                "price": 120000,
-                "disponibilidad": true
-            },
-            {
-                "id": "DSL101",
-                "name": "Diesel",
-                "color": "Negro",
-                "description": "Este reloj combina una estética robusta con funcionalidades modernas. Su carátula incluye detalles analógicos y digitales, perfectos para quienes buscan estilo y utilidad en un solo accesorio.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Diesel.JPG",
-                "price": 70000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MDO101",
-                "name": "Mido",
-                "color": "Varios",
-                "description": "Un diseño delgado, limpio y sofisticado que combina el estilo clásico con una malla metálica tipo milanesa, ideal para quienes buscan sobriedad sin renunciar al buen gusto. Perfecto para ocasiones formales o uso diario.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Mido.JPG",
-                "price": 70000,
-                "disponibilidad": true
-            },
-            {
-                "id": "HRL101",
-                "name": "Heryi Ruleta",
-                "color": "Negro",
-                "description": "Un diseño llamativo y único inspirado en las clásicas ruletas de casino.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Heryi+ruleta.jpg",
-                "price": 85000,
-                "disponibilidad": true
-            },
-            {
-                "id": "JFC101",
-                "name": "Joefox Comic",
-                "color": "Blanco con detalles en negro",
-                "description": "Este reloj luce como una ilustración sacada directamente de una historieta lo que lo convierte en una pieza ideal para quienes buscan destacar con un estilo creativo, moderno y atrevido. Perfecto para amantes del diseño gráfico, el arte urbano y la originalidad sin esfuerzo.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Joefox+comic.jpg",
-                "price": 75000,
-                "disponibilidad": true
-            },
-            {
-                "id": "",
-                "name": "Scottie",
-                "color": "Negro con detalles dorados",
-                "description": "Este reloj Scottie presenta un diseño impactante y contemporáneo que combina funcionalidad y estética en una sola pieza. Su carátula exhibe una configuración analógica y digital con múltiples subesferas. Diseñado para quienes valoran los detalles audaces, este modelo ofrece una experiencia visual dinámica y una presencia imponente en la muñeca.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Scottie.jpg",
-                "price": 110000,
-                "disponibilidad": true
             },
             {
                 "id": "Q&QP101",
@@ -2462,6 +2398,70 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+parejas+4.JPG",
                 "price": 150000,
+                "disponibilidad": true
+            }
+        ]
+    },
+    {
+        "Otras Marcas": [
+            {
+                "id": "SKMEI101",
+                "name": "SKMEI 9178",
+                "color": "Negro con calavera dorada metálica",
+                "description": "Un reloj imponente y atrevido con un diseño que desafía lo convencional. La carátula presenta una calavera detallada en relieve, haciendo de este modelo una elección audaz para quienes buscan destacar con estilo.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/skmei+9178+calabera.JPG",
+                "price": 120000,
+                "disponibilidad": true
+            },
+            {
+                "id": "DSL101",
+                "name": "Diesel",
+                "color": "Negro",
+                "description": "Este reloj combina una estética robusta con funcionalidades modernas. Su carátula incluye detalles analógicos y digitales, perfectos para quienes buscan estilo y utilidad en un solo accesorio.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Diesel.JPG",
+                "price": 70000,
+                "disponibilidad": true
+            },
+            {
+                "id": "MDO101",
+                "name": "Mido",
+                "color": "Varios",
+                "description": "Un diseño delgado, limpio y sofisticado que combina el estilo clásico con una malla metálica tipo milanesa, ideal para quienes buscan sobriedad sin renunciar al buen gusto. Perfecto para ocasiones formales o uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Mido.JPG",
+                "price": 70000,
+                "disponibilidad": true
+            },
+            {
+                "id": "HRL101",
+                "name": "Heryi Ruleta",
+                "color": "Negro",
+                "description": "Un diseño llamativo y único inspirado en las clásicas ruletas de casino.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Heryi+ruleta.jpg",
+                "price": 85000,
+                "disponibilidad": true
+            },
+            {
+                "id": "JFC101",
+                "name": "Joefox Comic",
+                "color": "Blanco con detalles en negro",
+                "description": "Este reloj luce como una ilustración sacada directamente de una historieta lo que lo convierte en una pieza ideal para quienes buscan destacar con un estilo creativo, moderno y atrevido. Perfecto para amantes del diseño gráfico, el arte urbano y la originalidad sin esfuerzo.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Joefox+comic.jpg",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "",
+                "name": "Scottie",
+                "color": "Negro con detalles dorados",
+                "description": "Este reloj Scottie presenta un diseño impactante y contemporáneo que combina funcionalidad y estética en una sola pieza. Su carátula exhibe una configuración analógica y digital con múltiples subesferas. Diseñado para quienes valoran los detalles audaces, este modelo ofrece una experiencia visual dinámica y una presencia imponente en la muñeca.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Scottie.jpg",
+                "price": 110000,
                 "disponibilidad": true
             }
         ]
