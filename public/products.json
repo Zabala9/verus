@@ -435,6 +435,39 @@
                 
             },
             {
+                "id": "CUR84182",
+                "name": "Curren 8418",
+                "color": "Plateado con detalles en negro",
+                "description": "Reloj de diseño impactante que combina funcionalidad y elegancia. Con su estética deportiva y acabados tipo lujo, este modelo es ideal tanto para uso diario como para ocasiones especiales. Su carátula con subesferas decorativas y detalles en contraste lo convierten en una pieza llamativa y sofisticada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8418+2.JPG",
+                "price": 145000,
+                "disponibilidad": true
+                
+            },
+            {
+                "id": "CUR84183",
+                "name": "Curren 8418",
+                "color": "Azul con detalles en oro rosa",
+                "description": "Reloj de diseño impactante que combina funcionalidad y elegancia. Con su estética deportiva y acabados tipo lujo, este modelo es ideal tanto para uso diario como para ocasiones especiales. Su carátula con subesferas decorativas y detalles en contraste lo convierten en una pieza llamativa y sofisticada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8418+3.JPG",
+                "price": 145000,
+                "disponibilidad": true
+                
+            },
+            {
+                "id": "CUR84184",
+                "name": "Curren 8418",
+                "color": "Plateado con detalles en verde",
+                "description": "Reloj de diseño impactante que combina funcionalidad y elegancia. Con su estética deportiva y acabados tipo lujo, este modelo es ideal tanto para uso diario como para ocasiones especiales. Su carátula con subesferas decorativas y detalles en contraste lo convierten en una pieza llamativa y sofisticada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8418+4.JPG",
+                "price": 145000,
+                "disponibilidad": true
+                
+            },
+            {
                 "id": "CUR8392",
                 "name": "Curren 8392",
                 "color": "Correa verde con caja y carátula negra",
