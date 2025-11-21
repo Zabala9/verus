@@ -435,6 +435,39 @@
                 
             },
             {
+                "id": "CUR84182",
+                "name": "Curren 8418",
+                "color": "Plateado con detalles en negro",
+                "description": "Reloj de diseño impactante que combina funcionalidad y elegancia. Con su estética deportiva y acabados tipo lujo, este modelo es ideal tanto para uso diario como para ocasiones especiales. Su carátula con subesferas decorativas y detalles en contraste lo convierten en una pieza llamativa y sofisticada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8418+2.JPG",
+                "price": 145000,
+                "disponibilidad": true
+                
+            },
+            {
+                "id": "CUR84183",
+                "name": "Curren 8418",
+                "color": "Azul con detalles en oro rosa",
+                "description": "Reloj de diseño impactante que combina funcionalidad y elegancia. Con su estética deportiva y acabados tipo lujo, este modelo es ideal tanto para uso diario como para ocasiones especiales. Su carátula con subesferas decorativas y detalles en contraste lo convierten en una pieza llamativa y sofisticada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8418+3.JPG",
+                "price": 145000,
+                "disponibilidad": true
+                
+            },
+            {
+                "id": "CUR84184",
+                "name": "Curren 8418",
+                "color": "Plateado con detalles en verde",
+                "description": "Reloj de diseño impactante que combina funcionalidad y elegancia. Con su estética deportiva y acabados tipo lujo, este modelo es ideal tanto para uso diario como para ocasiones especiales. Su carátula con subesferas decorativas y detalles en contraste lo convierten en una pieza llamativa y sofisticada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8418+4.JPG",
+                "price": 145000,
+                "disponibilidad": true
+                
+            },
+            {
                 "id": "CUR8392",
                 "name": "Curren 8392",
                 "color": "Correa verde con caja y carátula negra",
@@ -881,76 +914,6 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+8.JPG",
                 "price": 80000,
                 "disponibilidad": true
-            },
-            {
-                "id": "ORTP101",
-                "name": "Orient Parejas",
-                "color": "Dorado con detalles negros",
-                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+1.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "ORTP102",
-                "name": "Orient Parejas",
-                "color": "Dorado con carátula blanca",
-                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+2.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "ORTP103",
-                "name": "Orient Parejas",
-                "color": "Plateado con detalles dorados y carátula negra",
-                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+3.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "ORTP104",
-                "name": "Orient Parejas",
-                "color": "Plateado con detalles dorados y carátula blanca",
-                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+4.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "ORTP105",
-                "name": "Orient Parejas",
-                "color": "Dorado con carátula negra",
-                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+5.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "ORTP106",
-                "name": "Orient Parejas",
-                "color": "Plateado",
-                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+6.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "ORTP107",
-                "name": "Orient Parejas",
-                "color": "Plateado con carátula negra",
-                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+7.JPG",
-                "price": 150000,
-                "disponibilidad": true
             }
         ]
     },
@@ -1098,76 +1061,6 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+PULSO+MALLA+2.JPG",
                 "price": 75000,
-                "disponibilidad": true
-            },
-            {
-                "id": "Q&QP101",
-                "name": "Q&Q para parejas",
-                "color": "Plateado con carátula negra",
-                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+1.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "Q&QP102",
-                "name": "Q&Q para parejas",
-                "color": "Dorado con carátula blanca",
-                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+2.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "Q&QP103",
-                "name": "Q&Q para parejas",
-                "color": "Plateado con detalles dorados",
-                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+3.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "Q&QP104",
-                "name": "Q&Q para parejas",
-                "color": "Dorado con carátula negra",
-                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+4.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "Q&QP105",
-                "name": "Q&Q para parejas",
-                "color": "Plateado",
-                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+5.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "Q&QP106",
-                "name": "Q&Q para parejas",
-                "color": "Plateado con detalles dorados y carátula negra",
-                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+6.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "Q&QP107",
-                "name": "Q&Q para parejas",
-                "color": "Negro",
-                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+7.JPG",
-                "price": 150000,
                 "disponibilidad": true
             }
         ]
@@ -1406,66 +1299,6 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+4.JPG",
                 "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXP101",
-                "name": "Rolex para pareja",
-                "color": "Plateado con detalles dorados",
-                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXP102",
-                "name": "Rolex para pareja",
-                "color": "Plateado con detalles dorados y carátula negra",
-                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+2.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXP103",
-                "name": "Rolex para pareja",
-                "color": "Dorado con carátula plateada",
-                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+3.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXP104",
-                "name": "Rolex para pareja",
-                "color": "Dorado con carátula negra",
-                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+4.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXP105",
-                "name": "Rolex para pareja",
-                "color": "Plateado",
-                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+5.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXP106",
-                "name": "Rolex para pareja",
-                "color": "Plateado con carátula negra",
-                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+6.JPG",
-                "price": 150000,
                 "disponibilidad": true
             },
             {
@@ -2134,6 +1967,46 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+9.JPG",
                 "price": 75000,
                 "disponibilidad": true
+            },
+            {
+                "id": "RCH110",
+                "name": "Richard Mille",
+                "color": "Negro con detalles en oro rosa",
+                "description": "Este modelo presenta un trabajo artesanal excepcional, con una figura detallada que envuelve el mecanismo central y le da al reloj una identidad propia. La pieza combina una caja robusta con un acabado de textura profunda.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+10.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RCH111",
+                "name": "Richard Mille",
+                "color": "Negro con detalles en  color oro",
+                "description": "Este modelo presenta un trabajo artesanal excepcional, con una figura detallada que envuelve el mecanismo central y le da al reloj una identidad propia. La pieza combina una caja robusta con un acabado de textura profunda.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+11.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RCH112",
+                "name": "Richard Mille",
+                "color": "Negro con detalles en blanco y oro rosa",
+                "description": "Este modelo presenta un trabajo artesanal excepcional, con una figura detallada que envuelve el mecanismo central y le da al reloj una identidad propia. La pieza combina una caja robusta con un acabado de textura profunda.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+12.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RCH113",
+                "name": "Richard Mille",
+                "color": "Negro con detalles en blanco y color oro",
+                "description": "Este modelo presenta un trabajo artesanal excepcional, con una figura detallada que envuelve el mecanismo central y le da al reloj una identidad propia. La pieza combina una caja robusta con un acabado de textura profunda.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+13.JPG",
+                "price": 75000,
+                "disponibilidad": true
             }
         ]
     },
@@ -2156,6 +2029,56 @@
                 "description": "Este elegante reloj tipo Rolex destaca por su acabado metálico brillante y carátula blanca con detalles refinados, ideal para quienes buscan distinción y presencia. Incluye un brazalete a juego con el logotipo grabado, complementando el set con un toque de lujo adicional. Perfecto para regalo o para elevar tu estilo diario.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+con+brazalete+1.JPG",
+                "price": 180000,
+                "disponibilidad": true
+            },
+            {
+                "id": "BRZ103",
+                "name": "Rolex Cubano con Brazalete",
+                "color": "Plateado con detalles dorados",
+                "description": "Este set combina un reloj con presencia imponente y un brazalete que complementa perfectamente su estética. La esfera completamente detallada resalta por su acabado lleno de brillo, mientras que los marcadores y el bisel aportan un toque de elegancia estructurada que capta miradas de inmediato.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+cubano+con+brazalete+1.jpg",
+                "price": 180000,
+                "disponibilidad": true
+            },
+            {
+                "id": "BRZ104",
+                "name": "Rolex Cubano con Brazalete",
+                "color": "Plateado",
+                "description": "Este set combina un reloj con presencia imponente y un brazalete que complementa perfectamente su estética. La esfera completamente detallada resalta por su acabado lleno de brillo, mientras que los marcadores y el bisel aportan un toque de elegancia estructurada que capta miradas de inmediato.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+cubano+con+brazalete+2.jpg",
+                "price": 180000,
+                "disponibilidad": true
+            },
+            {
+                "id": "BRZ105",
+                "name": "Rolex Cubano con Brazalete",
+                "color": "Plateado con detalles en dorado",
+                "description": "Este set combina un reloj con presencia imponente y un brazalete que complementa perfectamente su estética. La esfera completamente detallada resalta por su acabado lleno de brillo, mientras que los marcadores y el bisel aportan un toque de elegancia estructurada que capta miradas de inmediato.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+cubano+con+brazalete+3.jpg",
+                "price": 180000,
+                "disponibilidad": true
+            },
+            {
+                "id": "BRZ106",
+                "name": "Rolex Cubano con Brazalete",
+                "color": "Dorado",
+                "description": "Este set combina un reloj con presencia imponente y un brazalete que complementa perfectamente su estética. La esfera completamente detallada resalta por su acabado lleno de brillo, mientras que los marcadores y el bisel aportan un toque de elegancia estructurada que capta miradas de inmediato.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+cubano+con+brazalete+4.jpg",
+                "price": 180000,
+                "disponibilidad": true
+            },
+            {
+                "id": "BRZ107",
+                "name": "Rolex Cubano con Brazalete",
+                "color": "Dorado con carátula blanca",
+                "description": "Este set combina un reloj con presencia imponente y un brazalete que complementa perfectamente su estética. La esfera completamente detallada resalta por su acabado lleno de brillo, mientras que los marcadores y el bisel aportan un toque de elegancia estructurada que capta miradas de inmediato.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+cubano+con+brazalete+5.jpg",
                 "price": 180000,
                 "disponibilidad": true
             }
@@ -2236,6 +2159,70 @@
         ]
     },
     {
+        "Para parejas": [
+            {
+                "id": "RLXP101",
+                "name": "Rolex para pareja",
+                "color": "Plateado con detalles dorados",
+                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXP102",
+                "name": "Rolex para pareja",
+                "color": "Plateado con detalles dorados y carátula negra",
+                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+2.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXP103",
+                "name": "Rolex para pareja",
+                "color": "Dorado con carátula plateada",
+                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+3.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXP104",
+                "name": "Rolex para pareja",
+                "color": "Dorado con carátula negra",
+                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+4.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXP105",
+                "name": "Rolex para pareja",
+                "color": "Plateado",
+                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+5.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXP106",
+                "name": "Rolex para pareja",
+                "color": "Plateado con carátula negra",
+                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+6.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            }
+        ]
+    },
+    {
         "Otras Marcas": [
             {
                 "id": "SKMEI101",
@@ -2295,6 +2282,186 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Scottie.jpg",
                 "price": 110000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP101",
+                "name": "Q&Q para parejas",
+                "color": "Plateado con carátula negra",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+1.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP102",
+                "name": "Q&Q para parejas",
+                "color": "Dorado con carátula blanca",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+2.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP103",
+                "name": "Q&Q para parejas",
+                "color": "Plateado con detalles dorados",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+3.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP104",
+                "name": "Q&Q para parejas",
+                "color": "Dorado con carátula negra",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+4.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP105",
+                "name": "Q&Q para parejas",
+                "color": "Plateado",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+5.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP106",
+                "name": "Q&Q para parejas",
+                "color": "Plateado con detalles dorados y carátula negra",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+6.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QP107",
+                "name": "Q&Q para parejas",
+                "color": "Negro",
+                "description": "Diseño elegante e ideal para quienes buscan una combinación armoniosa y versátil. Ambos relojes cuentan con carátula limpia de estilo clásico, marcadores delgados y correa metálica de eslabones, lo que los hace perfectos para lucir en ocasiones formales o casuales. Un detalle ideal para compartir estilo en pareja.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Q%26Q+parejas+7.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "ORTP101",
+                "name": "Orient Parejas",
+                "color": "Dorado con detalles negros",
+                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+1.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "ORTP102",
+                "name": "Orient Parejas",
+                "color": "Dorado con carátula blanca",
+                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+2.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "ORTP103",
+                "name": "Orient Parejas",
+                "color": "Plateado con detalles dorados y carátula negra",
+                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+3.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "ORTP104",
+                "name": "Orient Parejas",
+                "color": "Plateado con detalles dorados y carátula blanca",
+                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+4.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "ORTP105",
+                "name": "Orient Parejas",
+                "color": "Dorado con carátula negra",
+                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+5.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "ORTP106",
+                "name": "Orient Parejas",
+                "color": "Plateado",
+                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+6.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "ORTP107",
+                "name": "Orient Parejas",
+                "color": "Plateado con carátula negra",
+                "description": "Una combinación perfecta de elegancia y simplicidad para dos. Este set Orient está diseñado para quienes aprecian la armonía entre el estilo clásico y la funcionalidad. Ambos modelos cuentan con maquinaria de excelente precisión, calendario con día y fecha, y una presentación sobria que se adapta tanto a ocasiones formales como al uso diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+7.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SNTP101",
+                "name": "Saint Parejas",
+                "color": "Negro con detalles en oro rosa",
+                "description": "Este set para pareja destaca por su diseño uniforme y refinado, pensado para quienes buscan una conexión compartida en cada detalle. Ambos relojes presentan una carátula con textura sutil y marcadores bien definidos que aportan una apariencia pulida y equilibrada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+parejas+1.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SNTP102",
+                "name": "Saint Parejas",
+                "color": "Plateado con detalles en dorado",
+                "description": "Este set para pareja destaca por su diseño uniforme y refinado, pensado para quienes buscan una conexión compartida en cada detalle. Ambos relojes presentan una carátula con textura sutil y marcadores bien definidos que aportan una apariencia pulida y equilibrada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+parejas+2.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SNTP103",
+                "name": "Saint Parejas",
+                "color": "Azul con detalles en oro rosa",
+                "description": "Este set para pareja destaca por su diseño uniforme y refinado, pensado para quienes buscan una conexión compartida en cada detalle. Ambos relojes presentan una carátula con textura sutil y marcadores bien definidos que aportan una apariencia pulida y equilibrada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+parejas+3.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SNTP104",
+                "name": "Saint Parejas",
+                "color": "Dorado",
+                "description": "Este set para pareja destaca por su diseño uniforme y refinado, pensado para quienes buscan una conexión compartida en cada detalle. Ambos relojes presentan una carátula con textura sutil y marcadores bien definidos que aportan una apariencia pulida y equilibrada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+parejas+4.JPG",
+                "price": 150000,
                 "disponibilidad": true
             }
         ]
