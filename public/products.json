@@ -2185,6 +2185,26 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+5.JPG",
                 "price": 80000,
                 "disponibilidad": true
+            },
+            {
+                "id": "RLXDJ106",
+                "name": "Rolex Datejust para Dama",
+                "color": "Negro",
+                "description": "Este modelo presenta un diseño llamativo donde cada detalle ha sido trabajado para ofrecer una apariencia sofisticada y distintiva. El bisel incorpora incrustaciones que aportan un brillo marcado y un estilo audaz, mientras que la carátula mantiene una estética equilibrada con marcadores refinados y una ventana de fecha bien definida.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+6.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXDJ107",
+                "name": "Rolex Datejust para Dama",
+                "color": "Negro con carátula blanca",
+                "description": "Este modelo presenta un diseño llamativo donde cada detalle ha sido trabajado para ofrecer una apariencia sofisticada y distintiva. El bisel incorpora incrustaciones que aportan un brillo marcado y un estilo audaz, mientras que la carátula mantiene una estética equilibrada con marcadores refinados y una ventana de fecha bien definida.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+7.JPG",
+                "price": 80000,
+                "disponibilidad": true
             }
         ]
     },
