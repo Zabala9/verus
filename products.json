@@ -2,46 +2,6 @@
     {
         "Cartier": [
             {
-                "id": "CG101",
-                "name": "Cartier",
-                "color": "Correa negra con caja blanca y bisel dorado rosa",
-                "description": "La elegancia clásica se fusiona con un toque deportivo en este Cartier Santos con correa de goma. Su icónica caja cuadrada acompañada de una carátula refinada con números romanos, lo convierten en una pieza ideal tanto para el uso diario como para ocasiones especiales. Un reloj que transmite distinción, comodidad y precisión en cada detalle.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma.JPG",
-                "price": 75000,
-                "disponibilidad": true
-            },
-            {
-                "id": "CG102",
-                "name": "Cartier",
-                "color": "Correa y carátula azul y bisel dorado rosa",
-                "description": "La elegancia clásica se fusiona con un toque deportivo en este Cartier Santos con correa de goma. Su icónica caja cuadrada acompañada de una carátula refinada con números romanos, lo convierten en una pieza ideal tanto para el uso diario como para ocasiones especiales. Un reloj que transmite distinción, comodidad y precisión en cada detalle.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma+2.JPG",
-                "price": 75000,
-                "disponibilidad": true
-            },
-            {
-                "id": "CG103",
-                "name": "Cartier",
-                "color": "Correa negra con caja blanca",
-                "description": "La elegancia clásica se fusiona con un toque deportivo en este Cartier Santos con correa de goma. Su icónica caja cuadrada acompañada de una carátula refinada con números romanos, lo convierten en una pieza ideal tanto para el uso diario como para ocasiones especiales. Un reloj que transmite distinción, comodidad y precisión en cada detalle.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma+3.JPG",
-                "price": 75000,
-                "disponibilidad": true
-            },
-            {
-                "id": "CG104",
-                "name": "Cartier",
-                "color": "Negro",
-                "description": "La elegancia clásica se fusiona con un toque deportivo en este Cartier Santos con correa de goma. Su icónica caja cuadrada acompañada de una carátula refinada con números romanos, lo convierten en una pieza ideal tanto para el uso diario como para ocasiones especiales. Un reloj que transmite distinción, comodidad y precisión en cada detalle.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma+4.JPG",
-                "price": 75000,
-                "disponibilidad": true
-            },
-            {
                 "id": "CS101",
                 "name": "Cartier Santos",
                 "color": "Plateado con carátula negra",
@@ -746,46 +706,6 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8459+4.jpg",
                 "price": 145000,
                 "disponibilidad": true
-            },
-            {
-                "id": "CUR9111101",
-                "name": "Curren 9111",
-                "color": "Plateado con azul",
-                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+1.jpg",
-                "price": 145000,
-                "disponibilidad": true
-            },
-            {
-                "id": "CUR9111102",
-                "name": "Curren 9111",
-                "color": "Plateado con detalles en oro rosa",
-                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+2.jpg",
-                "price": 145000,
-                "disponibilidad": true
-            },
-            {
-                "id": "CUR9111103",
-                "name": "Curren 9111",
-                "color": "Plateado con carátula blanca y detalles dorados",
-                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+3.jpg",
-                "price": 145000,
-                "disponibilidad": true
-            },
-            {
-                "id": "CUR9111104",
-                "name": "Curren 9111",
-                "color": "Plateado con carátula negra y detalles dorados",
-                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+4.jpg",
-                "price": 145000,
-                "disponibilidad": true
             }
         ]
     },
@@ -913,70 +833,6 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+8.JPG",
                 "price": 80000,
-                "disponibilidad": true
-            }
-        ]
-    },
-    {
-        "Versace": [
-            {
-                "id": "VSC101",
-                "name": "Versace",
-                "color": "Rosado",
-                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+1-1.JPG",
-                "price": 55000,
-                "disponibilidad": true
-            },
-            {
-                "id": "VSC102",
-                "name": "Versace",
-                "color": "Azul oscuro",
-                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+2-1.JPG",
-                "price": 55000,
-                "disponibilidad": true
-            },
-            {
-                "id": "VSC103",
-                "name": "Versace",
-                "color": "Blanco",
-                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+3-1.JPG",
-                "price": 55000,
-                "disponibilidad": true
-            },
-            {
-                "id": "VSC104",
-                "name": "Versace",
-                "color": "Morado claro",
-                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+4-1.JPG",
-                "price": 55000,
-                "disponibilidad": true
-            },
-            {
-                "id": "VSC105",
-                "name": "Versace",
-                "color": "Negro",
-                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+5-1.JPG",
-                "price": 55000,
-                "disponibilidad": true
-            },
-            {
-                "id": "VSC106",
-                "name": "Versace",
-                "color": "Rosado oscuro",
-                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+6-1.JPG",
-                "price": 55000,
                 "disponibilidad": true
             }
         ]
@@ -1449,56 +1305,6 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+15.JPG",
                 "price": 90000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXDJ101",
-                "name": "Rolex Datejust para Dama",
-                "color": "Plateado con carátula negra",
-                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+1.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXDJ102",
-                "name": "Rolex Datejust para Dama",
-                "color": "Plateado",
-                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+2.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXDJ103",
-                "name": "Rolex Datejust para Dama",
-                "color": "Plateado con detalles dorados",
-                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+3.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXDJ104",
-                "name": "Rolex Datejust para Dama",
-                "color": "Dorado con carátula negra",
-                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+4.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXDJ105",
-                "name": "Rolex Datejust para Dama",
-                "color": "Dorado con carátula blanca",
-                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+5.JPG",
-                "price": 80000,
                 "disponibilidad": true
             }
         ]
@@ -2011,6 +1817,80 @@
         ]
     },
     {
+        "Guess": [
+            {
+                "id": "GSSR101",
+                "name": "Guess",
+                "color": "Negro con detalles en oro rosa",
+                "description": "Diseño imponente con caja de gran tamaño, detalles robustos y marcadores resaltados. Su carátula combina patrones y texturas en múltiples capas, logrando una apariencia sofisticada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+1.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSR102",
+                "name": "Guess",
+                "color": "Negro con detalles plateados",
+                "description": "Diseño imponente con caja de gran tamaño, detalles robustos y marcadores resaltados. Su carátula combina patrones y texturas en múltiples capas, logrando una apariencia sofisticada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+2.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSR103",
+                "name": "Guess",
+                "color": "Negro con detalles en oro",
+                "description": "Diseño imponente con caja de gran tamaño, detalles robustos y marcadores resaltados. Su carátula combina patrones y texturas en múltiples capas, logrando una apariencia sofisticada.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+3.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSC101",
+                "name": "Guess",
+                "color": "Blanco con detalles en negro",
+                "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+1.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSC102",
+                "name": "Guess",
+                "color": "Negro con detalles dorados",
+                "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+2.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSC103",
+                "name": "Guess",
+                "color": "Negro",
+                "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+3.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GSSC104",
+                "name": "Guess",
+                "color": "Blanco con detalles en oro rosa",
+                "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+4.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            }
+        ]
+    },
+    {
         "Luxury Sets con Brazalete": [
             {
                 "id": "BRZ101",
@@ -2085,75 +1965,275 @@
         ]
     },
     {
-        "Guess": [
+        "Para mujeres": [
             {
-                "id": "GSSR101",
-                "name": "Guess",
-                "color": "Negro con detalles en oro rosa",
-                "description": "Diseño imponente con caja de gran tamaño, detalles robustos y marcadores resaltados. Su carátula combina patrones y texturas en múltiples capas, logrando una apariencia sofisticada.",
+                "id": "VSC101",
+                "name": "Versace",
+                "color": "Rosado",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+1.JPG",
-                "price": 75000,
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+1-1.JPG",
+                "price": 55000,
                 "disponibilidad": true
             },
             {
-                "id": "GSSR102",
-                "name": "Guess",
-                "color": "Negro con detalles plateados",
-                "description": "Diseño imponente con caja de gran tamaño, detalles robustos y marcadores resaltados. Su carátula combina patrones y texturas en múltiples capas, logrando una apariencia sofisticada.",
+                "id": "VSC102",
+                "name": "Versace",
+                "color": "Azul oscuro",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+2.JPG",
-                "price": 75000,
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+2-1.JPG",
+                "price": 55000,
                 "disponibilidad": true
             },
             {
-                "id": "GSSR103",
-                "name": "Guess",
-                "color": "Negro con detalles en oro",
-                "description": "Diseño imponente con caja de gran tamaño, detalles robustos y marcadores resaltados. Su carátula combina patrones y texturas en múltiples capas, logrando una apariencia sofisticada.",
+                "id": "VSC103",
+                "name": "Versace",
+                "color": "Blanco",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+3.JPG",
-                "price": 75000,
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+3-1.JPG",
+                "price": 55000,
                 "disponibilidad": true
             },
             {
-                "id": "GSSC101",
-                "name": "Guess",
-                "color": "Blanco con detalles en negro",
-                "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
+                "id": "VSC104",
+                "name": "Versace",
+                "color": "Morado claro",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+1.JPG",
-                "price": 75000,
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+4-1.JPG",
+                "price": 55000,
                 "disponibilidad": true
             },
             {
-                "id": "GSSC102",
-                "name": "Guess",
-                "color": "Negro con detalles dorados",
-                "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+2.JPG",
-                "price": 75000,
-                "disponibilidad": true
-            },
-            {
-                "id": "GSSC103",
-                "name": "Guess",
+                "id": "VSC105",
+                "name": "Versace",
                 "color": "Negro",
-                "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+3.JPG",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+5-1.JPG",
+                "price": 55000,
+                "disponibilidad": true
+            },
+            {
+                "id": "VSC106",
+                "name": "Versace",
+                "color": "Rosado oscuro",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+6-1.JPG",
+                "price": 55000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CG101",
+                "name": "Cartier",
+                "color": "Correa negra con caja blanca y bisel dorado rosa",
+                "description": "La elegancia clásica se fusiona con un toque deportivo en este Cartier Santos con correa de goma. Su icónica caja cuadrada acompañada de una carátula refinada con números romanos, lo convierten en una pieza ideal tanto para el uso diario como para ocasiones especiales. Un reloj que transmite distinción, comodidad y precisión en cada detalle.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma.JPG",
                 "price": 75000,
                 "disponibilidad": true
             },
             {
-                "id": "GSSC104",
-                "name": "Guess",
-                "color": "Blanco con detalles en oro rosa",
-                "description": "Este modelo presenta una caja rectangular con acabado industrial y detalles bien marcados en la carátula, ofreciendo una estética moderna y de alto contraste.",
+                "id": "CG102",
+                "name": "Cartier",
+                "color": "Correa y carátula azul y bisel dorado rosa",
+                "description": "La elegancia clásica se fusiona con un toque deportivo en este Cartier Santos con correa de goma. Su icónica caja cuadrada acompañada de una carátula refinada con números romanos, lo convierten en una pieza ideal tanto para el uso diario como para ocasiones especiales. Un reloj que transmite distinción, comodidad y precisión en cada detalle.",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+4.JPG",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma+2.JPG",
                 "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CG103",
+                "name": "Cartier",
+                "color": "Correa negra con caja blanca",
+                "description": "La elegancia clásica se fusiona con un toque deportivo en este Cartier Santos con correa de goma. Su icónica caja cuadrada acompañada de una carátula refinada con números romanos, lo convierten en una pieza ideal tanto para el uso diario como para ocasiones especiales. Un reloj que transmite distinción, comodidad y precisión en cada detalle.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma+3.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CG104",
+                "name": "Cartier",
+                "color": "Negro",
+                "description": "La elegancia clásica se fusiona con un toque deportivo en este Cartier Santos con correa de goma. Su icónica caja cuadrada acompañada de una carátula refinada con números romanos, lo convierten en una pieza ideal tanto para el uso diario como para ocasiones especiales. Un reloj que transmite distinción, comodidad y precisión en cada detalle.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma+4.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXM101",
+                "name": "Rolex para Dama",
+                "color": "Plateado con carátula negra y detalles dorados",
+                "description": "Este reloj combina detalles brillantes con una estética fina y equilibrada, creando una pieza que destaca sin necesidad de exagerar. Su bisel decorado aporta un toque de lujo visible desde cualquier ángulo, mientras que la carátula incorpora un diseño texturizado que añade profundidad y carácter.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+1.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXM102",
+                "name": "Rolex para Dama",
+                "color": "Plateado con carátula azul y detalles dorados",
+                "description": "Este reloj combina detalles brillantes con una estética fina y equilibrada, creando una pieza que destaca sin necesidad de exagerar. Su bisel decorado aporta un toque de lujo visible desde cualquier ángulo, mientras que la carátula incorpora un diseño texturizado que añade profundidad y carácter.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+2.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXM103",
+                "name": "Rolex para Dama",
+                "color": "Dorado con carátula negra",
+                "description": "Este reloj combina detalles brillantes con una estética fina y equilibrada, creando una pieza que destaca sin necesidad de exagerar. Su bisel decorado aporta un toque de lujo visible desde cualquier ángulo, mientras que la carátula incorpora un diseño texturizado que añade profundidad y carácter.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+3.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9111101",
+                "name": "Curren 9111",
+                "color": "Plateado con azul",
+                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+1.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9111102",
+                "name": "Curren 9111",
+                "color": "Plateado con detalles en oro rosa",
+                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+2.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9111103",
+                "name": "Curren 9111",
+                "color": "Plateado con carátula blanca y detalles dorados",
+                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+3.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9111104",
+                "name": "Curren 9111",
+                "color": "Plateado con carátula negra y detalles dorados",
+                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+4.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9097101",
+                "name": "Curren 9097",
+                "color": "Dorado con carátula en verde",
+                "description": "El Curren 9097 destaca por su diseño estilizado y delicado, creado para quienes buscan un accesorio con presencia y sutileza al mismo tiempo. Su carátula incorpora un patrón radial que aporta profundidad visual y un toque distintivo, mientras que los marcadores con brillo añaden un detalle sofisticado sin exagerar.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9097+1.JPG",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9097102",
+                "name": "Curren 9097",
+                "color": "Dorado con carátula blanca",
+                "description": "El Curren 9097 destaca por su diseño estilizado y delicado, creado para quienes buscan un accesorio con presencia y sutileza al mismo tiempo. Su carátula incorpora un patrón radial que aporta profundidad visual y un toque distintivo, mientras que los marcadores con brillo añaden un detalle sofisticado sin exagerar.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9097+2.JPG",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9097103",
+                "name": "Curren 9097",
+                "color": "Dorado con carátula azul",
+                "description": "El Curren 9097 destaca por su diseño estilizado y delicado, creado para quienes buscan un accesorio con presencia y sutileza al mismo tiempo. Su carátula incorpora un patrón radial que aporta profundidad visual y un toque distintivo, mientras que los marcadores con brillo añaden un detalle sofisticado sin exagerar.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9097+3.JPG",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXDJ101",
+                "name": "Rolex Datejust para Dama",
+                "color": "Plateado con carátula negra",
+                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+1.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXDJ102",
+                "name": "Rolex Datejust para Dama",
+                "color": "Plateado",
+                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+2.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXDJ103",
+                "name": "Rolex Datejust para Dama",
+                "color": "Plateado con detalles dorados",
+                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+3.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXDJ104",
+                "name": "Rolex Datejust para Dama",
+                "color": "Dorado con carátula negra",
+                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+4.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXDJ105",
+                "name": "Rolex Datejust para Dama",
+                "color": "Dorado con carátula blanca",
+                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+5.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXDJ106",
+                "name": "Rolex Datejust para Dama",
+                "color": "Negro",
+                "description": "Este modelo presenta un diseño llamativo donde cada detalle ha sido trabajado para ofrecer una apariencia sofisticada y distintiva. El bisel incorpora incrustaciones que aportan un brillo marcado y un estilo audaz, mientras que la carátula mantiene una estética equilibrada con marcadores refinados y una ventana de fecha bien definida.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+6.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXDJ107",
+                "name": "Rolex Datejust para Dama",
+                "color": "Negro con carátula blanca",
+                "description": "Este modelo presenta un diseño llamativo donde cada detalle ha sido trabajado para ofrecer una apariencia sofisticada y distintiva. El bisel incorpora incrustaciones que aportan un brillo marcado y un estilo audaz, mientras que la carátula mantiene una estética equilibrada con marcadores refinados y una ventana de fecha bien definida.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+7.JPG",
+                "price": 80000,
                 "disponibilidad": true
             }
         ]
