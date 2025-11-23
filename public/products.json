@@ -2067,6 +2067,36 @@
                 "disponibilidad": true
             },
             {
+                "id": "RLXM101",
+                "name": "Rolex para Dama",
+                "color": "Plateado con carátula negra y detalles dorados",
+                "description": "Este reloj combina detalles brillantes con una estética fina y equilibrada, creando una pieza que destaca sin necesidad de exagerar. Su bisel decorado aporta un toque de lujo visible desde cualquier ángulo, mientras que la carátula incorpora un diseño texturizado que añade profundidad y carácter.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+1.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXM102",
+                "name": "Rolex para Dama",
+                "color": "Plateado con carátula azul y detalles dorados",
+                "description": "Este reloj combina detalles brillantes con una estética fina y equilibrada, creando una pieza que destaca sin necesidad de exagerar. Su bisel decorado aporta un toque de lujo visible desde cualquier ángulo, mientras que la carátula incorpora un diseño texturizado que añade profundidad y carácter.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+2.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXM103",
+                "name": "Rolex para Dama",
+                "color": "Dorado con carátula negra",
+                "description": "Este reloj combina detalles brillantes con una estética fina y equilibrada, creando una pieza que destaca sin necesidad de exagerar. Su bisel decorado aporta un toque de lujo visible desde cualquier ángulo, mientras que la carátula incorpora un diseño texturizado que añade profundidad y carácter.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+3.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
                 "id": "CUR9111101",
                 "name": "Curren 9111",
                 "color": "Plateado con azul",
