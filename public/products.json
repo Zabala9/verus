@@ -918,70 +918,6 @@
         ]
     },
     {
-        "Versace": [
-            {
-                "id": "VSC101",
-                "name": "Versace",
-                "color": "Rosado",
-                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+1-1.JPG",
-                "price": 55000,
-                "disponibilidad": true
-            },
-            {
-                "id": "VSC102",
-                "name": "Versace",
-                "color": "Azul oscuro",
-                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+2-1.JPG",
-                "price": 55000,
-                "disponibilidad": true
-            },
-            {
-                "id": "VSC103",
-                "name": "Versace",
-                "color": "Blanco",
-                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+3-1.JPG",
-                "price": 55000,
-                "disponibilidad": true
-            },
-            {
-                "id": "VSC104",
-                "name": "Versace",
-                "color": "Morado claro",
-                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+4-1.JPG",
-                "price": 55000,
-                "disponibilidad": true
-            },
-            {
-                "id": "VSC105",
-                "name": "Versace",
-                "color": "Negro",
-                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+5-1.JPG",
-                "price": 55000,
-                "disponibilidad": true
-            },
-            {
-                "id": "VSC106",
-                "name": "Versace",
-                "color": "Rosado oscuro",
-                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+6-1.JPG",
-                "price": 55000,
-                "disponibilidad": true
-            }
-        ]
-    },
-    {
         "Q&Q" : [
             {
                 "id": "Q&Q101",
@@ -2154,6 +2090,70 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+4.JPG",
                 "price": 75000,
+                "disponibilidad": true
+            }
+        ]
+    },
+    {
+        "Para mujeres": [
+            {
+                "id": "VSC101",
+                "name": "Versace",
+                "color": "Rosado",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+1-1.JPG",
+                "price": 55000,
+                "disponibilidad": true
+            },
+            {
+                "id": "VSC102",
+                "name": "Versace",
+                "color": "Azul oscuro",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+2-1.JPG",
+                "price": 55000,
+                "disponibilidad": true
+            },
+            {
+                "id": "VSC103",
+                "name": "Versace",
+                "color": "Blanco",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+3-1.JPG",
+                "price": 55000,
+                "disponibilidad": true
+            },
+            {
+                "id": "VSC104",
+                "name": "Versace",
+                "color": "Morado claro",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+4-1.JPG",
+                "price": 55000,
+                "disponibilidad": true
+            },
+            {
+                "id": "VSC105",
+                "name": "Versace",
+                "color": "Negro",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+5-1.JPG",
+                "price": 55000,
+                "disponibilidad": true
+            },
+            {
+                "id": "VSC106",
+                "name": "Versace",
+                "color": "Rosado oscuro",
+                "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+6-1.JPG",
+                "price": 55000,
                 "disponibilidad": true
             }
         ]
