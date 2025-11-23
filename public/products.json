@@ -706,46 +706,6 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8459+4.jpg",
                 "price": 145000,
                 "disponibilidad": true
-            },
-            {
-                "id": "CUR9111101",
-                "name": "Curren 9111",
-                "color": "Plateado con azul",
-                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+1.jpg",
-                "price": 145000,
-                "disponibilidad": true
-            },
-            {
-                "id": "CUR9111102",
-                "name": "Curren 9111",
-                "color": "Plateado con detalles en oro rosa",
-                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+2.jpg",
-                "price": 145000,
-                "disponibilidad": true
-            },
-            {
-                "id": "CUR9111103",
-                "name": "Curren 9111",
-                "color": "Plateado con carátula blanca y detalles dorados",
-                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+3.jpg",
-                "price": 145000,
-                "disponibilidad": true
-            },
-            {
-                "id": "CUR9111104",
-                "name": "Curren 9111",
-                "color": "Plateado con carátula negra y detalles dorados",
-                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+4.jpg",
-                "price": 145000,
-                "disponibilidad": true
             }
         ]
     },
@@ -2154,6 +2114,76 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma+4.JPG",
                 "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9111101",
+                "name": "Curren 9111",
+                "color": "Plateado con azul",
+                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+1.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9111102",
+                "name": "Curren 9111",
+                "color": "Plateado con detalles en oro rosa",
+                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+2.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9111103",
+                "name": "Curren 9111",
+                "color": "Plateado con carátula blanca y detalles dorados",
+                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+3.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9111104",
+                "name": "Curren 9111",
+                "color": "Plateado con carátula negra y detalles dorados",
+                "description": "Diseño sofisticado y femenino que combina elegancia con un aire moderno. Su carátula con detalles brillantes en las posiciones horarias y el patrón nacarado sutil, le da un toque de distinción. Ideal para ocasiones especiales o el uso diario, este modelo se destaca por su forma delgada y cómoda, así como por su precisión.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9111+4.jpg",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9097101",
+                "name": "Curren 9097",
+                "color": "Dorado con carátula en verde",
+                "description": "El Curren 9097 destaca por su diseño estilizado y delicado, creado para quienes buscan un accesorio con presencia y sutileza al mismo tiempo. Su carátula incorpora un patrón radial que aporta profundidad visual y un toque distintivo, mientras que los marcadores con brillo añaden un detalle sofisticado sin exagerar.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9097+1.JPG",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9097102",
+                "name": "Curren 9097",
+                "color": "Dorado con carátula blanca",
+                "description": "El Curren 9097 destaca por su diseño estilizado y delicado, creado para quienes buscan un accesorio con presencia y sutileza al mismo tiempo. Su carátula incorpora un patrón radial que aporta profundidad visual y un toque distintivo, mientras que los marcadores con brillo añaden un detalle sofisticado sin exagerar.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9097+2.JPG",
+                "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9097103",
+                "name": "Curren 9097",
+                "color": "Dorado con carátula azul",
+                "description": "El Curren 9097 destaca por su diseño estilizado y delicado, creado para quienes buscan un accesorio con presencia y sutileza al mismo tiempo. Su carátula incorpora un patrón radial que aporta profundidad visual y un toque distintivo, mientras que los marcadores con brillo añaden un detalle sofisticado sin exagerar.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9097+3.JPG",
+                "price": 145000,
                 "disponibilidad": true
             }
         ]
