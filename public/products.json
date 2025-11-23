@@ -1817,80 +1817,6 @@
         ]
     },
     {
-        "Luxury Sets con Brazalete": [
-            {
-                "id": "BRZ101",
-                "name": "Cartier con Brazalete",
-                "color": "",
-                "description": "Reloj de diseño elegante y sofisticado, ideal para quienes buscan destacar con un estilo refinado. Incluye un brazalete a juego que complementa perfectamente la estética del reloj, convirtiéndolo en un set ideal para regalo o uso personal. Mecanismo preciso, correa metálica de alta durabilidad.",
-                "presentacion": "Presentación en caja de lujo",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+con+brazalete+1.JPG",
-                "price": 180000,
-                "disponibilidad": false
-            },
-            {
-                "id": "BRZ102",
-                "name": "Rolex con Brazalete",
-                "color": "",
-                "description": "Este elegante reloj tipo Rolex destaca por su acabado metálico brillante y carátula blanca con detalles refinados, ideal para quienes buscan distinción y presencia. Incluye un brazalete a juego con el logotipo grabado, complementando el set con un toque de lujo adicional. Perfecto para regalo o para elevar tu estilo diario.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+con+brazalete+1.JPG",
-                "price": 180000,
-                "disponibilidad": true
-            },
-            {
-                "id": "BRZ103",
-                "name": "Rolex Cubano con Brazalete",
-                "color": "Plateado con detalles dorados",
-                "description": "Este set combina un reloj con presencia imponente y un brazalete que complementa perfectamente su estética. La esfera completamente detallada resalta por su acabado lleno de brillo, mientras que los marcadores y el bisel aportan un toque de elegancia estructurada que capta miradas de inmediato.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+cubano+con+brazalete+1.jpg",
-                "price": 140000,
-                "disponibilidad": true
-            },
-            {
-                "id": "BRZ104",
-                "name": "Rolex Cubano con Brazalete",
-                "color": "Plateado",
-                "description": "Este set combina un reloj con presencia imponente y un brazalete que complementa perfectamente su estética. La esfera completamente detallada resalta por su acabado lleno de brillo, mientras que los marcadores y el bisel aportan un toque de elegancia estructurada que capta miradas de inmediato.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+cubano+con+brazalete+2.jpg",
-                "price": 140000,
-                "disponibilidad": true
-            },
-            {
-                "id": "BRZ105",
-                "name": "Rolex Cubano con Brazalete",
-                "color": "Plateado con detalles en dorado",
-                "description": "Este set combina un reloj con presencia imponente y un brazalete que complementa perfectamente su estética. La esfera completamente detallada resalta por su acabado lleno de brillo, mientras que los marcadores y el bisel aportan un toque de elegancia estructurada que capta miradas de inmediato.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+cubano+con+brazalete+3.jpg",
-                "price": 140000,
-                "disponibilidad": true
-            },
-            {
-                "id": "BRZ106",
-                "name": "Rolex Cubano con Brazalete",
-                "color": "Dorado",
-                "description": "Este set combina un reloj con presencia imponente y un brazalete que complementa perfectamente su estética. La esfera completamente detallada resalta por su acabado lleno de brillo, mientras que los marcadores y el bisel aportan un toque de elegancia estructurada que capta miradas de inmediato.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+cubano+con+brazalete+4.jpg",
-                "price": 140000,
-                "disponibilidad": true
-            },
-            {
-                "id": "BRZ107",
-                "name": "Rolex Cubano con Brazalete",
-                "color": "Dorado con carátula blanca",
-                "description": "Este set combina un reloj con presencia imponente y un brazalete que complementa perfectamente su estética. La esfera completamente detallada resalta por su acabado lleno de brillo, mientras que los marcadores y el bisel aportan un toque de elegancia estructurada que capta miradas de inmediato.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+cubano+con+brazalete+5.jpg",
-                "price": 140000,
-                "disponibilidad": true
-            }
-        ]
-    },
-    {
         "Guess": [
             {
                 "id": "GSSR101",
@@ -1960,6 +1886,80 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+4.JPG",
                 "price": 75000,
+                "disponibilidad": true
+            }
+        ]
+    },
+    {
+        "Luxury Sets con Brazalete": [
+            {
+                "id": "BRZ101",
+                "name": "Cartier con Brazalete",
+                "color": "",
+                "description": "Reloj de diseño elegante y sofisticado, ideal para quienes buscan destacar con un estilo refinado. Incluye un brazalete a juego que complementa perfectamente la estética del reloj, convirtiéndolo en un set ideal para regalo o uso personal. Mecanismo preciso, correa metálica de alta durabilidad.",
+                "presentacion": "Presentación en caja de lujo",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+con+brazalete+1.JPG",
+                "price": 180000,
+                "disponibilidad": false
+            },
+            {
+                "id": "BRZ102",
+                "name": "Rolex con Brazalete",
+                "color": "",
+                "description": "Este elegante reloj tipo Rolex destaca por su acabado metálico brillante y carátula blanca con detalles refinados, ideal para quienes buscan distinción y presencia. Incluye un brazalete a juego con el logotipo grabado, complementando el set con un toque de lujo adicional. Perfecto para regalo o para elevar tu estilo diario.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+con+brazalete+1.JPG",
+                "price": 180000,
+                "disponibilidad": true
+            },
+            {
+                "id": "BRZ103",
+                "name": "Rolex Cubano con Brazalete",
+                "color": "Plateado con detalles dorados",
+                "description": "Este set combina un reloj con presencia imponente y un brazalete que complementa perfectamente su estética. La esfera completamente detallada resalta por su acabado lleno de brillo, mientras que los marcadores y el bisel aportan un toque de elegancia estructurada que capta miradas de inmediato.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+cubano+con+brazalete+1.jpg",
+                "price": 140000,
+                "disponibilidad": true
+            },
+            {
+                "id": "BRZ104",
+                "name": "Rolex Cubano con Brazalete",
+                "color": "Plateado",
+                "description": "Este set combina un reloj con presencia imponente y un brazalete que complementa perfectamente su estética. La esfera completamente detallada resalta por su acabado lleno de brillo, mientras que los marcadores y el bisel aportan un toque de elegancia estructurada que capta miradas de inmediato.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+cubano+con+brazalete+2.jpg",
+                "price": 140000,
+                "disponibilidad": true
+            },
+            {
+                "id": "BRZ105",
+                "name": "Rolex Cubano con Brazalete",
+                "color": "Plateado con detalles en dorado",
+                "description": "Este set combina un reloj con presencia imponente y un brazalete que complementa perfectamente su estética. La esfera completamente detallada resalta por su acabado lleno de brillo, mientras que los marcadores y el bisel aportan un toque de elegancia estructurada que capta miradas de inmediato.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+cubano+con+brazalete+3.jpg",
+                "price": 140000,
+                "disponibilidad": true
+            },
+            {
+                "id": "BRZ106",
+                "name": "Rolex Cubano con Brazalete",
+                "color": "Dorado",
+                "description": "Este set combina un reloj con presencia imponente y un brazalete que complementa perfectamente su estética. La esfera completamente detallada resalta por su acabado lleno de brillo, mientras que los marcadores y el bisel aportan un toque de elegancia estructurada que capta miradas de inmediato.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+cubano+con+brazalete+4.jpg",
+                "price": 140000,
+                "disponibilidad": true
+            },
+            {
+                "id": "BRZ107",
+                "name": "Rolex Cubano con Brazalete",
+                "color": "Dorado con carátula blanca",
+                "description": "Este set combina un reloj con presencia imponente y un brazalete que complementa perfectamente su estética. La esfera completamente detallada resalta por su acabado lleno de brillo, mientras que los marcadores y el bisel aportan un toque de elegancia estructurada que capta miradas de inmediato.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+cubano+con+brazalete+5.jpg",
+                "price": 140000,
                 "disponibilidad": true
             }
         ]
