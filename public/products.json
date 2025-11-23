@@ -1306,56 +1306,6 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+15.JPG",
                 "price": 90000,
                 "disponibilidad": true
-            },
-            {
-                "id": "RLXDJ101",
-                "name": "Rolex Datejust para Dama",
-                "color": "Plateado con carátula negra",
-                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+1.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXDJ102",
-                "name": "Rolex Datejust para Dama",
-                "color": "Plateado",
-                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+2.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXDJ103",
-                "name": "Rolex Datejust para Dama",
-                "color": "Plateado con detalles dorados",
-                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+3.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXDJ104",
-                "name": "Rolex Datejust para Dama",
-                "color": "Dorado con carátula negra",
-                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+4.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXDJ105",
-                "name": "Rolex Datejust para Dama",
-                "color": "Dorado con carátula blanca",
-                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+5.JPG",
-                "price": 80000,
-                "disponibilidad": true
             }
         ]
     },
@@ -2184,6 +2134,56 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9097+3.JPG",
                 "price": 145000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXDJ101",
+                "name": "Rolex Datejust para Dama",
+                "color": "Plateado con carátula negra",
+                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+1.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXDJ102",
+                "name": "Rolex Datejust para Dama",
+                "color": "Plateado",
+                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+2.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXDJ103",
+                "name": "Rolex Datejust para Dama",
+                "color": "Plateado con detalles dorados",
+                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+3.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXDJ104",
+                "name": "Rolex Datejust para Dama",
+                "color": "Dorado con carátula negra",
+                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+4.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXDJ105",
+                "name": "Rolex Datejust para Dama",
+                "color": "Dorado con carátula blanca",
+                "description": "Un clásico atemporal que habla por sí solo. Este modelo Datejust combina diseño refinado y detalles únicos que elevan cualquier estilo. Con un dial texturizado con el icónico patrón de la marca y marcadores brillantes que aportan un toque de lujo, es perfecto para quienes valoran la distinción.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+5.JPG",
+                "price": 80000,
                 "disponibilidad": true
             }
         ]
