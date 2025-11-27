@@ -2097,6 +2097,46 @@
                 "disponibilidad": true
             },
             {
+                "id": "RLXMG101",
+                "name": "Rolex para Dama",
+                "color": "Negro con detalles dorados",
+                "description": "Este modelo destaca por su apariencia limpia y moderna, donde la caja pulida contrasta con una correa de estilo deportivo que realza su carácter actual. La carátula incorpora marcadores precisos y una ventana de fecha que aporta funcionalidad sin romper la estética.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+en+goma+1.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXMG102",
+                "name": "Rolex para Dama",
+                "color": "Blanco con detalles dorados",
+                "description": "Este modelo destaca por su apariencia limpia y moderna, donde la caja pulida contrasta con una correa de estilo deportivo que realza su carácter actual. La carátula incorpora marcadores precisos y una ventana de fecha que aporta funcionalidad sin romper la estética.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+en+goma+2.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXMG103",
+                "name": "Rolex para Dama",
+                "color": "Azul con detalles dorados",
+                "description": "Este modelo destaca por su apariencia limpia y moderna, donde la caja pulida contrasta con una correa de estilo deportivo que realza su carácter actual. La carátula incorpora marcadores precisos y una ventana de fecha que aporta funcionalidad sin romper la estética.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+en+goma+3.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXMG104",
+                "name": "Rolex para Dama",
+                "color": "Rosado con detalles dorados",
+                "description": "Este modelo destaca por su apariencia limpia y moderna, donde la caja pulida contrasta con una correa de estilo deportivo que realza su carácter actual. La carátula incorpora marcadores precisos y una ventana de fecha que aporta funcionalidad sin romper la estética.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+en+goma+4.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
                 "id": "CUR9111101",
                 "name": "Curren 9111",
                 "color": "Plateado con azul",
