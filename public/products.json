@@ -378,6 +378,36 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+Ferrari+5-2.jpg",
                 "price": 75000,
                 "disponibilidad": true
+            },
+            {
+                "id": "CSD101",
+                "name": "Casio",
+                "color": "Plateado con detalles en negro",
+                "description": "Este reloj combina un diseño deportivo con funciones prácticas que lo convierten en una pieza ideal para el uso diario. Su carátula integra indicadores analógicos junto a pantallas digitales, ofreciendo una lectura versátil y moderna.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+digital+1.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CSD102",
+                "name": "Casio",
+                "color": "Negro con detalles dorados",
+                "description": "Este reloj combina un diseño deportivo con funciones prácticas que lo convierten en una pieza ideal para el uso diario. Su carátula integra indicadores analógicos junto a pantallas digitales, ofreciendo una lectura versátil y moderna.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+digital+2.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CSD103",
+                "name": "Casio",
+                "color": "Plateado con detalles en azul",
+                "description": "Este reloj combina un diseño deportivo con funciones prácticas que lo convierten en una pieza ideal para el uso diario. Su carátula integra indicadores analógicos junto a pantallas digitales, ofreciendo una lectura versátil y moderna.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+digital+3.JPG",
+                "price": 90000,
+                "disponibilidad": true
             }
         ]
     },
