@@ -408,6 +408,56 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+digital+3.JPG",
                 "price": 90000,
                 "disponibilidad": true
+            },
+            {
+                "id": "CSX101",
+                "name": "Casio",
+                "color": "Plateado con detalles en dorado",
+                "description": "Este reloj se distingue por su presencia imponente y un diseño lleno de detalles que resaltan su carácter deportivo. La carátula combina indicadores analógicos con múltiples pantallas digitales, ofreciendo una funcionalidad completa para quienes buscan precisión y versatilidad en su día a día.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+X+1.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CSX102",
+                "name": "Casio",
+                "color": "Negro con detalles plateados",
+                "description": "Este reloj se distingue por su presencia imponente y un diseño lleno de detalles que resaltan su carácter deportivo. La carátula combina indicadores analógicos con múltiples pantallas digitales, ofreciendo una funcionalidad completa para quienes buscan precisión y versatilidad en su día a día.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+X+2.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CSX103",
+                "name": "Casio",
+                "color": "Plateado con detalles en azul",
+                "description": "Este reloj se distingue por su presencia imponente y un diseño lleno de detalles que resaltan su carácter deportivo. La carátula combina indicadores analógicos con múltiples pantallas digitales, ofreciendo una funcionalidad completa para quienes buscan precisión y versatilidad en su día a día.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+X+3.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CSX104",
+                "name": "Casio",
+                "color": "Plateado con detalles en rojo",
+                "description": "Este reloj se distingue por su presencia imponente y un diseño lleno de detalles que resaltan su carácter deportivo. La carátula combina indicadores analógicos con múltiples pantallas digitales, ofreciendo una funcionalidad completa para quienes buscan precisión y versatilidad en su día a día.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+X+4.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CSX105",
+                "name": "Casio",
+                "color": "Dorado",
+                "description": "Este reloj se distingue por su presencia imponente y un diseño lleno de detalles que resaltan su carácter deportivo. La carátula combina indicadores analógicos con múltiples pantallas digitales, ofreciendo una funcionalidad completa para quienes buscan precisión y versatilidad en su día a día.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+X+5.JPG",
+                "price": 90000,
+                "disponibilidad": true
             }
         ]
     },
