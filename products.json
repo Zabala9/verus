@@ -378,6 +378,86 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+Ferrari+5-2.jpg",
                 "price": 75000,
                 "disponibilidad": true
+            },
+            {
+                "id": "CSD101",
+                "name": "Casio",
+                "color": "Plateado con detalles en negro",
+                "description": "Este reloj combina un diseño deportivo con funciones prácticas que lo convierten en una pieza ideal para el uso diario. Su carátula integra indicadores analógicos junto a pantallas digitales, ofreciendo una lectura versátil y moderna.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+digital+1.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CSD102",
+                "name": "Casio",
+                "color": "Negro con detalles dorados",
+                "description": "Este reloj combina un diseño deportivo con funciones prácticas que lo convierten en una pieza ideal para el uso diario. Su carátula integra indicadores analógicos junto a pantallas digitales, ofreciendo una lectura versátil y moderna.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+digital+2.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CSD103",
+                "name": "Casio",
+                "color": "Plateado con detalles en azul",
+                "description": "Este reloj combina un diseño deportivo con funciones prácticas que lo convierten en una pieza ideal para el uso diario. Su carátula integra indicadores analógicos junto a pantallas digitales, ofreciendo una lectura versátil y moderna.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+digital+3.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CSX101",
+                "name": "Casio",
+                "color": "Plateado con detalles en dorado",
+                "description": "Este reloj se distingue por su presencia imponente y un diseño lleno de detalles que resaltan su carácter deportivo. La carátula combina indicadores analógicos con múltiples pantallas digitales, ofreciendo una funcionalidad completa para quienes buscan precisión y versatilidad en su día a día.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+X+1.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CSX102",
+                "name": "Casio",
+                "color": "Negro con detalles plateados",
+                "description": "Este reloj se distingue por su presencia imponente y un diseño lleno de detalles que resaltan su carácter deportivo. La carátula combina indicadores analógicos con múltiples pantallas digitales, ofreciendo una funcionalidad completa para quienes buscan precisión y versatilidad en su día a día.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+X+2.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CSX103",
+                "name": "Casio",
+                "color": "Plateado con detalles en azul",
+                "description": "Este reloj se distingue por su presencia imponente y un diseño lleno de detalles que resaltan su carácter deportivo. La carátula combina indicadores analógicos con múltiples pantallas digitales, ofreciendo una funcionalidad completa para quienes buscan precisión y versatilidad en su día a día.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+X+3.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CSX104",
+                "name": "Casio",
+                "color": "Plateado con detalles en rojo",
+                "description": "Este reloj se distingue por su presencia imponente y un diseño lleno de detalles que resaltan su carácter deportivo. La carátula combina indicadores analógicos con múltiples pantallas digitales, ofreciendo una funcionalidad completa para quienes buscan precisión y versatilidad en su día a día.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+X+4.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CSX105",
+                "name": "Casio",
+                "color": "Dorado",
+                "description": "Este reloj se distingue por su presencia imponente y un diseño lleno de detalles que resaltan su carácter deportivo. La carátula combina indicadores analógicos con múltiples pantallas digitales, ofreciendo una funcionalidad completa para quienes buscan precisión y versatilidad en su día a día.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Casio+X+5.JPG",
+                "price": 90000,
+                "disponibilidad": true
             }
         ]
     },
@@ -2093,6 +2173,46 @@
                 "description": "Este reloj combina detalles brillantes con una estética fina y equilibrada, creando una pieza que destaca sin necesidad de exagerar. Su bisel decorado aporta un toque de lujo visible desde cualquier ángulo, mientras que la carátula incorpora un diseño texturizado que añade profundidad y carácter.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+3.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXMG101",
+                "name": "Rolex para Dama",
+                "color": "Negro con detalles dorados",
+                "description": "Este modelo destaca por su apariencia limpia y moderna, donde la caja pulida contrasta con una correa de estilo deportivo que realza su carácter actual. La carátula incorpora marcadores precisos y una ventana de fecha que aporta funcionalidad sin romper la estética.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+en+goma+1.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXMG102",
+                "name": "Rolex para Dama",
+                "color": "Blanco con detalles dorados",
+                "description": "Este modelo destaca por su apariencia limpia y moderna, donde la caja pulida contrasta con una correa de estilo deportivo que realza su carácter actual. La carátula incorpora marcadores precisos y una ventana de fecha que aporta funcionalidad sin romper la estética.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+en+goma+2.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXMG103",
+                "name": "Rolex para Dama",
+                "color": "Azul con detalles dorados",
+                "description": "Este modelo destaca por su apariencia limpia y moderna, donde la caja pulida contrasta con una correa de estilo deportivo que realza su carácter actual. La carátula incorpora marcadores precisos y una ventana de fecha que aporta funcionalidad sin romper la estética.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+en+goma+3.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXMG104",
+                "name": "Rolex para Dama",
+                "color": "Rosado con detalles dorados",
+                "description": "Este modelo destaca por su apariencia limpia y moderna, donde la caja pulida contrasta con una correa de estilo deportivo que realza su carácter actual. La carátula incorpora marcadores precisos y una ventana de fecha que aporta funcionalidad sin romper la estética.",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+en+goma+4.JPG",
                 "price": 80000,
                 "disponibilidad": true
             },
