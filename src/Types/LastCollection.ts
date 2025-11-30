@@ -50,13 +50,13 @@ export const LastCollection = [
         "disponibilidad": true
     },
     {
-        "id": "CS101",
-        "name": "Cartier Santos",
-        "color": "Plateado con carátula negra",
-        "description": "Con su emblemática caja cuadrada de acero inoxidable, tornillos visibles y números romanos, este modelo se ha convertido en un símbolo de lujo y distinción. Ideal tanto para ocasiones formales como para el día a día, este reloj destaca por su estilo refinado y atemporal.",
-        "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+santos.JPG",
-        "price": 80000,
+        "id": "HLT105",
+        "name": "Hublot",
+        "color": "Negro con detalles en dorado",
+        "description": "Este reloj presenta una estética sólida y bien definida, con una caja de líneas marcadas que refleja un estilo moderno y de gran presencia. La carátula mantiene un diseño limpio con números aplicados y una ventana de fecha discreta, logrando un equilibrio perfecto entre funcionalidad y sofisticación.",
+        "presentacion": "Presentación en caja de presentación",
+        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/hublot+5.JPG",
+        "price": 70000,
         "disponibilidad": true
     },
     {
