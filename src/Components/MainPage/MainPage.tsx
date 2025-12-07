@@ -9,7 +9,7 @@ function MainPage() {
     // const chunkSize = 6;
     const [visibleProducts, setVisibleProducts] = useState<Product[]>([]);
     const [isReadyToScroll, setIsReadyToScroll] = useState(false);
-    const [showAdvertising, setShowAdvertising] = useState(true);
+    const [showAdvertising, setShowAdvertising] = useState(false);
     // const [loadCount, setLoadCount] = useState<number>(chunkSize);
 
     useEffect(() => {
