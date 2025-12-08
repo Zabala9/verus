@@ -1096,6 +1096,50 @@
         ]
     },
     {
+        "Tommy Hilfiger": [
+            {
+                "id": "TMH101",
+                "name": "Tommy Hilfiger",
+                "color": "Negro con carátula blanca",
+                "description": "Este modelo Tommy Hilfiger combina un diseño limpio con detalles deportivos que le dan una presencia marcada en la muñeca. La carátula incorpora indicadores bien definidos y un acabado texturizado que agrega profundidad visual",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/tommy+hilfiger+1.jpg",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TMH102",
+                "name": "Tommy Hilfiger",
+                "color": "Negro con carátula café",
+                "description": "Este modelo Tommy Hilfiger combina un diseño limpio con detalles deportivos que le dan una presencia marcada en la muñeca. La carátula incorpora indicadores bien definidos y un acabado texturizado que agrega profundidad visual",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/tommy+hilfiger+2.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TMH103",
+                "name": "Tommy Hilfiger",
+                "color": "Negro",
+                "description": "Este modelo Tommy Hilfiger combina un diseño limpio con detalles deportivos que le dan una presencia marcada en la muñeca. La carátula incorpora indicadores bien definidos y un acabado texturizado que agrega profundidad visual",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/tommy+hilfiger+3.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TMH104",
+                "name": "Tommy Hilfiger",
+                "color": "Negro con carátula azul",
+                "description": "Este modelo Tommy Hilfiger combina un diseño limpio con detalles deportivos que le dan una presencia marcada en la muñeca. La carátula incorpora indicadores bien definidos y un acabado texturizado que agrega profundidad visual",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/tommy+hilfiger+4.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            }
+        ]
+    },
+    {
         "Rolex": [
             {
                 "id": "RLXDW101",
@@ -2019,6 +2063,60 @@
                 "description": "Este reloj presenta una estética sólida y bien definida, con una caja de líneas marcadas que refleja un estilo moderno y de gran presencia. La carátula mantiene un diseño limpio con números aplicados y una ventana de fecha discreta, logrando un equilibrio perfecto entre funcionalidad y sofisticación.",
                 "presentacion": "Presentación en caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/hublot+5.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            }
+        ]
+    },
+    {
+        "Fossil": [
+            {
+                "id": "FSSC101",
+                "name": "Fossil",
+                "color": "Dorado",
+                "description": "Este modelo Fossil destaca por su caja de forma cuadrada con bordes suavizados, un diseño que aporta un estilo moderno y poco común.",
+                "presentacion": "Presentación en caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/fossil+c+1.jpg",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "FSSC102",
+                "name": "Fossil",
+                "color": "Plateado con carátula blanca",
+                "description": "Este modelo Fossil destaca por su caja de forma cuadrada con bordes suavizados, un diseño que aporta un estilo moderno y poco común.",
+                "presentacion": "Presentación en caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/fossil+c+2.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "FSSC103",
+                "name": "Fossil",
+                "color": "Plateado con detalles dorados",
+                "description": "Este modelo Fossil destaca por su caja de forma cuadrada con bordes suavizados, un diseño que aporta un estilo moderno y poco común.",
+                "presentacion": "Presentación en caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/fossil+c+3.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "FSSC104",
+                "name": "Fossil",
+                "color": "Azul",
+                "description": "Este modelo Fossil destaca por su caja de forma cuadrada con bordes suavizados, un diseño que aporta un estilo moderno y poco común.",
+                "presentacion": "Presentación en caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/fossil+c+4.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "FSSC105",
+                "name": "Fossil",
+                "color": "Plateado con detalles en negro",
+                "description": "Este modelo Fossil destaca por su caja de forma cuadrada con bordes suavizados, un diseño que aporta un estilo moderno y poco común.",
+                "presentacion": "Presentación en caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/fossil+c+5.JPG",
                 "price": 75000,
                 "disponibilidad": true
             }
