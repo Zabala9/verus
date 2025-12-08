@@ -1096,6 +1096,50 @@
         ]
     },
     {
+        "Tommy Hilfiger": [
+            {
+                "id": "TMH101",
+                "name": "Tommy Hilfiger",
+                "color": "Negro con carátula blanca",
+                "description": "Este modelo Tommy Hilfiger combina un diseño limpio con detalles deportivos que le dan una presencia marcada en la muñeca. La carátula incorpora indicadores bien definidos y un acabado texturizado que agrega profundidad visual",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/tommy+hilfiger+1.jpg",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TMH102",
+                "name": "Tommy Hilfiger",
+                "color": "Negro con carátula café",
+                "description": "Este modelo Tommy Hilfiger combina un diseño limpio con detalles deportivos que le dan una presencia marcada en la muñeca. La carátula incorpora indicadores bien definidos y un acabado texturizado que agrega profundidad visual",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/tommy+hilfiger+2.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TMH103",
+                "name": "Tommy Hilfiger",
+                "color": "Negro",
+                "description": "Este modelo Tommy Hilfiger combina un diseño limpio con detalles deportivos que le dan una presencia marcada en la muñeca. La carátula incorpora indicadores bien definidos y un acabado texturizado que agrega profundidad visual",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/tommy+hilfiger+3.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TMH104",
+                "name": "Tommy Hilfiger",
+                "color": "Negro con carátula azul",
+                "description": "Este modelo Tommy Hilfiger combina un diseño limpio con detalles deportivos que le dan una presencia marcada en la muñeca. La carátula incorpora indicadores bien definidos y un acabado texturizado que agrega profundidad visual",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/tommy+hilfiger+4.JPG",
+                "price": 75000,
+                "disponibilidad": true
+            }
+        ]
+    },
+    {
         "Rolex": [
             {
                 "id": "RLXDW101",
