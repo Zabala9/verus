@@ -7,7 +7,7 @@ function Contact() {
         <div className="container-contact">
             <span id="label-canales">Nuestros canales oficiales: </span>
 
-            <a id="link-to-instagram" href="https://www.instagram.com/verus.2802/"
+            <a id="link-to-instagram" href="https://www.instagram.com/verus__store"
                 target="_blank" rel="noopener noreferrer" >
                 <img id="logo-instagram" src={`${process.env.PUBLIC_URL}/Assets/logo-instagram.jpg`} alt="" ></img>
                 <span id="label-instragram">INSTAGRAM</span>
