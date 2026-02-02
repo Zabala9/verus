@@ -2069,60 +2069,6 @@
         ]
     },
     {
-        "Fossil": [
-            {
-                "id": "FSSC101",
-                "name": "Fossil",
-                "color": "Dorado",
-                "description": "Este modelo Fossil destaca por su caja de forma cuadrada con bordes suavizados, un diseño que aporta un estilo moderno y poco común.",
-                "presentacion": "Presentación en caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/fossil+c+1.jpg",
-                "price": 75000,
-                "disponibilidad": true
-            },
-            {
-                "id": "FSSC102",
-                "name": "Fossil",
-                "color": "Plateado con carátula blanca",
-                "description": "Este modelo Fossil destaca por su caja de forma cuadrada con bordes suavizados, un diseño que aporta un estilo moderno y poco común.",
-                "presentacion": "Presentación en caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/fossil+c+2.JPG",
-                "price": 75000,
-                "disponibilidad": true
-            },
-            {
-                "id": "FSSC103",
-                "name": "Fossil",
-                "color": "Plateado con detalles dorados",
-                "description": "Este modelo Fossil destaca por su caja de forma cuadrada con bordes suavizados, un diseño que aporta un estilo moderno y poco común.",
-                "presentacion": "Presentación en caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/fossil+c+3.JPG",
-                "price": 75000,
-                "disponibilidad": true
-            },
-            {
-                "id": "FSSC104",
-                "name": "Fossil",
-                "color": "Azul",
-                "description": "Este modelo Fossil destaca por su caja de forma cuadrada con bordes suavizados, un diseño que aporta un estilo moderno y poco común.",
-                "presentacion": "Presentación en caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/fossil+c+4.JPG",
-                "price": 75000,
-                "disponibilidad": true
-            },
-            {
-                "id": "FSSC105",
-                "name": "Fossil",
-                "color": "Plateado con detalles en negro",
-                "description": "Este modelo Fossil destaca por su caja de forma cuadrada con bordes suavizados, un diseño que aporta un estilo moderno y poco común.",
-                "presentacion": "Presentación en caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/fossil+c+5.JPG",
-                "price": 75000,
-                "disponibilidad": true
-            }
-        ]
-    },
-    {
         "Luxury Sets con Brazalete": [
             {
                 "id": "BRZ101",
@@ -2326,46 +2272,6 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+3.JPG",
                 "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXMG101",
-                "name": "Rolex para Dama",
-                "color": "Negro con detalles dorados",
-                "description": "Este modelo destaca por su apariencia limpia y moderna, donde la caja pulida contrasta con una correa de estilo deportivo que realza su carácter actual. La carátula incorpora marcadores precisos y una ventana de fecha que aporta funcionalidad sin romper la estética.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+en+goma+1.JPG",
-                "price": 75000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXMG102",
-                "name": "Rolex para Dama",
-                "color": "Blanco con detalles dorados",
-                "description": "Este modelo destaca por su apariencia limpia y moderna, donde la caja pulida contrasta con una correa de estilo deportivo que realza su carácter actual. La carátula incorpora marcadores precisos y una ventana de fecha que aporta funcionalidad sin romper la estética.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+en+goma+2.JPG",
-                "price": 75000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXMG103",
-                "name": "Rolex para Dama",
-                "color": "Azul con detalles dorados",
-                "description": "Este modelo destaca por su apariencia limpia y moderna, donde la caja pulida contrasta con una correa de estilo deportivo que realza su carácter actual. La carátula incorpora marcadores precisos y una ventana de fecha que aporta funcionalidad sin romper la estética.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+en+goma+3.JPG",
-                "price": 75000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXMG104",
-                "name": "Rolex para Dama",
-                "color": "Rosado con detalles dorados",
-                "description": "Este modelo destaca por su apariencia limpia y moderna, donde la caja pulida contrasta con una correa de estilo deportivo que realza su carácter actual. La carátula incorpora marcadores precisos y una ventana de fecha que aporta funcionalidad sin romper la estética.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+mujer+en+goma+4.JPG",
-                "price": 75000,
                 "disponibilidad": true
             },
             {
