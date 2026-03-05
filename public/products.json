@@ -9,7 +9,7 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+santos.JPG",
                 "price": 80000,
-                "disponibilidad": true
+                "disponibilidad": false
             },
             {
                 "id": "CS102",
@@ -19,7 +19,7 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+santos+2.JPG",
                 "price": 80000,
-                "disponibilidad": true
+                "disponibilidad": false
             },
             {
                 "id": "CS103",
@@ -29,7 +29,7 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+santos+3.JPG",
                 "price": 80000,
-                "disponibilidad": true
+                "disponibilidad": false
             },
             {
                 "id": "CS104",
@@ -39,7 +39,7 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+santos+4.JPG",
                 "price": 80000,
-                "disponibilidad": true
+                "disponibilidad": false
             },
             {
                 "id": "CS105",
@@ -49,7 +49,7 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+santos+5.JPG",
                 "price": 80000,
-                "disponibilidad": true
+                "disponibilidad": false
             }
         ]
     },
