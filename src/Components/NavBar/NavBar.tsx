@@ -10,7 +10,8 @@ function Navbar() {
         <Link to='/' id='label-name'
             // onClick={() => sessionStorage.removeItem('selectedBrands')}
         >
-          VERUS
+          <img id='logo-navbar' src={`${process.env.PUBLIC_URL}/Assets/logo-v-blanco.png`} alt=''></img>
+          <span id='label-verus-navbar'>VERUS</span>
         </Link>
       </div>
       <div className='container-opciones'>
