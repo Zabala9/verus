@@ -50,16 +50,6 @@ export const LastCollection = [
         "disponibilidad": true
     },
     {
-        "id": "HLT105",
-        "name": "Hublot",
-        "color": "Negro con detalles en dorado",
-        "description": "Este reloj presenta una estética sólida y bien definida, con una caja de líneas marcadas que refleja un estilo moderno y de gran presencia. La carátula mantiene un diseño limpio con números aplicados y una ventana de fecha discreta, logrando un equilibrio perfecto entre funcionalidad y sofisticación.",
-        "presentacion": "Presentación en caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/hublot+5.JPG",
-        "price": 70000,
-        "disponibilidad": true
-    },
-    {
         "id": "RLXS104",
         "name": "Rolex Submariner",
         "color": "Plateado con carátula y bisel verde",
@@ -97,16 +87,6 @@ export const LastCollection = [
         "presentacion": "Incluye caja de presentación",
         "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+4-1.JPG",
         "price": 55000,
-        "disponibilidad": true
-    },
-    {
-        "id": "ARM104",
-        "name": "Armani Exchange",
-        "color": "Dorado",
-        "description": "Este reloj Armani Exchange presenta un diseño moderno y elegante, ideal para quienes buscan sofisticación con un toque audaz. Su carátula está decorada con un patrón texturizado en el centro, mientras que los marcadores y el anillo exterior ofrecen un contraste atractivo.",
-        "presentacion": "Incluye caja de presentación",
-        "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Armani+Exchange+4.JPG",
-        "price": 75000,
         "disponibilidad": true
     },
     {
