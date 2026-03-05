@@ -54,7 +54,7 @@ function ProductDetail() {
             <div className="container-contact-detail">
                 {
                     product.disponibilidad ? 
-                        <a id="link-to-whatsapp" href="https://wa.me/573132679419/"
+                        <a id="link-to-whatsapp-product-detail" href="https://wa.me/573132679419/"
                             target="_blank" rel="noopener noreferrer" >
                             {/* <img id="logo-whatsapp" src={`${process.env.PUBLIC_URL}/Assets/logo-whatsapp.jpg`} alt="" ></img> */}
 
