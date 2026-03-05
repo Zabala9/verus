@@ -790,50 +790,6 @@
         ]
     },
     {
-        "Armani": [
-            {
-                "id": "ARM101",
-                "name": "Armani Exchange",
-                "color": "Plateado con detalles dorados",
-                "description": "Este reloj Armani Exchange presenta un diseño moderno y elegante, ideal para quienes buscan sofisticación con un toque audaz. Su carátula está decorada con un patrón texturizado en el centro, mientras que los marcadores y el anillo exterior ofrecen un contraste atractivo.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Armani+Exchange+1.JPG",
-                "price": 75000,
-                "disponibilidad": true
-            },
-            {
-                "id": "ARM102",
-                "name": "Armani Exchange",
-                "color": "Plateado",
-                "description": "Este reloj Armani Exchange presenta un diseño moderno y elegante, ideal para quienes buscan sofisticación con un toque audaz. Su carátula está decorada con un patrón texturizado en el centro, mientras que los marcadores y el anillo exterior ofrecen un contraste atractivo.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Armani+Exchange+2.JPG",
-                "price": 75000,
-                "disponibilidad": true
-            },
-            {
-                "id": "ARM103",
-                "name": "Armani Exchange",
-                "color": "Azul",
-                "description": "Este reloj Armani Exchange presenta un diseño moderno y elegante, ideal para quienes buscan sofisticación con un toque audaz. Su carátula está decorada con un patrón texturizado en el centro, mientras que los marcadores y el anillo exterior ofrecen un contraste atractivo.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Armani+Exchange+3.JPG",
-                "price": 75000,
-                "disponibilidad": true
-            },
-            {
-                "id": "ARM104",
-                "name": "Armani Exchange",
-                "color": "Dorado",
-                "description": "Este reloj Armani Exchange presenta un diseño moderno y elegante, ideal para quienes buscan sofisticación con un toque audaz. Su carátula está decorada con un patrón texturizado en el centro, mientras que los marcadores y el anillo exterior ofrecen un contraste atractivo.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Armani+Exchange+4.JPG",
-                "price": 75000,
-                "disponibilidad": true
-            }
-        ]
-    },
-    {
         "Orient": [
             {
                 "id": "ORT101",
