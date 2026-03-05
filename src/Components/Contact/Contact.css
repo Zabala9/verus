@@ -1,15 +1,14 @@
 .container-contact{
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
     align-items: center;
     margin-top: 50px;
     text-align: center;
-    /* background-color: green; */
 }
 
 #label-canales{
     color: white;
+    font-weight: bold;
 }
 
 #link-to-instagram, #link-to-whatsapp{
