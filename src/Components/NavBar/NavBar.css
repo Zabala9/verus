@@ -1,5 +1,8 @@
 .nav-bar{
-    /* background-color: green; */
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+    background-color: black;
     height: 7vh;
     display: flex;
     justify-content: space-evenly;
@@ -10,19 +13,16 @@
 .container-name{
     width: 60%;
     text-align: center;
-    /* background-color: green; */
 }
 
 #label-inicio, #label-relojes,
 #label-ropa, #label-contacto{
     color: rgb(238, 238, 224);
-    /* color: rgb(241, 178, 96); */
     font-size: 13px;
     text-decoration: none;
 }
 
 #label-name{
-    /* color: rgb(238, 238, 224); */
     color: rgb(241, 178, 96);
     /* margin-left: 20px; */
     font-weight: bold;
@@ -33,7 +33,5 @@
 .container-opciones{
     display: flex;
     justify-content: space-evenly;
-    /* background-color: green; */
     width: 60%;
-    /* margin-left: 30px; */
 }
