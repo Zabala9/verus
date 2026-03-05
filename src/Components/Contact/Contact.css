@@ -11,17 +11,17 @@
     font-weight: bold;
 }
 
-#link-to-instagram, #link-to-whatsapp{
+#link-to-instagram, #link-to-whatsapp, #link-to-tiktok{
     display: flex;
     flex-direction: column;
 }
 
-#logo-instagram, #logo-whatsapp{
-    margin-top: 50px;
+#logo-instagram, #logo-whatsapp, #link-to-tiktok{
+    margin-top: 20px;
     height: 180px;
     width: 180px;
 }
 
-#label-whatsapp, #label-instragram{
+#label-whatsapp, #label-instragram, #link-to-tiktok{
     font-weight: bold;
 }

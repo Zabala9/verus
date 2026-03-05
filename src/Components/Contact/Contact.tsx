@@ -18,6 +18,12 @@ function Contact() {
                 <img id="logo-whatsapp" src={`${process.env.PUBLIC_URL}/Assets/logo-whatsapp.jpg`} alt="" ></img>
                 <span id="label-whatsapp">WHATSAPP</span>
             </a>
+
+            <a id="link-to-tiktok" href="https://www.tiktok.com/@verus__store?_r=1&_t=ZS-94QIbkFsRaa"
+                target="_blank" rel="noopener noreferrer" >
+                <img id="logo-whatsapp" src={`${process.env.PUBLIC_URL}/Assets/logo-tiktok.png`} alt="" ></img>
+                <span id="label-whatsapp">TIKTOK</span>
+            </a>
         </div>
     )
 };
