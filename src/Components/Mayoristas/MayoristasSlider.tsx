@@ -23,7 +23,7 @@ function MayoristasSlider(){
 
     return (
         <div className="container-mayoristas-slider">
-            <span id="label-mayoristas-slider">DESCUBRE NUESTRO CATALOGO PARA EMPRENDEDORES</span>
+            <span id="label-mayoristas-slider">DESCUBRE NUESTROS ULTIMOS DROPS PARA EMPRENDEDORES</span>
             <img src={bannerImages[currentSlide]}
                 alt=""
                 id="slider-image"
