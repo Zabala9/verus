@@ -28,8 +28,8 @@ function MayoristasSlider(){
                 id="slider-image"
             >
             </img>
-            
-            <span id="label-mayoristas-slider">DROPS EXCLUSIVOS PARA EMPRENDEDORES</span>
+
+            <button id="label-mayoristas-slider">DROPS EXCLUSIVOS PARA EMPRENDEDORES</button>
         </div>
     )
 }
