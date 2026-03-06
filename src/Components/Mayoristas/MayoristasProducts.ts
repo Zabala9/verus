@@ -6,6 +6,7 @@ export interface MayoristasProducts {
     presentacion?: string;
     imgUrl: string;
     price: number;
+    notes?: string;
 }
 
 export interface MayoristasCollection {

@@ -10,6 +10,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/casio+retro+1.JPG",
             "price": 40000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "CSRM102",
@@ -19,6 +20,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/casio+retro+2.JPG",
             "price": 40000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "CSRM103",
@@ -28,6 +30,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/casio+retro+3.JPG",
             "price": 40000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "CSRM104",
@@ -37,6 +40,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/casio+retro+4.JPG",
             "price": 40000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "CSRM105",
@@ -46,6 +50,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/casio+retro+5.JPG",
             "price": 40000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         }
     ],
     "Mulco": [
@@ -57,6 +62,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/mulco+1.JPG",
             "price": 55000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "MLCM102",
@@ -66,6 +72,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/mulco+2.JPG",
             "price": 55000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "MLCM103",
@@ -75,6 +82,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/mulco+3.JPG",
             "price": 55000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "MLCM104",
@@ -84,6 +92,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/mulco+4.JPG",
             "price": 55000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         }
     ],
     "Q&Q": [
@@ -95,6 +104,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/Q%26Q+fondo+lineas+1.JPG",
             "price": 55000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "Q&QFLM102",
@@ -104,6 +114,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/Q%26Q+fondo+lineas+2.JPG",
             "price": 55000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "Q&QFLM103",
@@ -113,6 +124,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/Q%26Q+fondo+lineas+3.JPG",
             "price": 55000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "Q&QFLM104",
@@ -122,6 +134,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/Q%26Q+fondo+lineas+4.JPG",
             "price": 55000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         }
     ],
     "Orient": [
@@ -133,6 +146,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/orient+dama+1.JPG",
             "price": 40000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "ORTM102",
@@ -142,6 +156,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/orient+dama+2.JPG",
             "price": 40000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "ORTM103",
@@ -151,6 +166,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/orient+dama+3.JPG",
             "price": 40000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "ORTM104",
@@ -160,6 +176,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/orient+dama+4.JPG",
             "price": 40000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "ORTM105",
@@ -169,6 +186,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/orient+dama+5.JPG",
             "price": 40000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "ORTM106",
@@ -178,6 +196,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/orient+dama+6.JPG",
             "price": 40000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "ORTM107",
@@ -187,6 +206,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/orient+dama+7.JPG",
             "price": 40000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         },
         {
             "id": "ORTM108",
@@ -196,6 +216,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/orient+dama+8.JPG",
             "price": 40000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         }
     ]
 }
