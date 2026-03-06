@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import './MayoristasSlider.css';
+import { Link } from "react-router-dom";
 
 const bannerImages = [
     'https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/casio+retro+2.JPG',
@@ -29,7 +30,7 @@ function MayoristasSlider(){
             >
             </img>
 
-            <button id="label-mayoristas-slider">DROPS EXCLUSIVOS PARA EMPRENDEDORES</button>
+            <Link to='/verus-mayoristas' id="label-mayoristas-slider">DROPS EXCLUSIVOS PARA EMPRENDEDORES</Link>
         </div>
     )
 }
