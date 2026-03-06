@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { Product } from '../../Types/Products';
 import { LastCollection } from '../../Types/LastCollection';
 import Advertising from '../Advertising/Advertising';
+import MayoristasSlider from '../Mayoristas/MayoristasSlider';
 import './MainPage.css';
 
 function MainPage() {
@@ -46,6 +47,8 @@ function MainPage() {
                         </div>
                     </div>
             }
+
+            <MayoristasSlider />
 
             <label id='label-introduction'>Descubre nuestra ultima colección</label>
             <Link to='/relojes' id='button-explorar'>EXPLORAR AHORA</Link>
