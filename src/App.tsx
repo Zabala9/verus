@@ -4,6 +4,8 @@ import { HashRouter, BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 
 import MainPage from './Components/MainPage/MainPage';
+import Mayoristas from './Components/Mayoristas/Mayoristas';
+import MayoristasBrand from './Components/Mayoristas/MayoristasBrand';
 import Relojes from './Components/Relojes/Relojes';
 import Contact from './Components/Contact/Contact';
 import ProductDetail from './Components/ProductDetail/ProductDetail';
@@ -23,6 +25,8 @@ function App() {
         <Route path='/ropa' element={ <Ropa /> } />
         <Route path='/contacto' element={<Contact/>} />
         <Route path='/relojes/:id' element={<ProductDetail />} />
+        <Route path='/verus-mayoristas' element={<Mayoristas />} />
+        <Route path='/verus-mayoristas/:brand' element={<MayoristasBrand />} />
       </Routes>
     </RouterComponent>
   );
