@@ -1,0 +1,21 @@
+.container-mayoristas-slider{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#label-mayoristas-slider{
+    display: flex;
+    color: rgb(238, 238, 224);
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+}
+
+#slider-image{
+    margin-top: 10px;
+    border-radius: 2px;
+    height: 200px;
+    width: 200px;
+}
