@@ -1,0 +1,64 @@
+.container-brand-products-mayoristas{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* #label-mayoristas-brand{
+    margin-top: 30px;
+    color: rgb(241, 178, 96);
+    font-weight: bold;
+    font-size: 40px;
+} */
+
+.products-grid-mayoristas{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    /* width: 40%; */
+}
+
+.product-card-mayorista{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 40px;
+    width: 45%;
+}
+
+#img-product-card-mayorista{
+    height: 200px;
+}
+
+#name-product-card-mayorista{
+    color: rgb(241, 178, 96);
+    font-weight: bold;
+}
+
+#presentacion-product-card-mayorista, #notes-product-card-mayorista{
+    margin-top: 15px;
+    color: white;
+}
+
+#link-to-whatsapp-mayoristas-brand{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(238, 238, 224);
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+#logo-whatsapp-mayoristas-brand{
+    height: 25px;
+    margin-right: 5px;
+    border-radius: 4px;
+}
+
+#label-whatsapp-mayoristas-brand{
+    color: black;
+    font-weight: bold;
+}
