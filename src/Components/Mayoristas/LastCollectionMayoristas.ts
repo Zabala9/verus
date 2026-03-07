@@ -17,7 +17,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "name": "Casio Retro",
             "color": "Dorado",
             "description": "Este reloj Casio presenta un diseño clásico. Su caja de forma cuadrada mantiene una estética simple y funcional, acompañada de una pantalla digital clara. Incorpora funciones prácticas como alarma, cronómetro e iluminación.",
-            "presentacion": "",
+            "presentacion": "Incluye caja de presentacion",
             "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/casio+retro+2.JPG",
             "price": 40000,
             "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
