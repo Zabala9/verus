@@ -218,5 +218,37 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "price": 40000,
             "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
         }
+    ],
+    "Audemars Piguet": [
+        {
+            "id": "APCM101",
+            "name": "Audemars Piguet Cubano",
+            "color": "Dorado",
+            "description": "Este modelo destaca por su diseño imponente y lleno de detalles que reflejan un estilo audaz y sofisticado. La caja presenta un bisel decorado con múltiples incrustaciones que aportan un brillo intenso y una presencia llamativa en la muñeca.",
+            "presentacion": "Incluye caja de presentacion",
+            "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/ap+cubano+1.JPG",
+            "price": 65000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
+        },
+        {
+            "id": "APCM102",
+            "name": "Audemars Piguet Cubano",
+            "color": "Plateado",
+            "description": "Este modelo destaca por su diseño imponente y lleno de detalles que reflejan un estilo audaz y sofisticado. La caja presenta un bisel decorado con múltiples incrustaciones que aportan un brillo intenso y una presencia llamativa en la muñeca.",
+            "presentacion": "Incluye caja de presentacion",
+            "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/ap+cubano+2.JPG",
+            "price": 65000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
+        },
+        {
+            "id": "APCM103",
+            "name": "Audemars Piguet Cubano",
+            "color": "Plateado con detalles dorados",
+            "description": "Este modelo destaca por su diseño imponente y lleno de detalles que reflejan un estilo audaz y sofisticado. La caja presenta un bisel decorado con múltiples incrustaciones que aportan un brillo intenso y una presencia llamativa en la muñeca.",
+            "presentacion": "Incluye caja de presentacion",
+            "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/MAYORISTAS/ap+cubano+3.JPG",
+            "price": 65000,
+            "notes": "Recuerda confirmar por nuestra linea de whatsapp por disponibilidad.",
+        }
     ]
 }
