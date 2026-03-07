@@ -1,7 +1,7 @@
 import { MayoristasCollection } from "./MayoristasProducts";
 
 export const LastCollectionMayoristas: MayoristasCollection = {
-    "Casio": [
+    "Casio Retro": [
         {
             "id": "CSRM101",
             "name": "Casio Retro",
