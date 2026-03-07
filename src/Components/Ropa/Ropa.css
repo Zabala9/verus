@@ -1,19 +1,34 @@
 .container-ropa{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-    margin-top: 150px;
+    margin-top: 50px;
 }
 
-#label-proximamente{
+/* #label-proximamente{
     color: white;
     font-size: 20px;
     margin-bottom: 100px;
-}
+} */
 
-#button-go-back-main{
-    /* margin-top: 200px; */
+/* #button-go-back-main{
     background-color: rgb(238, 238, 224);
     padding: 5px 10px;
     border: 1px solid black;
     border-radius: 3px;
     color: black;
+} */
+
+#title-container-ropa{
+    color: white;
+    font-weight: bold;
+    margin-bottom: 8px;
+    font-size: 20px;
+}
+
+#image-container-ropa{
+    /* height: 400px; */
+    width: 250px;
 }
