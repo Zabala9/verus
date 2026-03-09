@@ -13,10 +13,11 @@ import Ropa from './Components/Ropa/Ropa';
 import NotFound from './Components/NotFound/NotFound';
 
 function App() {
-  const RouterComponent = process.env.NODE_ENV === 'production' ? HashRouter : BrowserRouter;
+  // const RouterComponent = process.env.NODE_ENV === 'production' ? HashRouter : BrowserRouter;
 
   return (
-    <RouterComponent>
+    // <RouterComponent>
+    <BrowserRouter>
       <Navbar></Navbar>
       <Routes>
         <Route path='*' element={<NotFound />} />
@@ -28,7 +29,8 @@ function App() {
         <Route path='/verus-mayoristas' element={<Mayoristas />} />
         <Route path='/verus-mayoristas/:brand' element={<MayoristasBrand />} />
       </Routes>
-    </RouterComponent>
+    </BrowserRouter>
+    // </RouterComponent>
   );
 }
 
