@@ -13,6 +13,7 @@ import Ropa from './Components/Ropa/Ropa';
 import NotFound from './Components/NotFound/NotFound';
 
 function App() {
+  const basename = process.env.NODE_ENV === 'production' ? '/verus' : '/';
   // const RouterComponent = process.env.NODE_ENV === 'production' ? HashRouter : BrowserRouter;
   const params = new URLSearchParams(window.location.search);
   const redirect = params.get('redirect');
