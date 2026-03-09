@@ -23,7 +23,7 @@ function App() {
 
   return (
     // <RouterComponent>
-    <BrowserRouter>
+    <BrowserRouter basename='/verus'>
       <Navbar></Navbar>
       <Routes>
         <Route path='*' element={<NotFound />} />
