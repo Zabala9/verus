@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './Components/NavBar/NavBar';
-import { HashRouter, BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 
 import MainPage from './Components/MainPage/MainPage';
@@ -13,8 +13,6 @@ import Ropa from './Components/Ropa/Ropa';
 import NotFound from './Components/NotFound/NotFound';
 
 function App() {
-  const basename = process.env.NODE_ENV === 'production' ? '/verus' : '/';
-  // const RouterComponent = process.env.NODE_ENV === 'production' ? HashRouter : BrowserRouter;
   const params = new URLSearchParams(window.location.search);
   const redirect = params.get('redirect');
 
@@ -23,8 +21,7 @@ function App() {
   }
 
   return (
-    // <RouterComponent>
-    <BrowserRouter basename='/verus'>
+    <BrowserRouter>
       <Navbar></Navbar>
       <Routes>
         <Route path='*' element={<NotFound />} />
@@ -37,7 +34,6 @@ function App() {
         <Route path='/verus-mayoristas/:brand' element={<MayoristasBrand />} />
       </Routes>
     </BrowserRouter>
-    // </RouterComponent>
   );
 }
 
