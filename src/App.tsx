@@ -14,6 +14,12 @@ import NotFound from './Components/NotFound/NotFound';
 
 function App() {
   // const RouterComponent = process.env.NODE_ENV === 'production' ? HashRouter : BrowserRouter;
+  const params = new URLSearchParams(window.location.search);
+  const redirect = params.get('redirect');
+
+  if (redirect) {
+    window.history.replaceState(null, '', redirect);
+  }
 
   return (
     // <RouterComponent>
