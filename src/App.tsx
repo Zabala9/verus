@@ -13,12 +13,6 @@ import Ropa from './Components/Ropa/Ropa';
 import NotFound from './Components/NotFound/NotFound';
 
 function App() {
-  const params = new URLSearchParams(window.location.search);
-  const redirect = params.get('redirect');
-
-  if (redirect) {
-    window.history.replaceState(null, '', redirect);
-  }
 
   return (
     <BrowserRouter>
