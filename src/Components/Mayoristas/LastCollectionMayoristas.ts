@@ -207,7 +207,7 @@ export const LastCollectionMayoristas: MayoristasCollection = {
             "notes": "Recuerda confirmar por disponibilidad en nuestra linea de whatsapp.",
         }
     ],
-    "Q&Q": [
+    "Q-Q": [
         {
             "id": "Q&QFLM101",
             "name": "Q&Q para dama",
