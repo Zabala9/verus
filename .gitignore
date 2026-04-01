@@ -11,6 +11,9 @@
 # production
 /build
 
+notesMayorista.txt
+notes.txt
+
 # misc
 .DS_Store
 .env.local
