@@ -1,10 +1,10 @@
-.container-ropa{
+.container-ropa > div{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 10px;
 }
 
 /* #label-proximamente{
@@ -21,14 +21,19 @@
     color: black;
 } */
 
-#title-container-ropa{
+#label-contraentrega{
     color: white;
+    margin-top: 20px;
+}
+
+#title-container-ropa{
+    color: rgb(241, 178, 96);
     font-weight: bold;
     margin-bottom: 8px;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 #image-container-ropa{
     /* height: 400px; */
-    width: 250px;
+    width: 230px;
 }
