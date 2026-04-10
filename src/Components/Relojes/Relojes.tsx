@@ -35,7 +35,7 @@ function Relojes() {
 
     // fetching products.json
     useEffect(() => {
-        fetch(`${process.env.PUBLIC_URL}/products.json`)
+        fetch(`/products.json`)
             .then((res) => res.json())
             .then((data) => {
                 setGroupedProducts(data);
