@@ -30,7 +30,7 @@ function MayoristasBrand() {
                         {product.notes && <span id="notes-product-card-mayorista">Nota: {product.notes}</span>}
                         <a id="link-to-whatsapp-mayoristas-brand" href="https://wa.me/573132679419/"
                             target="_blank" rel="noopener noreferrer" >
-                            <img id="logo-whatsapp-mayoristas-brand" src={`${process.env.PUBLIC_URL}/Assets/logo-whatsapp.png`} alt="" ></img>
+                            <img id="logo-whatsapp-mayoristas-brand" src={`/Assets/logo-whatsapp.png`} alt="" ></img>
                             <span id="label-whatsapp-mayoristas-brand">WHATSAPP</span>
                         </a>
                     </div>
