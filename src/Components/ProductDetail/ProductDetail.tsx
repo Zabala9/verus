@@ -12,7 +12,7 @@ function ProductDetail() {
     useEffect(() => {
         if (!product) {
             // fetch para buscar el producto si viene directamente al link
-            fetch(`${process.env.PUBLIC_URL}/products.json`)
+            fetch(`/products.json`)
                 .then((res) => res.json())
                 .then((data: Record<string, Product[]>[]) => {
                     const allProducts = data.flatMap(group => {
@@ -32,7 +32,7 @@ function ProductDetail() {
                     setLoading(false);
                 });
         }
-    }, [id]);
+    }, [id, product]);
 
     if (loading) return <p>Cargando producto...</p>
     if (!product) return (
