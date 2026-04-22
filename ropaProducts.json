@@ -1,0 +1,36 @@
+[
+    {
+        "Supreme": [
+            {
+                "id": "SPMC101",
+                "name": "Hoodie Supreme",
+                "color": "Beige",
+                "description": "",
+                "presentacion": "",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/ROPA/Supreme+clasica+beige+1.JPEG",
+                "price": 250000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SPMC102",
+                "name": "Hoodie Supreme",
+                "color": "Negro",
+                "description": "",
+                "presentacion": "",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/ROPA/Supreme+clasica+negra+1.JPEG",
+                "price": 250000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SPMCBD101",
+                "name": "Chaqueta Supreme x Ducati",
+                "color": "Negro",
+                "description": "",
+                "presentacion": "",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/ROPA/Supreme+x+Ducati+negra+1.JPEG",
+                "price": 250000,
+                "disponibilidad": true
+            }
+        ]
+    }
+]
