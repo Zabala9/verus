@@ -1,0 +1,36 @@
+[
+    {
+        "Air Force 1": [
+            {
+                "id": "AF1C101",
+                "name": "Air Force 1",
+                "color": "Blanco",
+                "description": "",
+                "presentacion": "",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/ROPA/Nike+AF1.jpeg",
+                "price": 130000,
+                "disponibilidad": true
+            },
+            {
+                "id": "AF1CB101",
+                "name": "Air Force 1 x BAPE",
+                "color": "Blanco con detalles en verde",
+                "description": "Air Force 1 colaboracion con BAPE",
+                "presentacion": "",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/ROPA/Air+Force+1+x+Bape+verde.jpg",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "AF1CB102",
+                "name": "Air Force 1 x BAPE",
+                "color": "Blanco con detalles en azul",
+                "description": "Air Force 1 colaboracion con BAPE",
+                "presentacion": "",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/ROPA/Air+Force+1+x+Bape+azul.jpg",
+                "price": 150000,
+                "disponibilidad": true
+            }
+        ]
+    }
+]
