@@ -27,10 +27,10 @@ function ProductDetail() {
                     setProduct(found ?? null);
                     setLoading(false);
                 })
-                .catch(err => {
-                    console.error('Error loading the product: ', err);
-                    setLoading(false);
-                });
+            .catch(err => {
+                console.error('Error loading the product: ', err);
+                setLoading(false);
+            });
         }
     }, [id, product]);
 
