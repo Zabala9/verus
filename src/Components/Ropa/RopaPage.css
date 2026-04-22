@@ -1,0 +1,33 @@
+.container-ropa-page{
+    margin-top: 20px;
+}
+
+.container-imagenes-ropa-page{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    padding: 5px;
+    text-align: center;
+}
+
+.product-card-ropa-page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#img-product-card-ropa-page{
+    width: 180px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+#product-name-ropa-page{
+    color: rgb(241, 178, 96);
+    font-weight: bold;
+    word-wrap: break-word;
+    max-width: 150px;
+}
