@@ -1,39 +1,51 @@
-.container-ropa > div{
+.container-ropa-main > div{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
-    margin-top: 10px;
+    margin-top: 40px;
 }
 
-/* #label-proximamente{
-    color: white;
-    font-size: 20px;
-    margin-bottom: 100px;
-} */
-
-/* #button-go-back-main{
-    background-color: rgb(238, 238, 224);
-    padding: 5px 10px;
-    border: 1px solid black;
-    border-radius: 3px;
-    color: black;
-} */
-
-#label-contraentrega{
-    color: white;
-    margin-top: 20px;
-}
-
-#title-container-ropa{
+#title-zapatos, #title-ropa{
     color: rgb(241, 178, 96);
     font-weight: bold;
     margin-bottom: 8px;
     font-size: 25px;
 }
 
-#image-container-ropa{
-    /* height: 400px; */
-    width: 230px;
+#label-contraentrega{
+    color: white;
+    margin-top: 20px;
 }
+
+#link-to-zapatos-page, #link-to-ropa-page{
+    background-color: rgb(238, 238, 224);
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 22px;
+    padding: 10px 15px;
+    margin-top: 10px;
+    font-weight: 550;
+    text-decoration: none;
+    color: black;
+}
+
+#title-ropa, #title-zapatos{
+    color: black;
+}
+
+#slider-ropa, #slider-zapatos{
+    height: 230px;
+}
+
+/* #title-container-ropa{
+    color: rgb(241, 178, 96);
+    font-weight: bold;
+    margin-bottom: 8px;
+    font-size: 25px;
+} */
+
+/* #image-container-ropa{
+    width: 230px;
+} */
