@@ -10,25 +10,30 @@ function RopaPage() {
     const [selectedBrands, setSelectedBrands] = useState<string[]>([]);
     const [isReadyToScroll, setIsReadyToScroll] = useState(false);
 
-    // ajustando la posicion donde quedo la pagina
+    // reiniciando posicion de la pagina al comienzo
     useEffect(() => {
-        if(isReadyToScroll) {
-            const savedScrollPos = sessionStorage.getItem('scrollPos');
-            if(savedScrollPos) {
-                window.scrollTo(0, parseInt(savedScrollPos));
-                sessionStorage.removeItem('scrollPos');
-            }
+        window.scrollTo(0, 0);
+    }, []);
 
-            const savedBrands = sessionStorage.getItem('selectedBrands');
-            if (savedBrands) {
-                try {
-                    setSelectedBrands(JSON.parse(savedBrands));
-                } catch (err) {
-                    console.error('Error al filtrar las marcas: ', err);
-                }
-            }
-        }
-    }, [isReadyToScroll]);
+    // ajustando la posicion donde quedo la pagina
+    // useEffect(() => {
+    //     if(isReadyToScroll) {
+    //         const savedScrollPos = sessionStorage.getItem('scrollPos');
+    //         if(savedScrollPos) {
+    //             window.scrollTo(0, parseInt(savedScrollPos));
+    //             sessionStorage.removeItem('scrollPos');
+    //         }
+
+    //         const savedBrands = sessionStorage.getItem('selectedBrands');
+    //         if (savedBrands) {
+    //             try {
+    //                 setSelectedBrands(JSON.parse(savedBrands));
+    //             } catch (err) {
+    //                 console.error('Error al filtrar las marcas: ', err);
+    //             }
+    //         }
+    //     }
+    // }, [isReadyToScroll]);
 
     // fetching ropa products (ropaProducts.json)
     useEffect(() => {

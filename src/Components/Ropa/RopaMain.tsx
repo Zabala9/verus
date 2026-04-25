@@ -8,6 +8,10 @@ function RopaMain() {
     const [currentSlide, setCurrentSlide] = useState(0);
 
     useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
+
+    useEffect(() => {
         const interval = setInterval(() => {
             setCurrentSlide((prev) =>
                 prev ===bannerImagesRopa.length - 1 ? 0 : prev+1
