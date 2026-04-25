@@ -9,6 +9,11 @@ function ProductDetail() {
     const [product, setProduct] = useState<Product | null>(location.state || null);    
     const [loading, setLoading] = useState(!location.state);
 
+    // reiniciando posicion de la pagina al comienzo
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
+
     useEffect(() => {
         if (!product) {
             // fetch para buscar el producto si viene directamente al link
