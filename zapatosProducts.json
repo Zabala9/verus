@@ -30,6 +30,16 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/ROPA/Air+Force+1+x+Bape+azul.jpg",
                 "price": 150000,
                 "disponibilidad": true
+            },
+            {
+                "id": "NKATN101",
+                "name": "Nike Air TN",
+                "color": "Negro",
+                "description": "Contraentrega a todo Colombia",
+                "presentacion": "",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/ROPA/Nike+TN.jpg",
+                "price": 150000,
+                "disponibilidad": true
             }
         ]
     }
