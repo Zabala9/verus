@@ -676,6 +676,26 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8459+4.jpg",
                 "price": 150000,
                 "disponibilidad": true
+            },
+            {
+                "id": "CUR8380101",
+                "name": "Curren 8380",
+                "color": "Gris con detalles en plateado",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8380+1.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8380102",
+                "name": "Curren 8380",
+                "color": "Marron con detalles en color oro",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8380+2.JPG",
+                "price": 150000,
+                "disponibilidad": true
             }
         ]
     },
@@ -1658,7 +1678,7 @@
                 "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+1-1.JPG",
-                "price": 60000,
+                "price": 70000,
                 "disponibilidad": true
             },
             {
@@ -1668,7 +1688,7 @@
                 "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+2-1.JPG",
-                "price": 60000,
+                "price": 70000,
                 "disponibilidad": true
             },
             {
@@ -1678,7 +1698,7 @@
                 "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+3-1.JPG",
-                "price": 60000,
+                "price": 70000,
                 "disponibilidad": true
             },
             {
@@ -1688,7 +1708,7 @@
                 "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+4-1.JPG",
-                "price": 60000,
+                "price": 70000,
                 "disponibilidad": true
             },
             {
@@ -1698,7 +1718,7 @@
                 "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+5-1.JPG",
-                "price": 60000,
+                "price": 70000,
                 "disponibilidad": true
             },
             {
@@ -1708,7 +1728,27 @@
                 "description": "Un reloj con diseño sofisticado y detalles brillantes que resaltan a simple vista. Ideal para quienes buscan una pieza de moda distintiva, moderna y con personalidad. Su correa suave brinda comodidad para el uso diario, mientras que la esfera incorpora el icónico patrón de la marca.",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+6-1.JPG",
-                "price": 60000,
+                "price": 70000,
+                "disponibilidad": true
+            },
+            {
+                "id": "VSCPM101",
+                "name": "Versace",
+                "color": "Dorado",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+pm+1.JPG",
+                "price": 70000,
+                "disponibilidad": true
+            },
+            {
+                "id": "VSCPM102",
+                "name": "Versace",
+                "color": "Plateado",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+pm+2.JPG",
+                "price": 70000,
                 "disponibilidad": true
             },
             {
@@ -1842,6 +1882,36 @@
                 "disponibilidad": true
             },
             {
+                "id": "Q&QC101",
+                "name": "Q&Q",
+                "color": "Plateado con carátula color tifanny",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+cuadrado+1.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "Q&QC102",
+                "name": "Q&Q",
+                "color": "Plateado con carátula en color amarillo",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+cuadrado+2.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "GFRCLD101",
+                "name": "Lady G-Force",
+                "color": "Blanco con detalles en oro rosa",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/lady+g+force+1.jpg",
+                "price": 120000,
+                "disponibilidad": true
+            },
+            {
                 "id": "RLXDJ101",
                 "name": "Rolex Datejust para Dama",
                 "color": "Plateado con carátula negra",
@@ -1909,6 +1979,46 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+datejust+7.JPG",
                 "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TKR101",
+                "name": "Takara",
+                "color": "Negro con detalles en plateado",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/takara+pg+1.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TKR101",
+                "name": "Takara",
+                "color": "Rosado con detalles en plateado",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/takara+pg+2.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "NVFRC101",
+                "name": "Naviforce",
+                "color": "Negro con detalles en oro rosa",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/naviforce+1.jpg",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "NVFRC101",
+                "name": "Naviforce",
+                "color": "Oro rosa",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/naviforce+2.jpg",
+                "price": 150000,
                 "disponibilidad": true
             }
         ]
@@ -2177,6 +2287,26 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Scottie.jpg",
                 "price": 110000,
+                "disponibilidad": true
+            },
+            {
+                "id": "OKLY101",
+                "name": "Oakley",
+                "color": "Negro con carátula azul y detalles plateados",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Oakley+1.JPG",
+                "price": 95000,
+                "disponibilidad": true
+            },
+            {
+                "id": "OKLY102",
+                "name": "Oakley",
+                "color": "Negro con detalles en plateado",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Oakley+2.JPG",
+                "price": 95000,
                 "disponibilidad": true
             }
         ]
