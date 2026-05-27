@@ -2048,16 +2048,6 @@
             {
                 "id": "NVFRC101",
                 "name": "Naviforce",
-                "color": "Negro con detalles en oro rosa",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/naviforce+1.jpg",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "NVFRC101",
-                "name": "Naviforce",
                 "color": "Oro rosa",
                 "description": "",
                 "presentacion": "Incluye caja de presentación",
