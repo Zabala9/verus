@@ -2077,7 +2077,7 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas.JPG",
                 "price": 150000,
-                "disponibilidad": true
+                "disponibilidad": false
             },
             {
                 "id": "RLXP102",
@@ -2087,7 +2087,7 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+2.JPG",
                 "price": 150000,
-                "disponibilidad": true
+                "disponibilidad": false
             },
             {
                 "id": "RLXP103",
@@ -2097,7 +2097,7 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+3.JPG",
                 "price": 150000,
-                "disponibilidad": true
+                "disponibilidad": false
             },
             {
                 "id": "RLXP104",
@@ -2107,7 +2107,7 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+4.JPG",
                 "price": 150000,
-                "disponibilidad": true
+                "disponibilidad": false
             },
             {
                 "id": "RLXP105",
@@ -2117,7 +2117,7 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+5.JPG",
                 "price": 150000,
-                "disponibilidad": true
+                "disponibilidad": false
             },
             {
                 "id": "RLXP106",
@@ -2127,7 +2127,7 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+6.JPG",
                 "price": 150000,
-                "disponibilidad": true
+                "disponibilidad": false
             },
             {
                 "id": "Q&QP101",
@@ -2260,42 +2260,22 @@
                 "disponibilidad": true
             },
             {
-                "id": "SNTP101",
-                "name": "Saint Parejas",
-                "color": "Negro con detalles en oro rosa",
-                "description": "Este set para pareja destaca por su diseño uniforme y refinado, pensado para quienes buscan una conexión compartida en cada detalle. Ambos relojes presentan una carátula con textura sutil y marcadores bien definidos que aportan una apariencia pulida y equilibrada.",
+                "id": "GSHO101",
+                "name": "G Shock Parejas",
+                "color": "Negro con detalles en rojo",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+parejas+1.JPG",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+Shock+1.JPG",
                 "price": 150000,
                 "disponibilidad": true
             },
             {
-                "id": "SNTP102",
-                "name": "Saint Parejas",
-                "color": "Plateado con detalles en dorado",
-                "description": "Este set para pareja destaca por su diseño uniforme y refinado, pensado para quienes buscan una conexión compartida en cada detalle. Ambos relojes presentan una carátula con textura sutil y marcadores bien definidos que aportan una apariencia pulida y equilibrada.",
+                "id": "GSHO102",
+                "name": "G Shock Parejas",
+                "color": "Blanco con detalles en negro",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+parejas+2.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "SNTP103",
-                "name": "Saint Parejas",
-                "color": "Azul con detalles en oro rosa",
-                "description": "Este set para pareja destaca por su diseño uniforme y refinado, pensado para quienes buscan una conexión compartida en cada detalle. Ambos relojes presentan una carátula con textura sutil y marcadores bien definidos que aportan una apariencia pulida y equilibrada.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+parejas+3.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "SNTP104",
-                "name": "Saint Parejas",
-                "color": "Dorado",
-                "description": "Este set para pareja destaca por su diseño uniforme y refinado, pensado para quienes buscan una conexión compartida en cada detalle. Ambos relojes presentan una carátula con textura sutil y marcadores bien definidos que aportan una apariencia pulida y equilibrada.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+parejas+4.JPG",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+Shock+2.JPG",
                 "price": 150000,
                 "disponibilidad": true
             }
@@ -2311,6 +2291,16 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Heryi+ruleta.jpg",
                 "price": 85000,
+                "disponibilidad": true
+            },
+            {
+                "id": "BVLR101",
+                "name": "Bvlgari",
+                "color": "Plateado con detalles en negro y dorado",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Bvlgari.JPG",
+                "price": 80000,
                 "disponibilidad": true
             },
             {
@@ -2351,6 +2341,36 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Oakley+2.JPG",
                 "price": 95000,
+                "disponibilidad": true
+            },
+            {
+                "id": "MRVSP101",
+                "name": "Marvel Spiderman",
+                "color": "Negro con detalles en blanco",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Marvel+spiderman+1.JPG",
+                "price": 70000,
+                "disponibilidad": true
+            },
+            {
+                "id": "MRVSP102",
+                "name": "Marvel Spiderman",
+                "color": "Negro y rojo",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Marvel+spiderman+2.JPG",
+                "price": 70000,
+                "disponibilidad": true
+            },
+            {
+                "id": "MRVSP103",
+                "name": "Marvel Spiderman",
+                "color": "Negro con detalles en color dorado",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Marvel+spiderman+3.JPG",
+                "price": 70000,
                 "disponibilidad": true
             }
         ]
