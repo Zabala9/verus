@@ -1522,6 +1522,50 @@
         ]
     },
     {
+        "Patek Philippe": [
+            {
+                "id": "PTK101",
+                "name": "Patek Philippe",
+                "color": "Plateado con carátula azul",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Patek+Philippe+4.JPG",
+                "price": 100000,
+                "disponibilidad": true
+            },
+            {
+                "id": "PTK102",
+                "name": "Patek Philippe",
+                "color": "Dorado con carátula verde",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Patek+Philippe+5.JPG",
+                "price": 100000,
+                "disponibilidad": true
+            },
+            {
+                "id": "PTK103",
+                "name": "Patek Philippe",
+                "color": "Plateado con carátula blanca",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Patek+Philippe+6.JPG",
+                "price": 100000,
+                "disponibilidad": true
+            },
+            {
+                "id": "PTK104",
+                "name": "Patek Philippe",
+                "color": "Dorado con carátula azul",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Patek+Philippe+7.JPG",
+                "price": 100000,
+                "disponibilidad": true
+            }
+        ]
+    },
+    {
         "Guess": [
             {
                 "id": "GSSR101",
