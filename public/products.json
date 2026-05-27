@@ -2314,6 +2314,16 @@
                 "disponibilidad": true
             },
             {
+                "id": "BVLR101",
+                "name": "Bvlgari",
+                "color": "Plateado con detalles en negro y dorado",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Bvlgari.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
                 "id": "JFC101",
                 "name": "Joefox Comic",
                 "color": "Blanco con detalles en negro",
@@ -2351,6 +2361,36 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Oakley+2.JPG",
                 "price": 95000,
+                "disponibilidad": true
+            },
+            {
+                "id": "MRVSP101",
+                "name": "Marvel Spiderman",
+                "color": "Negro con detalles en blanco",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Marvel+spiderman+1.JPG",
+                "price": 70000,
+                "disponibilidad": true
+            },
+            {
+                "id": "MRVSP102",
+                "name": "Marvel Spiderman",
+                "color": "Negro y rojo",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Marvel+spiderman+2.JPG",
+                "price": 70000,
+                "disponibilidad": true
+            },
+            {
+                "id": "MRVSP103",
+                "name": "Marvel Spiderman",
+                "color": "Negro con detalles en color dorado",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Marvel+spiderman+3.JPG",
+                "price": 70000,
                 "disponibilidad": true
             }
         ]
