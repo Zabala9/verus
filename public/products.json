@@ -655,57 +655,17 @@
                 "id": "RLXDW101",
                 "name": "Rolex Dweller",
                 "color": "Plateado con detalles dorados",
-                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+1.JPG",
                 "price": 110000,
                 "disponibilidad": true
             },
             {
-                "id": "RLXDW103",
-                "name": "Rolex Dweller",
-                "color": "Plateado con carátula negra y detalles dorados",
-                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+3.JPG",
-                "price": 110000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXDW105",
-                "name": "Rolex Dweller",
-                "color": "Plateado con carátula azul aguamarina",
-                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+5.JPG",
-                "price": 110000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RLXDW106",
-                "name": "Rolex Dweller",
-                "color": "Plateado",
-                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+6.JPG",
-                "price": 110000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RLXDW107",
-                "name": "Rolex Dweller",
-                "color": "Plateado con carátula negra",
-                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+7.JPG",
-                "price": 110000,
-                "disponibilidad": false
-            },
-            {
                 "id": "RLXDW108",
                 "name": "Rolex Dweller",
                 "color": "Plateado con carátula azul",
-                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+8.JPG",
                 "price": 110000,
@@ -715,7 +675,7 @@
                 "id": "RLXDW109",
                 "name": "Rolex Dweller",
                 "color": "Plateado con carátula verde",
-                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+9.JPG",
                 "price": 110000,
@@ -724,150 +684,89 @@
             {
                 "id": "RLXDW110",
                 "name": "Rolex Dweller",
-                "color": "Dorado con carátula verde",
-                "description": "Este modelo destaca por su elegancia atemporal y un diseño que impone presencia. Su bisel estriado acentúa el estilo clásico de la marca, mientras que la carátula con textura tipo panal le da un toque moderno y exclusivo. Las agujas y números aplicados aportan legibilidad y distinción, reflejando la excelencia en cada detalle",
+                "color": "Dorado",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+10.JPG",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+Dweller+11.JPG",
                 "price": 110000,
                 "disponibilidad": true
-            },
-            {
-                "id": "RLXD101",
-                "name": "Rolex Daytona",
-                "color": "Plateado con detalles dorados y carátula negra",
-                "description": "El Rolex Daytona es un reloj legendario diseñado para quienes buscan precisión, rendimiento y un diseño imponente. Su carátula cronográfica y bisel taquimétrico lo convierten en una pieza emblemática del automovilismo y el lujo. Este modelo ofrece un equilibrio perfecto entre sofisticación y funcionalidad.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona.JPG",
-                "price": 80000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RLXD102",
-                "name": "Rolex Daytona",
-                "color": "Plateado con carátula blanca",
-                "description": "El Rolex Daytona es un reloj legendario diseñado para quienes buscan precisión, rendimiento y un diseño imponente. Su carátula cronográfica y bisel taquimétrico lo convierten en una pieza emblemática del automovilismo y el lujo. Este modelo ofrece un equilibrio perfecto entre sofisticación y funcionalidad.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+2.JPG",
-                "price": 80000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RLXD103",
-                "name": "Rolex Daytona",
-                "color": "Plateado con detalles dorados y carátula blanca",
-                "description": "El Rolex Daytona es un reloj legendario diseñado para quienes buscan precisión, rendimiento y un diseño imponente. Su carátula cronográfica y bisel taquimétrico lo convierten en una pieza emblemática del automovilismo y el lujo. Este modelo ofrece un equilibrio perfecto entre sofisticación y funcionalidad.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+3.JPG",
-                "price": 80000,
-                "disponibilidad": false
             },
             {
                 "id": "RLXD104",
                 "name": "Rolex Daytona",
                 "color": "Plateado con carátula negra",
-                "description": "El Rolex Daytona es un reloj legendario diseñado para quienes buscan precisión, rendimiento y un diseño imponente. Su carátula cronográfica y bisel taquimétrico lo convierten en una pieza emblemática del automovilismo y el lujo. Este modelo ofrece un equilibrio perfecto entre sofisticación y funcionalidad.",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+4.JPG",
                 "price": 80000,
                 "disponibilidad": true
             },
             {
-                "id": "RLXS101",
-                "name": "Rolex Submariner Semi automatico",
-                "color": "Plateado con carátula negra",
-                "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
+                "id": "RLXD105",
+                "name": "Rolex Daytona",
+                "color": "Negro con detalles dorados",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+1.JPG",
-                "price": 110000,
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+5.jpg",
+                "price": 90000,
+                "disponibilidad": true
+            },{
+                "id": "RLXD106",
+                "name": "Rolex Daytona",
+                "color": "Negro con carátula plateada",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+6.JPG",
+                "price": 90000,
                 "disponibilidad": true
             },
             {
-                "id": "RLXS102",
-                "name": "Rolex Submariner Semi automatico",
-                "color": "Plateado con carátula azul",
-                "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
+                "id": "RLXD107",
+                "name": "Rolex Daytona",
+                "color": "Negro con detalles dorados y azules",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+2+n.JPG",
-                "price": 110000,
-                "disponibilidad": false
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+7.JPG",
+                "price": 90000,
+                "disponibilidad": true
             },
             {
-                "id": "RLXS103",
-                "name": "Rolex Submariner Semi automatico",
-                "color": "Plateado con detalles dorados y carátula negra",
-                "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
+                "id": "RLXS101",
+                "name": "Rolex Submariner",
+                "color": "Plateado con carátula negra",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+3+n.JPG",
-                "price": 110000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RLXS104",
-                "name": "Rolex Submariner Semi automatico",
-                "color": "Plateado con carátula y bisel verde",
-                "description": "Esta versión con carátula y bisel verde, es una de las más codiciadas. Su diseño robusto y elegante combina resistencia profesional con una estética de alto lujo, ideal tanto para el día a día como para ocasiones formales.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+4+n.JPG",
-                "price": 110000,
-                "disponibilidad": false
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+1.JPG",
+                "price": 80000,
+                "disponibilidad": true
             },
             {
                 "id": "RLXS105",
                 "name": "Rolex Submariner",
                 "color": "Dorado con carátula negra",
-                "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+5.JPG",
-                "price": 80000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RLXS106",
-                "name": "Rolex Submariner Semi automatico",
-                "color": "Plateado con detalles dorados y carátula azul",
-                "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+6.JPG",
-                "price": 110000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RLXS107",
-                "name": "Rolex Submariner",
-                "color": "Dorado con carátula azul",
-                "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+7.JPG",
-                "price": 80000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RLXS112",
-                "name": "Rolex Submariner",
-                "color": "",
-                "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+12.JPG",
-                "price": 80000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RLXS114",
-                "name": "Rolex Submariner",
-                "color": "",
-                "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+14.JPG",
                 "price": 80000,
                 "disponibilidad": true
             },
             {
-                "id": "RLXS115",
+                "id": "RLXS117",
                 "name": "Rolex Submariner Semi automatico",
-                "color": "",
-                "description": "Un diseño que combina elegancia y funcionalidad. Este reloj Rolex Submariner presenta una caja y correa de acero inoxidable con acabado brillante. Ideal tanto para ocasiones formales como para el uso diario, este reloj representa clase y precisión.",
+                "color": "Dorado con carátula azul",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+15.JPG",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+17.JPG",
+                "price": 110000,
+                "disponibilidad": true
+            },
+            {
+                "id": "RLXS118",
+                "name": "Rolex Submariner Semi automatico",
+                "color": "Plateado con carátula negra y detalles dorados",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+18.JPG",
                 "price": 110000,
                 "disponibilidad": true
             }
@@ -876,182 +775,12 @@
     {
         "Montblanc": [
             {
-                "id": "MTBTC101",
-                "name": "Montblanc Timewalker",
-                "color": "Correa en tono gris y carátula beige con detalles metálicos",
-                "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc.JPG",
-                "price": 110000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MTBTC102",
-                "name": "Montblanc Timewalker",
-                "color": "Correa y carátula en tono beige con bisel plateado",
-                "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+2.JPG",
-                "price": 110000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MTBTC103",
-                "name": "Montblanc Timewalker",
-                "color": "Correa en tono cuero y carátula blanca",
-                "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+3.JPG",
-                "price": 110000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MTBTC104",
-                "name": "Montblanc Timewalker",
-                "color": "Correa negra con caja plateada",
-                "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+4.JPG",
-                "price": 110000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MTBTC105",
-                "name": "Montblanc Timewalker",
-                "color": "Correa en tono gris y carátula beige",
-                "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+5.JPG",
-                "price": 110000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MTBTC106",
-                "name": "Montblanc Timewalker",
-                "color": "Correa y carátula negra con caja dorado rosa",
-                "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+6.JPG",
-                "price": 110000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MTBTC107",
-                "name": "Montblanc Timewalker",
-                "color": "Correa en tono cuero y carátula blanca",
-                "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+7.JPG",
-                "price": 110000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MTBTC108",
-                "name": "Montblanc Timewalker",
-                "color": "Correa y carátula azul con caja plateada",
-                "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+8.JPG",
-                "price": 110000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MTBTC109",
-                "name": "Montblanc Timewalker",
-                "color": "Correa y carátula azul con caja dorado rosa",
-                "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+9.JPG",
-                "price": 110000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MTBTC110",
-                "name": "Montblanc Timewalker",
-                "color": "Correa en tono cuero y carátula marrón",
-                "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+10.JPG",
-                "price": 110000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MTBTC111",
-                "name": "Montblanc Timewalker",
-                "color": "Correa azul y caja negra",
-                "description": "Un diseño refinado que combina elegancia y funcionalidad, ideal para quienes buscan un reloj distinguido con acabados de alta calidad. Presenta múltiples subesferas y una ventana de calendario, perfecto para uso ejecutivo o casual elegante.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+11.JPG",
-                "price": 110000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MTBM101",
-                "name": "Montblanc",
-                "color": "Correa y carátula negras",
-                "description": "Un modelo audaz que fusiona un estilo moderno con toques industriales. Su diseño simétrico y dinámico ofrece una apariencia llamativa, ideal para quienes buscan algo diferente y con carácter.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Mitsu+1.JPG",
-                "price": 65000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MTBM102",
-                "name": "Montblanc",
-                "color": "Correa en tono cuero y carátula blanca",
-                "description": "Un modelo audaz que fusiona un estilo moderno con toques industriales. Su diseño simétrico y dinámico ofrece una apariencia llamativa, ideal para quienes buscan algo diferente y con carácter.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Mitsu+2.JPG",
-                "price": 65000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MTBM103",
-                "name": "Montblanc",
-                "color": "Correa y carátula azul con bisel negro",
-                "description": "Un modelo audaz que fusiona un estilo moderno con toques industriales. Su diseño simétrico y dinámico ofrece una apariencia llamativa, ideal para quienes buscan algo diferente y con carácter.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Mitsu+3.JPG",
-                "price": 65000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MTBM104",
-                "name": "Montblanc",
-                "color": "Correa en tono cuero y carátula tono marrón",
-                "description": "Un modelo audaz que fusiona un estilo moderno con toques industriales. Su diseño simétrico y dinámico ofrece una apariencia llamativa, ideal para quienes buscan algo diferente y con carácter.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Mitsu+4.JPG",
-                "price": 65000,
-                "disponibilidad": true
-            },
-            {
                 "id": "MTBJ101",
                 "name": "Montblanc",
                 "color": "Correa en tono cuero y carátula clara con detalles metálicos",
-                "description": "Un reloj con un diseño impactante y moderno, que combina geometría y elegancia en una sola pieza. Perfecto para quienes buscan estilo con un toque futurista y exclusivo.",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Jet+1.JPG",
-                "price": 65000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MTBJ102",
-                "name": "Montblanc",
-                "color": "Azul con detalles metálicos",
-                "description": "Un reloj con un diseño impactante y moderno, que combina geometría y elegancia en una sola pieza. Perfecto para quienes buscan estilo con un toque futurista y exclusivo.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Jet+2.JPG",
-                "price": 65000,
-                "disponibilidad": true
-            },
-            {
-                "id": "MTBJ103",
-                "name": "Montblanc",
-                "color": "Negro con detalles metálicos",
-                "description": "Un reloj con un diseño impactante y moderno, que combina geometría y elegancia en una sola pieza. Perfecto para quienes buscan estilo con un toque futurista y exclusivo.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Montblanc+Jet+3.JPG",
                 "price": 65000,
                 "disponibilidad": true
             }
@@ -1697,66 +1426,6 @@
     },
     {
         "Para parejas": [
-            {
-                "id": "RLXP101",
-                "name": "Rolex para pareja",
-                "color": "Plateado con detalles dorados",
-                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas.JPG",
-                "price": 150000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RLXP102",
-                "name": "Rolex para pareja",
-                "color": "Plateado con detalles dorados y carátula negra",
-                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+2.JPG",
-                "price": 150000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RLXP103",
-                "name": "Rolex para pareja",
-                "color": "Dorado con carátula plateada",
-                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+3.JPG",
-                "price": 150000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RLXP104",
-                "name": "Rolex para pareja",
-                "color": "Dorado con carátula negra",
-                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+4.JPG",
-                "price": 150000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RLXP105",
-                "name": "Rolex para pareja",
-                "color": "Plateado",
-                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+5.JPG",
-                "price": 150000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RLXP106",
-                "name": "Rolex para pareja",
-                "color": "Plateado con carátula negra",
-                "description": "Un elegante set de relojes diseñado para parejas que valoran el estilo atemporal y la sincronía en cada detalle. Inspirado en el icónico diseño del Rolex Datejust, este dúo combina sofisticación, funcionalidad y un acabado refinado que resalta en toda ocasión. Ideal como regalo o símbolo de conexión duradera.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+para+parejas+6.JPG",
-                "price": 150000,
-                "disponibilidad": false
-            },
             {
                 "id": "Q&QP101",
                 "name": "Q&Q para parejas",
