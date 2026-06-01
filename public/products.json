@@ -1272,17 +1272,17 @@
     {
         "Patek Philippe": [
             {
-                "id": "PTK101",
+                "id": "PTK104",
                 "name": "Patek Philippe",
                 "color": "Plateado con carátula azul",
                 "description": "",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Patek+Philippe+4.JPG",
-                "price": 100000,
+                "price": 10000900,
                 "disponibilidad": true
             },
             {
-                "id": "PTK102",
+                "id": "PTK105",
                 "name": "Patek Philippe",
                 "color": "Dorado con carátula verde",
                 "description": "",
@@ -1292,7 +1292,7 @@
                 "disponibilidad": true
             },
             {
-                "id": "PTK103",
+                "id": "PTK106",
                 "name": "Patek Philippe",
                 "color": "Plateado con carátula blanca",
                 "description": "",
@@ -1302,12 +1302,42 @@
                 "disponibilidad": true
             },
             {
-                "id": "PTK104",
+                "id": "PTK107",
                 "name": "Patek Philippe",
                 "color": "Dorado con carátula azul",
                 "description": "",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Patek+Philippe+7.JPG",
+                "price": 100000,
+                "disponibilidad": true
+            },
+            {
+                "id": "PTK101",
+                "name": "Patek Philippe",
+                "color": "Plateado con carátula negra",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Patek+Philippe+1.JPG",
+                "price": 100000,
+                "disponibilidad": true
+            },
+            {
+                "id": "PTK103",
+                "name": "Patek Philippe",
+                "color": "Plateado con carátula verde",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Patek+Philippe+3-1.JPG",
+                "price": 100000,
+                "disponibilidad": true
+            },
+            {
+                "id": "PTK108",
+                "name": "Patek Philippe",
+                "color": "Dorado",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Patek+Philippe+8.JPG",
                 "price": 100000,
                 "disponibilidad": true
             }
