@@ -448,203 +448,15 @@
         ]
     },
     {
-        "Orient": [
-            {
-                "id": "ORT101",
-                "name": "Orient",
-                "color": "Dorado con carátula verde",
-                "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+1.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "ORT103",
-                "name": "Orient",
-                "color": "Plateado con carátula negra",
-                "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+3.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "ORT104",
-                "name": "Orient",
-                "color": "Plateado con carátula negra y detalles dorados",
-                "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+4.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "ORT105",
-                "name": "Orient",
-                "color": "Plateado con detalles dorados y carátula verde",
-                "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+5.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "ORT106",
-                "name": "Orient",
-                "color": "Plateado con detalles dorados y carátula azul",
-                "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+6.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "ORT107",
-                "name": "Orient",
-                "color": "Dorado con carátula negra",
-                "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+7.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "ORT108",
-                "name": "Orient",
-                "color": "Plateado con carátula azul",
-                "description": "Diseño clásico con un toque de elegancia que nunca pasa de moda. Este reloj Orient combina resistencia, estilo y funcionalidad en una sola pieza.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+8.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            }
-        ]
-    },
-    {
-        "Q&Q" : [
-            {
-                "id": "Q&Q102",
-                "name": "Q&Q",
-                "color": "Dorado con carátula negra",
-                "description": "Este reloj Q&Q ofrece una propuesta sobria y refinada para quienes buscan estilo y funcionalidad. Su carátula minimalista con marcadores lineales y acabado metálico lo convierte en una pieza ideal para el uso diario o eventos formales. Combinando calidad y diseño, es una excelente opción para completar cualquier look.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+2.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "Q&Q106",
-                "name": "Q&Q",
-                "color": "Dorado con carátula plateada y detalles blancos",
-                "description": "Este reloj Q&Q ofrece una propuesta sobria y refinada para quienes buscan estilo y funcionalidad. Su carátula minimalista con marcadores lineales y acabado metálico lo convierte en una pieza ideal para el uso diario o eventos formales. Combinando calidad y diseño, es una excelente opción para completar cualquier look.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+6.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "Q&Q107",
-                "name": "Q&Q",
-                "color": "Plateado con detalles blancos",
-                "description": "Este reloj Q&Q ofrece una propuesta sobria y refinada para quienes buscan estilo y funcionalidad. Su carátula minimalista con marcadores lineales y acabado metálico lo convierte en una pieza ideal para el uso diario o eventos formales. Combinando calidad y diseño, es una excelente opción para completar cualquier look.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+7.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            }
-        ]
-    },
-    {
         "G-Force": [
-            {
-                "id": "GFRCC101",
-                "name": "G-FORCE Cronografo",
-                "color": "Negro con detalles metálicos",
-                "description": "Este reloj destaca por su forma geométrica moderna y su textura deportiva que le aporta un carácter imponente. Su caja angular con detalles metálicos ofrece una estética robusta y elegante a la vez.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+cronografo+1.JPG",
-                "price": 125000,
-                "disponibilidad": false
-            },
-            {
-                "id": "GFRCC102",
-                "name": "G-FORCE Cronografo",
-                "color": "Rojo con detalles en negro",
-                "description": "Este reloj destaca por su forma geométrica moderna y su textura deportiva que le aporta un carácter imponente. Su caja angular con detalles metálicos ofrece una estética robusta y elegante a la vez.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+cronografo+2.JPG",
-                "price": 125000,
-                "disponibilidad": false
-            },
-            {
-                "id": "GFRCC103",
-                "name": "G-FORCE Cronografo",
-                "color": "Negro con detalles en oro rosa",
-                "description": "Este reloj destaca por su forma geométrica moderna y su textura deportiva que le aporta un carácter imponente. Su caja angular con detalles metálicos ofrece una estética robusta y elegante a la vez.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+cronografo+3.JPG",
-                "price": 125000,
-                "disponibilidad": false
-            },
-            {
-                "id": "GFRCC104",
-                "name": "G-FORCE Cronografo",
-                "color": "Azul con detalles metálicos",
-                "description": "Este reloj destaca por su forma geométrica moderna y su textura deportiva que le aporta un carácter imponente. Su caja angular con detalles metálicos ofrece una estética robusta y elegante a la vez.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+cronografo+4.JPG",
-                "price": 125000,
-                "disponibilidad": false
-            },
             {
                 "id": "GFRCGP101",
                 "name": "G-FORCE GP",
                 "color": "Negro con detalles metálicos",
-                "description": "Diseño inspirado en la velocidad, este modelo G-Force GP combina fuerza, estilo deportivo y funcionalidad digital. Su presentación en caja con forma de casco lo convierte en una pieza única desde el primer vistazo. El dial cuenta con cronómetro, doble horario, alarma y luz, ideal para quienes buscan rendimiento y presencia en cada detalle.",
+                "description": "",
                 "presentacion": "Incluye estuche especial con forma de casco",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+gp+1.jpg",
                 "price": 160000,
-                "disponibilidad": true
-            },
-            {
-                "id": "GFRCRG101",
-                "name": "G-FORCE rin giratorio",
-                "color": "Negro con detalles plateados",
-                "description": "Este reloj fusiona el diseño automotriz con el estilo urbano. Su caja robusta y el detalle único del rin giratorio en la carátula lo convierten en una pieza que transmite velocidad, potencia y originalidad.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+rin+giratorio+1.JPG",
-                "price": 120000,
-                "disponibilidad": true
-            },
-            {
-                "id": "GFRCRG102",
-                "name": "G-FORCE rin giratorio",
-                "color": "Negro con detalles en rojo",
-                "description": "Este reloj fusiona el diseño automotriz con el estilo urbano. Su caja robusta y el detalle único del rin giratorio en la carátula lo convierten en una pieza que transmite velocidad, potencia y originalidad.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+rin+giratorio+2.JPG",
-                "price": 120000,
-                "disponibilidad": true
-            },
-            {
-                "id": "GFRCRG103",
-                "name": "G-FORCE rin giratorio",
-                "color": "Negro con detalles en verde",
-                "description": "Este reloj fusiona el diseño automotriz con el estilo urbano. Su caja robusta y el detalle único del rin giratorio en la carátula lo convierten en una pieza que transmite velocidad, potencia y originalidad.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+rin+giratorio+3.JPG",
-                "price": 120000,
-                "disponibilidad": true
-            },
-            {
-                "id": "GFRCRG104",
-                "name": "G-FORCE rin giratorio",
-                "color": "Negro con detalles en naranja",
-                "description": "Este reloj fusiona el diseño automotriz con el estilo urbano. Su caja robusta y el detalle único del rin giratorio en la carátula lo convierten en una pieza que transmite velocidad, potencia y originalidad.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+rin+giratorio+4.JPG",
-                "price": 120000,
                 "disponibilidad": true
             }
         ]
@@ -1334,7 +1146,7 @@
                 "id": "JFC101",
                 "name": "Joefox Comic",
                 "color": "Blanco con detalles en negro",
-                "description": "Este reloj luce como una ilustración sacada directamente de una historieta lo que lo convierte en una pieza ideal para quienes buscan destacar con un estilo creativo, moderno y atrevido. Perfecto para amantes del diseño gráfico, el arte urbano y la originalidad sin esfuerzo.",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Joefox+comic.jpg",
                 "price": 80000,
@@ -1344,7 +1156,7 @@
                 "id": "SCT101",
                 "name": "Scottie",
                 "color": "Negro con detalles dorados",
-                "description": "Este reloj Scottie presenta un diseño impactante y contemporáneo que combina funcionalidad y estética en una sola pieza. Su carátula exhibe una configuración analógica y digital con múltiples subesferas. Diseñado para quienes valoran los detalles audaces, este modelo ofrece una experiencia visual dinámica y una presencia imponente en la muñeca.",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Scottie.jpg",
                 "price": 110000,
