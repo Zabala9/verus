@@ -1094,36 +1094,6 @@
     {
         "SAINT": [
             {
-                "id": "SNT102",
-                "name": "Saint",
-                "color": "Dorado",
-                "description": "Un reloj versátil con estética deportiva y tecnología dual que combina visualización análoga y digital. Ideal para quienes buscan funcionalidad sin perder estilo.",
-                "presentacion":"Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+2.JPG",
-                "price": 95000,
-                "disponibilidad": true
-            },
-            {
-                "id": "SNT103",
-                "name": "Saint",
-                "color": "Plateado con bisel de color negro",
-                "description": "Un reloj versátil con estética deportiva y tecnología dual que combina visualización análoga y digital. Ideal para quienes buscan funcionalidad sin perder estilo.",
-                "presentacion":"Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+3.JPG",
-                "price": 95000,
-                "disponibilidad": true
-            },
-            {
-                "id": "SNT104",
-                "name": "Saint",
-                "color": "Plateado con bisel de color dorado",
-                "description": "Un reloj versátil con estética deportiva y tecnología dual que combina visualización análoga y digital. Ideal para quienes buscan funcionalidad sin perder estilo.",
-                "presentacion":"Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+4.JPG",
-                "price": 95000,
-                "disponibilidad": true
-            },
-            {
                 "id": "SNTX101",
                 "name": "Saint",
                 "color": "Negro con detalles dorados",
@@ -1134,13 +1104,23 @@
                 "disponibilidad": true
             },
             {
-                "id": "SNTX105",
+                "id": "SNTTC101",
                 "name": "Saint",
-                "color": "Negro con detalles rojos y plateados",
-                "description": "Un reloj de diseño robusto, ideal para quienes buscan estilo y funcionalidad en su día a día. El modelo combina hora análoga y digital, perfecto para quienes valoran la precisión y la versatilidad",
+                "color": "Plateado con carátula blanca",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+X+5-2.JPG",
-                "price": 80000,
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+3+circulos+1.JPG",
+                "price": 95000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SNTTC102",
+                "name": "Saint",
+                "color": "Plateado con detalles rojos y negros",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+3+circulos+2.JPG",
+                "price": 95000,
                 "disponibilidad": true
             }
         ]
