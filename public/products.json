@@ -1208,62 +1208,42 @@
     {
         "Richard Mille": [
             {
-                "id": "RCH101",
+                "id": "RCHTRP101",
                 "name": "Richard Mille",
                 "color": "Negro",
-                "description": "El lujo y la ingeniería se combinan en este impresionante reloj Richard Mille. Este modelo presenta una caja robusta de forma rectangular curva, tornillos visibles en el bisel, detalles deportivos y una carátula que deja al descubierto su sofisticado mecanismo interior.",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+mille.JPG",
-                "price": 90000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RCH102",
-                "name": "Richard Mille",
-                "color": "Plateado",
-                "description": "El lujo y la ingeniería se combinan en este impresionante reloj Richard Mille. Este modelo presenta una caja robusta de forma rectangular curva, tornillos visibles en el bisel, detalles deportivos en color rojo y una carátula que deja al descubierto su sofisticado mecanismo interior.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+mille+2.JPG",
-                "price": 90000,
-                "disponibilidad": false
-            },
-            {
-                "id": "RCH110",
-                "name": "Richard Mille",
-                "color": "Negro con detalles en oro rosa",
-                "description": "Este modelo presenta un trabajo artesanal excepcional, con una figura detallada que envuelve el mecanismo central y le da al reloj una identidad propia. La pieza combina una caja robusta con un acabado de textura profunda.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+10.JPG",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+caja+transparente.JPG",
                 "price": 80000,
                 "disponibilidad": true
             },
             {
-                "id": "RCH111",
+                "id": "RCH114",
                 "name": "Richard Mille",
-                "color": "Negro con detalles en  color oro",
-                "description": "Este modelo presenta un trabajo artesanal excepcional, con una figura detallada que envuelve el mecanismo central y le da al reloj una identidad propia. La pieza combina una caja robusta con un acabado de textura profunda.",
+                "color": "Negro con detalles en color azul",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+11.JPG",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+14.JPG",
                 "price": 80000,
                 "disponibilidad": true
             },
             {
-                "id": "RCH112",
+                "id": "RCH115",
                 "name": "Richard Mille",
-                "color": "Negro con detalles en blanco y oro rosa",
-                "description": "Este modelo presenta un trabajo artesanal excepcional, con una figura detallada que envuelve el mecanismo central y le da al reloj una identidad propia. La pieza combina una caja robusta con un acabado de textura profunda.",
+                "color": "Negro con detalles en color blanco",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+12.JPG",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+15.JPG",
                 "price": 80000,
                 "disponibilidad": true
             },
             {
-                "id": "RCH113",
+                "id": "RCH116",
                 "name": "Richard Mille",
-                "color": "Negro con detalles en blanco y color oro",
-                "description": "Este modelo presenta un trabajo artesanal excepcional, con una figura detallada que envuelve el mecanismo central y le da al reloj una identidad propia. La pieza combina una caja robusta con un acabado de textura profunda.",
+                "color": "Negro con detalles en color rojo",
+                "description": "",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+13.JPG",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Richard+Mille+16.JPG",
                 "price": 80000,
                 "disponibilidad": true
             }
