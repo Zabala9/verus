@@ -1,5 +1,39 @@
 [
     {
+        "Audemars Piguet": [
+            {
+                "id": "APPA101",
+                "name": "Audemars Piguet",
+                "color": "Dorado con carátula blanca",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/AP+1.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "APPA102",
+                "name": "Audemars Piguet",
+                "color": "Plateado",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/AP+2.JPG",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "APPG101",
+                "name": "Audemars Piguet",
+                "color": "Marron con caja color oro rosa",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/AP+pulso+goma+1.JPG",
+                "price": 130000,
+                "disponibilidad": true
+            }
+        ]
+    },
+    {
         "TechnoMarine": [
             {
                 "id": "TNMC101",
