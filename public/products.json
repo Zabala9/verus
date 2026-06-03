@@ -941,6 +941,26 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Marvel+spiderman+3.JPG",
                 "price": 70000,
                 "disponibilidad": true
+            },
+            {
+                "id": "TMH101",
+                "name": "Tommy Hilfiger",
+                "color": "Negro con carátula plateada",
+                "description": "https://relojes-s-l.s3.us-west-1.amazonaws.com/tommy+hilfiger+1.jpg",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "",
+                "price": 75000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TMH101",
+                "name": "Tommy Hilfiger",
+                "color": "Negro con carátula café",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/tommy+hilfiger+2.JPG",
+                "price": 75000,
+                "disponibilidad": true
             }
         ]
     }
