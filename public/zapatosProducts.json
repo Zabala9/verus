@@ -1,6 +1,6 @@
 [
     {
-        "Air Force 1": [
+        "Nike": [
             {
                 "id": "AF1C101",
                 "name": "Air Force 1",
@@ -39,6 +39,16 @@
                 "presentacion": "",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/ROPA/Nike+TN.jpg",
                 "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "NKMIND101",
+                "name": "Nike Mind",
+                "color": "Blanco Apricol",
+                "description": "Contraentrega a todo Colombia",
+                "presentacion": "",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/ROPA/Nike+Mind.JPG",
+                "price": 190000,
                 "disponibilidad": true
             }
         ]
