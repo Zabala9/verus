@@ -199,16 +199,7 @@
     },
     {
         "G-Force": [
-            {
-                "id": "GFRCGP101",
-                "name": "G-FORCE GP",
-                "color": "Negro con detalles metálicos",
-                "description": "",
-                "presentacion": "Incluye estuche especial con forma de casco",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/G+force+gp+1.jpg",
-                "price": 160000,
-                "disponibilidad": true
-            }
+            
         ]
     },
     {
@@ -635,26 +626,6 @@
                 "disponibilidad": true
             },
             {
-                "id": "CG101",
-                "name": "Cartier",
-                "color": "Correa negra con caja blanca y bisel dorado rosa",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "CG103",
-                "name": "Cartier",
-                "color": "Correa negra con caja blanca",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Cartier+correa+en+goma+3.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
                 "id": "CG105",
                 "name": "Cartier",
                 "color": "Negro con detalles en color dorado",
@@ -721,16 +692,6 @@
                 "description": "",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+cuadrado+1.JPG",
-                "price": 90000,
-                "disponibilidad": true
-            },
-            {
-                "id": "Q&QC102",
-                "name": "Q&Q",
-                "color": "Plateado con carátula en color amarillo",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+cuadrado+2.JPG",
                 "price": 90000,
                 "disponibilidad": true
             },
