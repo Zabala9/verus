@@ -146,6 +146,16 @@
                 
             },
             {
+                "id": "CUR8415103",
+                "name": "Curren 8415",
+                "color": "Negro con detalles verdes y rojos",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8415+3.jpg",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
                 "id": "CUR8455",
                 "name": "Curren 8455",
                 "color": "Negro con carátula azul aguamarina",
@@ -172,6 +182,16 @@
                 "description": "",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8459+4.jpg",
+                "price": 150000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR8329101",
+                "name": "Curren 8329",
+                "color": "Azul con detalles en color oro",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+8329+1.jpg",
                 "price": 150000,
                 "disponibilidad": true
             }
@@ -602,6 +622,16 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Versace+pm+2.JPG",
                 "price": 70000,
+                "disponibilidad": true
+            },
+            {
+                "id": "CUR9113101",
+                "name": "CURREN 9113",
+                "color": "Rosado con detalles en plateado",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9113+1.jpg",
+                "price": 150000,
                 "disponibilidad": true
             },
             {
