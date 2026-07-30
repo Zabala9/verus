@@ -790,16 +790,6 @@
                 "disponibilidad": true
             },
             {
-                "id": "ORTP101",
-                "name": "Orient Parejas",
-                "color": "Dorado con detalles negros",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/orient+parejas+1.JPG",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
                 "id": "GSHO101",
                 "name": "G Shock Parejas",
                 "color": "Negro con detalles en rojo",
