@@ -384,26 +384,6 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+X+1-2.JPG",
                 "price": 80000,
                 "disponibilidad": true
-            },
-            {
-                "id": "SNTTC101",
-                "name": "Saint",
-                "color": "Plateado con carátula blanca",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+3+circulos+1.JPG",
-                "price": 95000,
-                "disponibilidad": true
-            },
-            {
-                "id": "SNTTC102",
-                "name": "Saint",
-                "color": "Plateado con detalles rojos y negros",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+3+circulos+2.JPG",
-                "price": 95000,
-                "disponibilidad": true
             }
         ]
     },
@@ -460,7 +440,7 @@
                 "description": "",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Patek+Philippe+4.JPG",
-                "price": 10000900,
+                "price": 100000,
                 "disponibilidad": true
             },
             {
@@ -544,16 +524,6 @@
                 "description": "",
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+3.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "GSSC104",
-                "name": "Guess",
-                "color": "Blanco con detalles en oro rosa",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+cuadrado+4.JPG",
                 "price": 80000,
                 "disponibilidad": true
             }
@@ -684,18 +654,7 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9097+4.jpg",
                 "price": 130000,
                 "disponibilidad": true
-            },
-            {
-                "id": "Q&QC101",
-                "name": "Q&Q",
-                "color": "Plateado con carátula color tifanny",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/q%26q+cuadrado+1.JPG",
-                "price": 90000,
-                "disponibilidad": true
-            },
-            {
+            }{
                 "id": "GFRCLD101",
                 "name": "Lady G-Force",
                 "color": "Blanco con detalles en oro rosa",
@@ -764,16 +723,6 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/naviforce+2.jpg",
                 "price": 150000,
                 "disponibilidad": true
-            },
-            {
-                "id": "NVFRC101",
-                "name": "Naviforce",
-                "color": "Negro con detalles en oro rosa",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/naviforce+1.jpg",
-                "price": 150000,
-                "disponibilidad": true
             }
         ]
     },
@@ -813,16 +762,6 @@
     },
     {
         "Otras Marcas": [
-            {
-                "id": "HRL101",
-                "name": "Heryi Ruleta",
-                "color": "Negro",
-                "description": "Un diseño llamativo y único inspirado en las clásicas ruletas de casino.",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Heryi+ruleta.jpg",
-                "price": 85000,
-                "disponibilidad": true
-            },
             {
                 "id": "BVLR101",
                 "name": "Bvlgari",
