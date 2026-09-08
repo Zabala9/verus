@@ -265,16 +265,6 @@
                 "disponibilidad": true
             },
             {
-                "id": "RLXD104",
-                "name": "Rolex Daytona",
-                "color": "Plateado con carátula negra",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+4.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
                 "id": "RLXD105",
                 "name": "Rolex Daytona",
                 "color": "Negro con detalles dorados",
@@ -283,7 +273,8 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+5.jpg",
                 "price": 90000,
                 "disponibilidad": true
-            },{
+            },
+            {
                 "id": "RLXD106",
                 "name": "Rolex Daytona",
                 "color": "Negro con carátula plateada",
@@ -301,16 +292,6 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+7.JPG",
                 "price": 90000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXS101",
-                "name": "Rolex Submariner",
-                "color": "Plateado con carátula negra",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+1.JPG",
-                "price": 80000,
                 "disponibilidad": true
             },
             {
@@ -395,16 +376,7 @@
     },
     {
         "SAINT": [
-            {
-                "id": "SNTX101",
-                "name": "Saint",
-                "color": "Negro con detalles dorados",
-                "description": "Un reloj de diseño robusto, ideal para quienes buscan estilo y funcionalidad en su día a día. El modelo combina hora análoga y digital, perfecto para quienes valoran la precisión y la versatilidad",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+X+1-2.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            }
+            
         ]
     },
     {
@@ -527,26 +499,7 @@
     },
     {
         "Guess": [
-            {
-                "id": "GSSR102",
-                "name": "Guess",
-                "color": "Negro con detalles plateados",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+2.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "GSSR103",
-                "name": "Guess",
-                "color": "Negro con detalles en oro",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+3.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            }
+            
         ]
     },
     {
