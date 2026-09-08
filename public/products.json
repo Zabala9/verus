@@ -44,6 +44,26 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Technomarine+C+1.JPG",
                 "price": 85000,
                 "disponibilidad": true
+            },
+            {
+                "id": "TNMC102",
+                "name": "TechnoMarine",
+                "color": "Negro con detalles dorados",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Technomarine+CS+1.JPG",
+                "price": 85000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TNMC103",
+                "name": "TechnoMarine",
+                "color": "Negro",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Technomarine+CS+2.JPG",
+                "price": 85000,
+                "disponibilidad": true
             }
         ]
     },
@@ -656,13 +676,23 @@
                 "disponibilidad": true
             },
             {
-                "id": "GFRCLD101",
-                "name": "Lady G-Force",
-                "color": "Blanco con detalles en oro rosa",
+                "id": "MLCB101",
+                "name": "Mulco para Dama",
+                "color": "Rosado con detalles brillantes",
                 "description": "",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/lady+g+force+1.jpg",
-                "price": 120000,
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Mulco+1.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "MLCB102",
+                "name": "Mulco para Dama",
+                "color": "Azul cielo con detalles brillantes",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Mulco+2.JPG",
+                "price": 80000,
                 "disponibilidad": true
             },
             {
@@ -763,6 +793,26 @@
     },
     {
         "Otras Marcas": [
+            {
+                "id": "HBT101",
+                "name": "Hublot",
+                "color": "Negro con detalles en color oro",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+7.JPG",
+                "price": 85000,
+                "disponibilidad": true
+            },
+            {
+                "id": "HBT102",
+                "name": "Hublot",
+                "color": "Negro con detalles en cafe claro",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+6.JPG",
+                "price": 85000,
+                "disponibilidad": true
+            },
             {
                 "id": "BVLR101",
                 "name": "Bvlgari",
