@@ -44,6 +44,26 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Technomarine+C+1.JPG",
                 "price": 85000,
                 "disponibilidad": true
+            },
+            {
+                "id": "TNMC102",
+                "name": "TechnoMarine",
+                "color": "Negro con detalles dorados",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Technomarine+CS+1.JPG",
+                "price": 85000,
+                "disponibilidad": true
+            },
+            {
+                "id": "TNMC103",
+                "name": "TechnoMarine",
+                "color": "Negro",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Technomarine+CS+2.JPG",
+                "price": 85000,
+                "disponibilidad": true
             }
         ]
     },
@@ -245,16 +265,6 @@
                 "disponibilidad": true
             },
             {
-                "id": "RLXD104",
-                "name": "Rolex Daytona",
-                "color": "Plateado con carátula negra",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+4.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
                 "id": "RLXD105",
                 "name": "Rolex Daytona",
                 "color": "Negro con detalles dorados",
@@ -263,7 +273,8 @@
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+5.jpg",
                 "price": 90000,
                 "disponibilidad": true
-            },{
+            },
+            {
                 "id": "RLXD106",
                 "name": "Rolex Daytona",
                 "color": "Negro con carátula plateada",
@@ -281,16 +292,6 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+daytona+7.JPG",
                 "price": 90000,
-                "disponibilidad": true
-            },
-            {
-                "id": "RLXS101",
-                "name": "Rolex Submariner",
-                "color": "Plateado con carátula negra",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Rolex+submarine+1.JPG",
-                "price": 80000,
                 "disponibilidad": true
             },
             {
@@ -375,16 +376,7 @@
     },
     {
         "SAINT": [
-            {
-                "id": "SNTX101",
-                "name": "Saint",
-                "color": "Negro con detalles dorados",
-                "description": "Un reloj de diseño robusto, ideal para quienes buscan estilo y funcionalidad en su día a día. El modelo combina hora análoga y digital, perfecto para quienes valoran la precisión y la versatilidad",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+X+1-2.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            }
+            
         ]
     },
     {
@@ -507,26 +499,7 @@
     },
     {
         "Guess": [
-            {
-                "id": "GSSR102",
-                "name": "Guess",
-                "color": "Negro con detalles plateados",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+2.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            },
-            {
-                "id": "GSSR103",
-                "name": "Guess",
-                "color": "Negro con detalles en oro",
-                "description": "",
-                "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Guess+redondo+3.JPG",
-                "price": 80000,
-                "disponibilidad": true
-            }
+            
         ]
     },
     {
@@ -656,13 +629,23 @@
                 "disponibilidad": true
             },
             {
-                "id": "GFRCLD101",
-                "name": "Lady G-Force",
-                "color": "Blanco con detalles en oro rosa",
+                "id": "MLCB101",
+                "name": "Mulco para Dama",
+                "color": "Rosado con detalles brillantes",
                 "description": "",
                 "presentacion": "Incluye caja de presentación",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/lady+g+force+1.jpg",
-                "price": 120000,
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Mulco+1.JPG",
+                "price": 80000,
+                "disponibilidad": true
+            },
+            {
+                "id": "MLCB102",
+                "name": "Mulco para Dama",
+                "color": "Azul cielo con detalles brillantes",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Mulco+2.JPG",
+                "price": 80000,
                 "disponibilidad": true
             },
             {
@@ -763,6 +746,26 @@
     },
     {
         "Otras Marcas": [
+            {
+                "id": "HBT101",
+                "name": "Hublot",
+                "color": "Negro con detalles en color oro",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+7.JPG",
+                "price": 85000,
+                "disponibilidad": true
+            },
+            {
+                "id": "HBT102",
+                "name": "Hublot",
+                "color": "Negro con detalles en cafe claro",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Hublot+6.JPG",
+                "price": 85000,
+                "disponibilidad": true
+            },
             {
                 "id": "BVLR101",
                 "name": "Bvlgari",
