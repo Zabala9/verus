@@ -77,6 +77,9 @@ function ZapatosPage() {
             <div className="filter-container">
                 <button id="button-filtrar-por-marca" onClick={() => setShowDropdown(prev => !prev)}>
                     Filtrar por marca
+                    <span className={`arrow ${showDropdown ? "open" : ""}`}>
+                        ▼
+                    </span>
                 </button>
 
                 {showDropdown && (
@@ -119,6 +122,7 @@ function ZapatosPage() {
                         <div key={`${product.id}-${index}`} className="product-card-ropa-page">
                             <img id="img-product-card-zapatos-page" src={product.imgUrl} alt=""></img>
                             <span id="product-name-zapatos-page">{product.name}</span>
+                            <label id="label-ver-producto">VER PRODUCTO</label>
                         </div>
                     </Link>
                 ))}

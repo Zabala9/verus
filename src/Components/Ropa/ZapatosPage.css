@@ -19,15 +19,25 @@
 }
 
 #img-product-card-zapatos-page{
-    width: 180px;
+    width: 150px;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
 }
 
 #product-name-zapatos-page{
-    color: rgb(241, 178, 96);
+    color: black;
     font-weight: bold;
     word-wrap: break-word;
     max-width: 150px;
+}
+
+.product-card-ropa-page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(255, 243, 235);
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 3px;
 }
