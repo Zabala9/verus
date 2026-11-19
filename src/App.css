@@ -1,7 +1,7 @@
 html, body{
     margin: 0;
     padding: 0;
-    background-color: black;
+    background-color: #EDE5D8;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
