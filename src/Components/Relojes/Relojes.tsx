@@ -124,6 +124,9 @@ function Relojes() {
             <div className="filter-container">
                 <button id="button-filtrar-por-marca" onClick={() => setShowDropdown(prev => !prev)}>
                     Filtrar por marca
+                    <span className={`arrow ${showDropdown ? "open" : ""}`}>
+                        ▼
+                    </span>
                 </button>
 
                 {showDropdown && (

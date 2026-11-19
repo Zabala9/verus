@@ -11,17 +11,27 @@ label{
     flex-direction: column;
     align-items: center;
     text-align: center;
-    /* background-color: green; */
+}
+
+.arrow{
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 14px;
+    transition: transform 0.3s ease;
+}
+
+.arrow.open{
+    transform: rotate(180deg);
 }
 
 #button-filtrar-por-marca{
     font-size: 20px;
-    background-color: rgb(238, 238, 224);
+    background-color: #604E44;
     border: 1px solid black;
     border-radius: 4px;
     padding: 5px 10px;
     margin-bottom: 20px;
-    color: black;
+    color: #FFFFFF;
 }
 
 #button-filtrar-por-marca:visited{
@@ -29,16 +39,32 @@ label{
 }
 
 .dropdown-menu{
-    width: 90%;
-    /* background-color: green; */
+    width: 70%;
+    background-color: #604E44;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    border-radius: 4px;
+    padding: 10px 15px;
+}
+
+.dropdown-item{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: white;
+    /* white-space: nowrap; */
+}
+
+.dropdown-item input{
+    margin: 0;
+    accent-color: #B89B72;
 }
 
 #label-brands-filter{
-    /* background-color: white; */
-    font-size: 21px;
-    /* color: black; */
-    margin: 6px;
-    /* padding: 5px 10px; */
+    font-size: 17px;
+    margin: 4px;
 }
 
 .container-imagenes-relojes-page{
@@ -49,15 +75,16 @@ label{
     margin-top: 2rem;
     padding: 5px;
     text-align: center;
-    /* background-color: green; */
-    /* width: 75%; */
 }
 
 .product-card-relojes{
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* background-color: green; */
+    background-color: white;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 3px;
 }
 
 #img-product-card-relojes {
@@ -66,15 +93,11 @@ label{
     height: auto;
     object-fit: cover;
     border-radius: 5px;
-    /* background-color: green; */
 }
 
 #product-name-relojes{
-    /* color: rgb(238, 238, 224); */
-    color: rgb(241, 178, 96);
+    color: black;
     font-weight: bold;
     word-wrap: break-word;
-    /* background-color: green; */
-    /* height: 50px; */
     max-width: 130px;
 }
