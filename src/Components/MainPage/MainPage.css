@@ -7,7 +7,7 @@ label{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
+    /* margin-top: 30px; */
 }
 
 .overlay-advertising {
@@ -29,7 +29,6 @@ label{
     max-width: 90%;
     max-height: 90%;
     max-height: 100vh;
-    /* overflow: hidden; */
     border-radius: 8px;
 }
 
@@ -47,7 +46,7 @@ label{
     z-index: 3;
 }
 
-#label-introduction{
+/* #label-introduction{
     font-size: 35px;
     display: flex;
     flex-direction: column;
@@ -56,12 +55,10 @@ label{
     margin-top: 30px;
     width: 80%;
     color: rgb(238, 238, 224);
-    /* color: rgb(241, 178, 96); */
-}
+} */
 
-#button-explorar{
+/* #button-explorar{
     background-color: rgb(238, 238, 224);
-    /* background-color: rgb(241, 178, 96); */
     border: 1px solid black;
     border-radius: 5px;
     font-size: 15px;
@@ -70,11 +67,10 @@ label{
     font-weight: 550;
     text-decoration: none;
     color: black;
-}
+} */
 
-#button-ver-mas{
+/* #button-ver-mas{
     background-color: rgb(238, 238, 224);
-    /* background-color: rgb(241, 178, 96); */
     border: 1px solid black;
     border-radius: 5px;
     font-size: 15px;
@@ -84,20 +80,19 @@ label{
     text-decoration: none;
     color: black;
     margin-bottom: 30px;
-}
+} */
 
-.container-imagenes-main-page{
-    display: flex;
-    justify-content: center;
+/* .container-imagenes-main-page{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
     gap: 1rem;
-    flex-wrap: wrap;
+    justify-items: center;
     margin-top: 50px;
     padding: 5px;
     text-align: center;
-}
+} */
 
 /* .container-imagenes-main-page button {
-    background-color: green;
     border: none;
 } */
 
@@ -121,7 +116,7 @@ label{
     max-width: 130px;
 } */
 
-#slider-image-main-page{
+/* #slider-image-main-page{
     height: 230px;
-    /* width: 200px; */
-}
+    width: 200px;
+} */
