@@ -169,6 +169,7 @@ function Relojes() {
                         <div key={`${product.id}-${index}`} className="product-card-relojes">
                             <img id="img-product-card-relojes" src={product.imgUrl} alt=""></img>
                             <label id="product-name-relojes">{product.name}</label>
+                            <label id="label-ver-producto">VER PRODUCTO</label>
                         </div>
                     </Link>
                 ))}
