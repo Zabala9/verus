@@ -47,6 +47,10 @@ function ProductDetail() {
         </div>
     )
 
+    const productUrl = window.location.href;
+    const message = `Hola, estoy interesado en este producto: ${product.name} ${productUrl}`;
+    const whatsappUrl = `https://wa.me/573132679419?text=${encodeURIComponent(message)}`;
+
     return (
         <div className="container-product-detail">
             <img id="img-product-detail" src={product.imgUrl} alt=""></img>
@@ -59,9 +63,8 @@ function ProductDetail() {
             <div className="container-contact-detail">
                 {
                     product.disponibilidad ? 
-                        <a id="link-to-whatsapp-product-detail" href="https://wa.me/573132679419/"
+                        <a id="link-to-whatsapp-product-detail" href={whatsappUrl}
                             target="_blank" rel="noopener noreferrer" >
-                            {/* <img id="logo-whatsapp" src={`${process.env.PUBLIC_URL}/Assets/logo-whatsapp.jpg`} alt="" ></img> */}
 
                             <span id="label-quiero">LO QUIERO</span>
                         </a>
