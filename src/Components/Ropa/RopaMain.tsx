@@ -40,11 +40,11 @@ function RopaMain() {
                 </img>
                 <span id="label-contraentrega">CONTRAENTREGA a TODO EL PAIS</span>
                 <Link id="link-to-zapatos-page" to="/zapatosverus"
-                    rel="noopener noreferrer" >Zapatos
+                    rel="noopener noreferrer" > VER ZAPATOS
                 </Link>
             </div>
 
-            <div>
+            {/* <div>
                 <img src={bannerImagesRopa[currentSlide]}
                     alt=""
                     id="slider-ropa"
@@ -55,7 +55,7 @@ function RopaMain() {
                     rel="noopener noreferrer" >
                     Ropa
                 </Link>
-            </div>
+            </div> */}
             {/* <div>
                 <span id="title-container-ropa">Air Force 1</span>
                 <img id="image-container-ropa" src="https://relojes-s-l.s3.us-west-1.amazonaws.com/ROPA/Nike+AF1.jpeg" alt=""></img>
