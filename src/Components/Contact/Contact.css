@@ -2,12 +2,12 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 50px;
+    margin-top: 12px;
     text-align: center;
 }
 
 #label-canales{
-    color: white;
+    color: black;
     font-weight: bold;
 }
 

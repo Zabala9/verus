@@ -9,7 +9,7 @@ html, body{
 
 a, a:visited{
     text-decoration: none;
-    color: rgb(241, 178, 96);
+    color: black;
 }
 
 #root{
