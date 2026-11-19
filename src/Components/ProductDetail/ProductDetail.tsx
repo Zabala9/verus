@@ -51,10 +51,10 @@ function ProductDetail() {
         <div className="container-product-detail">
             <img id="img-product-detail" src={product.imgUrl} alt=""></img>
             <h2 id="label-name-product-detail">{product.name}</h2>
-            <p id="label-description">{product.description}</p>
+            {/* <p id="label-description">{product.description}</p> */}
             <label id="label-color"><strong>Color:</strong> {product.color}</label>
-            <label>{product.presentacion}</label>
-            <p id="label-precio"><strong>Precio: </strong> ${product.price.toLocaleString()}</p>
+            <label id="label-presentacion">{product.presentacion}</label>
+            <p id="label-precio">Precio: <br></br> ${product.price.toLocaleString()}</p>
 
             <div className="container-contact-detail">
                 {

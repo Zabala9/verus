@@ -8,16 +8,24 @@
 }
 
 p {
-    color: white;
+    color: black;
 }
 
 #label-description, #label-color{
-    /* background-color: green; */
     width: 80%;
+    color: black;
+}
+
+#label-presentacion{
+    color: black;
 }
 
 #label-name-product-detail{
-    color: rgb(241, 178, 96);
+    color: black;
+}
+
+#label-precio{
+    font-weight: bold;
 }
 
 #img-product-detail{
@@ -29,7 +37,6 @@ p {
 .container-error-fetching-product{
     text-align: center;
     margin-top: 150px;
-    /* background-color: green; */
 }
 
 #label-error-fetching-product{
@@ -37,7 +44,6 @@ p {
 }
 
 #button-go-back-main{
-    /* margin-top: 200px; */
     background-color: rgb(238, 238, 224);
     padding: 5px 10px;
     border: 1px solid black;
@@ -50,7 +56,7 @@ p {
 }
 
 #link-to-whatsapp-product-detail{
-    background-color: rgb(238, 238, 224);
+    background-color: #604E44;
     border: 1px solid black;
     border-radius: 5px;
     font-size: 15px;
@@ -62,17 +68,17 @@ p {
 }
 
 #label-quiero{
-    color: black;
+    background-color: #604E44;
+    color: white;
 }
 
 #label-no-disponible{
-    color: white;
+    color: black;
     background-color: none;
 }
 
 #explorar-mas{
     background-color: rgb(238, 238, 224);
-    /* background-color: rgb(241, 178, 96); */
     border: 1px solid black;
     border-radius: 5px;
     font-size: 15px;
