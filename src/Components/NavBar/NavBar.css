@@ -2,7 +2,7 @@
     position: sticky;
     top: 0;
     z-index: 9999;
-    background-color: black;
+    background-color: #EDE5D8;
     height: 7vh;
     display: flex;
     justify-content: space-evenly;
@@ -18,7 +18,7 @@
 
 #label-inicio, #label-relojes,
 #label-ropa, #label-contacto{
-    color: rgb(238, 238, 224);
+    color: black;
     font-size: 13px;
     text-decoration: none;
 }
@@ -32,7 +32,7 @@
 }
 
 #label-name{
-    color: rgb(241, 178, 96);
+    color: black;
     font-weight: bold;
     font-size: 30px;
     text-decoration: none;
