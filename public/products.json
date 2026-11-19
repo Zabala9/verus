@@ -70,6 +70,16 @@
     {
         "Casio": [
             {
+                "id": "CS101",
+                "name": "Casio",
+                "color": "Plateado con detalles en negro y verde",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/casio+rlx+1.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
                 "id": "CSG101",
                 "name": "Casio G-Shock",
                 "color": "Plateado con carátula negra",
@@ -376,7 +386,76 @@
     },
     {
         "SAINT": [
-            
+            {
+                "id": "SNTAP101",
+                "name": "Saint",
+                "color": "Plateado con carátula azul",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+AP+1.JPG",
+                "price": 110000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SNTAP102",
+                "name": "Saint",
+                "color": "Plateado",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+AP+2.JPG",
+                "price": 110000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SNTAC101",
+                "name": "Saint",
+                "color": "Plateado con detalles en negro",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+Arco+1.JPG",
+                "price": 95000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SNTAC102",
+                "name": "Saint",
+                "color": "Plateado con detalles dorados",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+Arco+2.JPG",
+                "price": 95000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SNTAC103",
+                "name": "Saint",
+                "color": "Plateado con detalles en rojo",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+Arco+3.JPG",
+                "price": 95000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SNTSAC101",
+                "name": "Saint",
+                "color": "Plateado con detalles en negro",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+Semi+arco+1.JPG",
+                "price": 95000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SNTAC102",
+                "name": "Saint",
+                "color": "Plateado con detalles en negro y azul",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+Semi+arco+2.JPG",
+                "price": 95000,
+                "disponibilidad": true
+            }
         ]
     },
     {
@@ -626,6 +705,26 @@
                 "presentacion": "Incluye caja de presentación",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Curren+9097+4.jpg",
                 "price": 130000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SNTDMA101",
+                "name": "Saint para Dama",
+                "color": "Negro con dorado",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+1.JPG",
+                "price": 90000,
+                "disponibilidad": true
+            },
+            {
+                "id": "SNTDMA101",
+                "name": "Saint para Dama",
+                "color": "Negro con dorado",
+                "description": "",
+                "presentacion": "Incluye caja de presentación",
+                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/Saint+2.JPG",
+                "price": 100000,
                 "disponibilidad": true
             },
             {
