@@ -7,7 +7,7 @@
 }
 
 #label-canales{
-    color: black;
+    color: #D98545;
     font-weight: bold;
 }
 
@@ -24,4 +24,5 @@
 
 #label-whatsapp, #label-instragram, #link-to-tiktok{
     font-weight: bold;
+    color: #D98545;
 }
