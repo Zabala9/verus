@@ -2,16 +2,6 @@
     {
         "Nike": [
             {
-                "id": "AF1C101",
-                "name": "Air Force 1",
-                "color": "Blanco",
-                "description": "",
-                "presentacion": "",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/ROPA/Nike+AF1.jpeg",
-                "price": 140000,
-                "disponibilidad": true
-            },
-            {
                 "id": "AF1CB101",
                 "name": "Air Force 1 x BAPE",
                 "color": "Blanco con detalles en verde",
@@ -28,16 +18,6 @@
                 "description": "Air Force 1 colaboracion con BAPE",
                 "presentacion": "",
                 "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/ROPA/Air+Force+1+x+Bape+azul.jpg",
-                "price": 150000,
-                "disponibilidad": true
-            },
-            {
-                "id": "NKATN101",
-                "name": "Nike Air TN",
-                "color": "Negro",
-                "description": "Contraentrega a todo Colombia",
-                "presentacion": "",
-                "imgUrl": "https://relojes-s-l.s3.us-west-1.amazonaws.com/ROPA/Nike+TN.jpg",
                 "price": 150000,
                 "disponibilidad": true
             },
