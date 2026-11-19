@@ -28,6 +28,7 @@ footer{
 #label-copy, #label-derechos{
     font-style: italic;
     font-size: 10px;
+    color: black;
 }
 
 #label-derechos{
